@@ -19,7 +19,7 @@ borderline: true
 
 **Verdict.** A borderline 7.0. On TR this is closer to the S5 2B Band 6 script (uneven coverage) than to the S8 7.5 essay: the position is clear, but the second question is answered with a bare list, and the essay drifts into tax policy. Language is at the S10 Band 7 level. engnovate's TR 8 overlooks that the "which jobs" part is not developed.
 
-- **Task Response:** You agree clearly, but the support is over-generalised ("famous people essentially produce nothing of value"). The second question gets only a list of jobs with no reason for any of them, so the parts are covered unevenly (TR 6).
+- **Task Response:** You agree clearly, but the support is over-generalized ("famous people essentially produce nothing of value"). The second question gets only a list of jobs with no reason for any of them, so the parts are covered unevenly (TR 6).
 - **Coherence & Cohesion:** The paragraphing is logical. However, "First and foremost" introduces the *opposing* argument, so for a moment the reader cannot tell whose view paragraph 2 gives.
 - **Lexical Resource:** Some good topic items ("live paycheck to paycheck", "keep the lights on"). There are 3 spelling errors (ultimatelly, govenment, exaclty) and a word-form error ("electrics"), and the stock phrase "bears little resemblance to the vibrant society" does not fit here.
 - **Grammatical Range & Accuracy:** 6 of 11 sentences (55%) are error-free, and most complex sentences (cleft "it is regular workers that…", while-clauses, participle clauses) are controlled. Articles are the one recurring error type ("capitalistic, profit-centric model", "improving safety net", "in a contemporary world"), which GRA 7 tolerates.

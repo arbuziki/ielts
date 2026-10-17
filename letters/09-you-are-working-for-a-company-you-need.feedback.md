@@ -17,7 +17,7 @@ borderline: true
 | engnovate | 9.0 | 8.0 | 8.0 | 6.0 | 8.0 |
 | Claude (official descriptors) | 7 | 8 | 7 | 7 | 7.5 |
 
-**Verdict.** An accurate, well-organised request in the S5 Band 7 range, and above it on cohesion. It falls short of the S9 Band 9 model on three points: the reason is vague, the length of the absence is only implied, and an article error recurs. engnovate scores it 0.5 higher because its TA 9 overlooks these gaps.
+**Verdict.** An accurate, well-organized request in the S5 Band 7 range, and above it on cohesion. It falls short of the S9 Band 9 model on three points: the reason is vague, the length of the absence is only implied, and an article error recurs. engnovate scores it 0.5 higher because its TA 9 overlooks these gaps.
 
 - **Task Achievement:** The purpose is clear, and bullets 2–3 are specific (the 6 pm flight, leaving at 3 pm, evening coding work, the meeting moved to Monday). Bullet 1 is generic ("one of my close relatives", no condition named), and the full amount of time is never stated, so it could be extended. The closing is misspelt.
 - **Coherence & Cohesion:** The letter is followed with ease. Each paragraph has one function, and reference ("the situation", "my request") links them smoothly.

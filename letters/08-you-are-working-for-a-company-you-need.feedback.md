@@ -25,7 +25,7 @@ borderline: false
 - **Grammatical Range & Accuracy:** 6 of 9 sentences are error-free. The errors are an article, a tense and a verb pattern.
 
 **Key corrections**
-- "Hello Dear Manager," → "Dear Ms Smith," (letter format; use your manager's name)
+- "Hello Dear Manager," → "Dear Ms. Smith," (letter format; use your manager's name)
 - "on the next Friday" → "next Friday" (no article)
 - "I was putting off filling my tooth cavity" → "I have been putting off having a cavity filled" (tense; causative)
 - "In conjunction with the travel time, I estimate to be absent for 3 hours in total." → "Including travel time, I expect to be away for about three hours." (verb pattern; linker)

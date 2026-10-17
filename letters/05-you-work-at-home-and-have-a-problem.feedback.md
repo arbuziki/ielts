@@ -30,6 +30,6 @@ borderline: false
 - "a couple days ago" → "a couple of days ago" (standard written form)
 - "immensely unfortunate" → "particularly unfortunate" (collocation)
 - "In case of failing to reach an agreement" → "If we cannot reach an agreement" (natural conditional)
-- "Faithfully yours," → "Yours faithfully," (sign-off convention)
+- "Faithfully yours," → "Sincerely," (sign-off convention)
 
-**To reach Band 9:** Quantify the damage in bullet 2 (e.g. "my server has been offline for two days and three clients have cancelled"). Remove the four slips above so the lexis is as clean as the grammar.
+**To reach Band 9:** Quantify the damage in bullet 2 (e.g. "my server has been offline for two days and three clients have canceled"). Remove the four slips above so the lexis is as clean as the grammar.

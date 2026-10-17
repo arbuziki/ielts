@@ -26,7 +26,7 @@ borderline: true
 
 **Key corrections**
 - "congrat you with a very brave decision" → "say what a great idea it is" — wrong verb form and preposition, and the friend has only asked for advice
-- "a sole weekend hiking trip" → "your first camping holiday" — word choice, and it matches the task
+- "a sole weekend hiking trip" → "your first camping trip" — word choice, and it matches the task
 - "totally bugged down in my backlog" → "totally bogged down with work" — idiom
 - "reaching the deadline in a very important project" → "approaching the deadline on a big project" — preposition
 - "set up a camp" → "set up camp" — fixed phrase

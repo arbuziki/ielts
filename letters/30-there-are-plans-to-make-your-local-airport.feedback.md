@@ -30,4 +30,4 @@ borderline: true
 - "would violate the safe levels, approved by the regulatory institutions" → "would exceed the safe limits set by the authorities" — collocation and comma
 - "building another airport in another remote part of the city" → "building a new airport in a more remote area" — repetition
 
-**To reach Band 8:** Give the problem bullet concrete effects, such as flights over your house every few minutes at night, children unable to sleep, or a 40-minute queue to reach the motorway. Vary the references to "the expansion".
+**To reach Band 8:** Give the problem bullet concrete effects, such as flights over your house every few minutes at night, children unable to sleep, or a 40-minute wait in traffic to reach the highway. Vary the references to "the expansion".

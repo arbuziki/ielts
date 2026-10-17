@@ -19,7 +19,7 @@ borderline: false
 
 **Verdict.** This sits at the S10 Band 7 level. The position is clear and held throughout, but the ideas are asserted rather than shown, and the counter-argument gets only three sentences. It falls short of S8 7.5, which hedges its claims carefully; this essay opens with an overstatement ("the overwhelming majority of the population is shopping online"). engnovate's 8s for TR and LR give credit to template polish ("anachronism", "I posit", "bestows upon") that doesn't make up for the general support.
 
-- **Task Response:** All main parts are covered and the position ("largely disappear… adapt or become extinct") is consistent. However, the first body point explains *why* online shopping grew rather than arguing that *all* shops will close, and no evidence is specific. That is the Band 7 "over-generalise" feature.
+- **Task Response:** All main parts are covered and the position ("largely disappear… adapt or become extinct") is consistent. However, the first body point explains *why* online shopping grew rather than arguing that *all* shops will close, and no evidence is specific. That is the Band 7 "over-generalize" feature.
 - **Coherence & Cohesion:** Four logical paragraphs with clear progression. "Second… As a result… Conversely" is serviceable, though the linking is somewhat mechanical.
 - **Lexical Resource:** There are good topic collocations ("sift through a vast amount of items", "place an order"). Against that: one spelling error and two word-form errors ("evolutional", "not viable"), and the intro frame is generic.
 - **Grammatical Range & Accuracy:** 6 of 11 sentences are error-free, with varied complex forms. Article and number errors recur ("an unprecedented convenience", "more advanced one").

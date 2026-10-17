@@ -28,6 +28,6 @@ borderline: true
 - "stark working" → "start working" — spelling, and it changes the meaning.
 - "I am affraid, it might still be difficult" → "I am afraid it might still be difficult" — spelling and comma.
 - "postpone my first workday for two weeks" → "postpone my start date by two weeks, to Monday 14th" — preposition, and give a specific date.
-- "Should I be granted this opportunity, I believe my expertise and technical skills will prove to be a significant asset to our team's productivity." → "I apologise for the inconvenience and will be happy to complete any onboarding reading in the meantime." — relevant, situation-specific close.
+- "Should I be granted this opportunity, I believe my expertise and technical skills will prove to be a significant asset to our team's productivity." → "I apologize for the inconvenience and will be happy to complete any onboarding reading in the meantime." — relevant, situation-specific close.
 
 **To reach Band 7.5+:** Make bullet 3 concrete (a date, a fallback such as starting part-time), and replace the stock closing with one sentence that fits this situation.

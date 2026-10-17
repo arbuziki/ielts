@@ -31,4 +31,4 @@ borderline: false
 - "as four-day work week bears little resemblance" → "as a four-day week looks like less effort"
 - "some of high-ranking executives cast a shadow of a doubt on the reseach" → "some senior executives cast doubt on the research"
 
-**To reach Band 7:** Add a sentence that answers the economic objection directly, so the "outweigh" judgement is earned. Stop using idioms you are not sure of; "cast doubt on" is enough.
+**To reach Band 7:** Add a sentence that answers the economic objection directly, so the "outweigh" judgment is earned. Stop using idioms you are not sure of; "cast doubt on" is enough.

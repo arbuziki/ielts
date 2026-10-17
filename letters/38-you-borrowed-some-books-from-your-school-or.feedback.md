@@ -29,6 +29,6 @@ borderline: true
 - "a close relative of mine is having a serious medical condition" → "has a serious medical condition" — stative verb.
 - "Having said that, my return is planned for" → "I plan to return on" — wrong linker.
 - "the prohibition of using the college library" → "a ban on using the library" — preposition and collocation.
-- "without the penalties?" → "without a penalty." — indirect questions end with a full stop.
+- "without the penalties?" → "without a penalty." — indirect questions end with a period.
 
 **To reach Band 7.5+:** Proofread specifically for prepositions and question marks, and add one or two concrete details (the book titles or the due date).

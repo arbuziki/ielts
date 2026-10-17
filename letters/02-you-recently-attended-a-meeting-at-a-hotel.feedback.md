@@ -32,4 +32,4 @@ borderline: false
 - "which unfortunately, I did not" → "which, unfortunately, I did not" (commas around the interrupter)
 - "the mentioned places" → "both of these places" (natural reference)
 
-**To reach Band 7:** Add 30–40 words of specifics: the meeting date, your room number, and what the folder looks like (colour, company logo). Close with your full name and a phone number.
+**To reach Band 7:** Add 30–40 words of specifics: the meeting date, your room number, and what the folder looks like (color, company logo). Close with your full name and a phone number.

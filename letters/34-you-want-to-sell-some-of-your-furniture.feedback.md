@@ -28,6 +28,6 @@ borderline: true
 - "sell out some of my most heavy stuff" → "sell off some of my heaviest stuff" — phrasal verb and superlative.
 - "genuene … rememeber … propably" → "genuine … remember … probably" — spelling.
 - "July, 15th" → "July 15th" — no comma.
-- "I just put up for sale my all-time favorite gaming chair" → "I've just put my all-time favourite gaming chair up for sale" — more natural word order.
+- "I just put up for sale my all-time favorite gaming chair" → "I've just put my all-time favorite gaming chair up for sale" — more natural word order.
 
 **To reach Band 9:** Remove the spelling slips (proofread for doubled or swapped letters), and either describe two items or say "selling my gaming chair" so the content matches.

@@ -17,7 +17,7 @@ borderline: true
 | engnovate | 7.0 | 8.0 | 8.0 | 7.0 | 7.5 |
 | Claude (official descriptors) | 7 | 8 | 7 | 7 | 7.5 |
 
-**Verdict.** This is above S5 1B Script D in organisation but similar in accuracy. It is well sequenced, with effective reference, but the bullets are only partly extended and there are three spelling or word-form errors. The overall band matches engnovate's, but LR is 7, not 8, because of the spelling.
+**Verdict.** This is above S5 1B Script D in organization but similar in accuracy. It is well sequenced, with effective reference, but the bullets are only partly extended and there are three spelling or word-form errors. The overall band matches engnovate's, but LR is 7, not 8, because of the spelling.
 
 - **Task Achievement:** All three bullets are present and the tone is consistently polite. "Who you are" is minimal (no name or how long you have shopped there), and the accident has no date, no description of the injury and no mention of the staff response. The prompt asked for "Dear Sir or Madam", not "Dear Manager" (Band 7).
 - **Coherence & Cohesion:** The progression from customer to flaw to incident to fix is logical and easy to follow, and "The flaw in question", "like the one that happened to me" and "such minor changes" are good substitution (Band 8).

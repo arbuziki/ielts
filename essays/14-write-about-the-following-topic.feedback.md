@@ -31,4 +31,4 @@ borderline: true
 - "offer the equal set of the merits and the demerits that in total even out each other" → "offer comparable advantages and disadvantages that balance each other out": articles and word order
 - "so that no general advice can be given" → "so no general advice can be given": "so that" expresses purpose
 
-**To reach Band 7.5:** State "the advantages roughly balance out" in the introduction and argue towards it. Make the conclusion one consistent sentence.
+**To reach Band 7.5:** State "the advantages roughly balance out" in the introduction and argue toward it. Make the conclusion one consistent sentence.

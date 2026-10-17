@@ -10,7 +10,7 @@ claude_mean: 6.00
 claude_band: 6.0
 borderline: false
 ---
-# Feedback — Letter 21: Broken rubbish collection system
+# Feedback — Letter 21: Broken garbage collection system
 
 | | TA | CC | LR | GRA | Band |
 |---|---|---|---|---|---|
@@ -26,7 +26,7 @@ borderline: false
 
 **Key corrections**
 - "Dear Minister" → "Dear Sir or Madam" — the letter goes to the local council
-- "new garbage compartment" → "the new bin enclosure" — the article is missing and the noun is wrong
+- "new garbage compartment" → "the new garbage enclosure" — the article is missing and the noun is wrong
 - "I also inquired the propery management company" → "I have also asked the property management company" — wrong verb pattern, tense and spelling
 - "conveniene" → "convenience" — spelling
 - "results in a frequent stench" → "causes a persistent stench" — collocation

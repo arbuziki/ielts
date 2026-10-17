@@ -19,7 +19,7 @@ borderline: true
 
 **Verdict.** This is the strongest content in the batch. Each bullet is illustrated with specifics (course modules, the professor, application steps), which goes beyond the S5 Band 7 anchors. Careless slips and comma splices keep GRA at 7, so the band is borderline 7.5/8.
 
-- **Task Achievement:** All three bullets are extended: attention, tokenization and backprop for the course; rarity and a renowned professor as the reason; and form, exam date and revision for applying. The friendly tone holds, though "provides an exhaustive analysis… delving deeply into the intricacies" reads like a brochure.
+- **Task Achievement:** All three bullets are extended: attention, tokenization and backprop for the course; rarity and a renowned professor as the reason; and form, exam date and review for applying. The friendly tone holds, though "provides an exhaustive analysis… delving deeply into the intricacies" reads like a brochure.
 - **Coherence & Cohesion:** The bullet 3 sequence ("First… After that") is clear and the reference is good ("This program", "it"). "Also, the professor…" is the one mechanical link.
 - **Lexical Resource:** "Dissect", "a handful of universities" and "opt for" are precise and natural. "Complited" is a misspelling. "Equip you with… hands-on experience" is imprecise because studying concepts is not hands-on.
 - **Grammatical Range & Accuracy:** 6 of 11 sentences are error-free. Comma splices recur ("This program is excellent, it provides"; "Good luck on the exam, I'll"), and there are typos ("I you happen", "the all the") and "You better". The repeated comma splices are a systematic error, which rules out 8.

@@ -19,7 +19,7 @@ borderline: false
 
 **Verdict.** The argument is sound and holds one position, but six spelling errors and several article and tense errors keep it well below the S8 7.5 essay, which had "rare" spelling errors. It is closest to the S7 6.5 essay: the argument is clear and the vocabulary ambitious, but word-level accuracy is not controlled.
 
-- **Task Response:** You weigh both sides and rebut the security risk with specific defences (two-factor authentication, face recognition). The position is clear and consistent, so TR is 7. At 252 words, each side gets only one idea.
+- **Task Response:** You weigh both sides and rebut the security risk with specific defenses (two-factor authentication, face recognition). The position is clear and consistent, so TR is 7. At 252 words, each side gets only one idea.
 - **Coherence & Cohesion:** The paragraphing is logical, but the linkers come from the stock chain ("First and foremost / As a matter of fact / On top of that"). Opening the *opposing* view with "First and foremost" is mechanical.
 - **Lexical Resource:** "Anachronism", "burgeoning" and "posit" come from your template, so they are not counted as range. The six spelling errors (indentity, threaths, Conversly, convinient, bestowes, superiour) plus "forefront technology" put LR at 6.
 - **Grammatical Range & Accuracy:** 4 of 9 sentences are error-free. Article errors recur ("such outcome", "individual's"), and there is a tense error after "once" and a pronoun error ("their offer").
@@ -27,7 +27,7 @@ borderline: false
 **Key corrections**
 - "this forefront technology" → "this cutting-edge technology". "Forefront" is a noun.
 - "therefore compromising the whole bank account" → "thereby compromising…". "Thereby" introduces a result phrase.
-- "jeopardize individual's entire life savings" → "jeopardise an individual's…". A singular countable noun needs an article.
+- "jeopardize individual's entire life savings" → "jeopardize an individual's…". A singular countable noun needs an article.
 - "the probability of such outcome" → "of such an outcome".
 - "once you linked your digital card…, you could easily scroll" → "once you have linked…, you can easily scroll"
 - "as their offer a superiour level" → "as they offer a superior level"

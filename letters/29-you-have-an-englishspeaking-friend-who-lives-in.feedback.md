@@ -17,7 +17,7 @@ borderline: true
 | engnovate | 8.0 | 8.0 | 8.0 | 7.0 | 8.0 |
 | Claude (official descriptors) | 7 | 8 | 7 | 7 | 7.5 |
 
-**Verdict.** The organisation is very good, but the content and lexis sit at the S5 1B Script D Band 7 level. The places bullet names two sights and develops only one, and two spelling errors plus some stiff phrasing keep LR at 7. Engnovate's 8 overlooks the spelling and register slips.
+**Verdict.** The organization is very good, but the content and lexis sit at the S5 1B Script D Band 7 level. The places bullet names two sights and develops only one, and two spelling errors plus some stiff phrasing keep LR at 7. Engnovate's 8 overlooks the spelling and register slips.
 
 - **Task Achievement:** The invitation has a personal reason (his love of Russian literature), and the weather bullet is adequate. Peterhof is only named, and the invitation has no practical detail such as dates or where he would stay. That is TA 7: "could be extended more fully". "Obtain the hands-on experience" and "cultural authenticity" are stiff for an informal letter.
 - **Coherence & Cohesion:** The letter is followed with ease. Substitution is varied ("the boy", "the kid", "your son"), and "Aside from the cultural life" is a smooth transition.

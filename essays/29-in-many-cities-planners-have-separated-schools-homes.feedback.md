@@ -32,4 +32,4 @@ borderline: false
 - "will result in lack of physical activity" → "will result in a lack of physical activity" (article)
 - "As some developers attempt" → "As some planners attempt" (the prompt's agent)
 
-**To reach Band 8:** Ground one disadvantage in a concrete case, such as a suburb where every school run needs a car. Vary sentence structure with some shorter sentences, a conditional or a fronted clause, instead of chaining "which… thereby".
+**To reach Band 8:** Ground one disadvantage in a concrete case, such as a suburb where every school drop-off needs a car. Vary sentence structure with some shorter sentences, a conditional or a fronted clause, instead of chaining "which… thereby".

@@ -57,7 +57,7 @@ Each piece has a `.feedback.md` file next to it. Numbered oldest first.
 
 ## Writing Task 2: essays
 
-42 pieces. Average: engnovate **7.40**, Claude **6.80**. Last 10: engnovate 7.60, Claude 6.80.
+43 pieces (01–42 from engnovate, 43 graded by Claude only). Average: engnovate **7.40** (01–42), Claude **6.80**. Last 10 (34–43): Claude 6.85.
 
 | # | engnovate | Claude | Words | Piece | Feedback |
 |---|---|---|---|---|---|
@@ -103,3 +103,4 @@ Each piece has a `.feedback.md` file next to it. Numbered oldest first.
 | 40 | 7.5 | 7.0 ≈ | 304 | [40-as-part-of-a-class-assignment-you-have.md](essays/40-as-part-of-a-class-assignment-you-have.md) | [feedback](essays/40-as-part-of-a-class-assignment-you-have.feedback.md) |
 | 41 | 7.5 | 7.0 | 333 | [41-as-part-of-a-class-assignment-you-have.md](essays/41-as-part-of-a-class-assignment-you-have.md) | [feedback](essays/41-as-part-of-a-class-assignment-you-have.feedback.md) |
 | 42 | 8.0 | 7.0 | 305 | [42-when-we-meet-someone-for-the-first-time.md](essays/42-when-we-meet-someone-for-the-first-time.md) | [feedback](essays/42-when-we-meet-someone-for-the-first-time.feedback.md) |
+| 43 | — | 7.0 | 314 | [43-in-many-countries-young-people-are-leaving-small.md](essays/43-in-many-countries-young-people-are-leaving-small.md) | [feedback](essays/43-in-many-countries-young-people-are-leaving-small.feedback.md) |

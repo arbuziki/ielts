@@ -17,7 +17,7 @@ borderline: false
 | engnovate | 6.0 | 7.0 | 7.0 | 6.0 | 6.5 |
 | Claude (official descriptors) | 5 | 6 | 7 | 6 | 6.0 |
 
-**Verdict.** The tone is lively and suitably informal, but the task coverage is well below the S5 1B Script D Band 7 letter. The third bullet never names a type of job, and the first bullet argues about debt in general rather than about why this friend would not enjoy college. On coverage it is closer to S5 1B Script B (5.5). engnovate scores it 0.5 higher because it does not penalise the unanswered bullet or the abrupt, conversational linking.
+**Verdict.** The tone is lively and suitably informal, but the task coverage is well below the S5 1B Script D Band 7 letter. The third bullet never names a type of job, and the first bullet argues about debt in general rather than about why this friend would not enjoy college. On coverage it is closer to S5 1B Script B (5.5). engnovate scores it 0.5 higher because it does not penalize the unanswered bullet or the abrupt, conversational linking.
 
 - **Task Achievement:** All bullets are touched, but "delve into these large language models" is not a suggested job (a bullet not adequately covered, so TA 5). The closing line "I was kicked out only once" is confusing and irrelevant.
 - **Coherence & Cohesion:** The paragraphs are mostly one or two sentences, and the jump to "I've been very fascinated with all this AI stuff" is abrupt. Linking relies on conversational markers ("Look", "Seriously", "So"), so progression is only generally clear.

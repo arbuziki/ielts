@@ -17,7 +17,7 @@ borderline: true
 | engnovate | 8.0 | 8.0 | 8.0 | 6.0 | 7.5 |
 | Claude (official descriptors) | 7 | 7 | 7 | 6 | 7.0 |
 
-**Verdict.** The letter is polite and well organised at around the S5 1B Script D Band 7 level. The final sentence says the opposite of what is meant ("this mishap did impede our ability to enjoy your hospitality"), and article and agreement errors recur. It is half a band below engnovate, whose TA and CC 8 overlook the reversed final message.
+**Verdict.** The letter is polite and well organized at around the S5 1B Script D Band 7 level. The final sentence says the opposite of what is meant ("this mishap did impede our ability to enjoy your hospitality"), and article and agreement errors recur. It is half a band below engnovate, whose TA and CC 8 overlook the reversed final message.
 
 - **Task Achievement:** All bullets are covered: the praise is specific (rooms, soundproofing, gym), the complaints are concrete (little choice, stale meals), and the suggestion is to change caterer. The suggestion is a single clause with no detail, and the closing contradicts the letter's intent. Bullets are clearly highlighted but could be more fully extended, so TA 7.
 - **Coherence & Cohesion:** The progression from praise to problem to cause to suggestion is clear. However, "Nonetheless" plus a missing *not* breaks the logic of the ending, and the "Having said that / Having looked into" openers are formulaic.

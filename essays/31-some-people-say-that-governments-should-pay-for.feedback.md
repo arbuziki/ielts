@@ -17,9 +17,9 @@ borderline: true
 | engnovate | 7.0 | 8.0 | 6.0 | 7.0 | 7.0 |
 | Claude (official descriptors) | 6 | 7 | 7 | 7 | 7.0 |
 
-**Verdict.** A borderline 7.0. The language is at the S10 Band 7 level, but TR is closer to S7 AC 2A Script B (Band 6.5): the structure is sound, but it generalises, and neither health care nor education is actually discussed. engnovate's TR 7 misses that the essay never engages with the two named services.
+**Verdict.** A borderline 7.0. The language is at the S10 Band 7 level, but TR is closer to S7 AC 2A Script B (Band 6.5): the structure is sound, but it generalizes, and neither health care nor education is actually discussed. engnovate's TR 7 misses that the essay never engages with the two named services.
 
-- **Task Response:** Both views and an opinion are present, but the support is abstract ("social services", "social safety net"). Education is never mentioned and health care appears once. Body 1 drifts into *how* to fund services (progressive tax, privatisation) rather than *why* government is responsible. The opposing view is reframed as "unaffordable" rather than "not their responsibility".
+- **Task Response:** Both views and an opinion are present, but the support is abstract ("social services", "social safety net"). Education is never mentioned and health care appears once. Body 1 drifts into *how* to fund services (progressive tax, privatization) rather than *why* government is responsible. The opposing view is reframed as "unaffordable" rather than "not their responsibility".
 - **Coherence & Cohesion:** Logical paragraphs and clear progression. "Consequent upon this" is a stilted linker, and "First and foremost, proponents" sequences a view rather than a point.
 - **Lexical Resource:** "progressive taxation" and "ageing population and a shrinking workforce" are accurate. There are four spelling errors ("bugdets", "govenment", "budged", "socail"), and "return these funds back" is redundant. The intro's "optimal balance… complex challenge" is a recycled frame and not counted as range. Four spelling errors is "a few" (LR max 7), and with little other imprecision that is LR 7.
 - **Grammatical Range & Accuracy:** 7 of 9 sentences are error-free, the most accurate essay in this batch. The errors are a comma splice before "therefore" and article slips ("in a form of").

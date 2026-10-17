@@ -22,7 +22,7 @@ borderline: false
 - **Task Achievement:** The correction (the outskirts are affected, the old town is not) and the request (a correction in the next issue, since a recall is not feasible) are both specific. Bullet 2 is one sentence long, and "Dear Manager" should be "Dear Editor". That is TA 7: "could be extended more fully".
 - **Coherence & Cohesion:** There are four logical paragraphs and good reference ("the magazine in question", "such misrepresentation"). "Given the importance of this situation" is a stock bridge that adds nothing.
 - **Lexical Resource:** "Recall the entire print run" and "undermine my city's attractiveness" are precise. "A fact of misinformation" (twice), "perennial urban construction", "urban sprawling" and "not sustainable" (meaning not feasible) are inappropriacies typical of LR 7.
-- **Grammatical Range & Accuracy:** 3 of 6 sentences are error-free. The range is good, but there is a dangling participle ("While acknowledging…, the old town remains…"), a missing article ("provide authentic experience") and a question that ends with a full stop.
+- **Grammatical Range & Accuracy:** 3 of 6 sentences are error-free. The range is good, but there is a dangling participle ("While acknowledging…, the old town remains…"), a missing article ("provide authentic experience") and a question that ends with a period.
 
 **Key corrections**
 - "Dear Manager" → "Dear Editor" — the recipient named in the task

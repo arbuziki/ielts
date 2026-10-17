@@ -31,4 +31,4 @@ borderline: false
 - "starting their studies at as young as six years old" → "starting at three or four, rather than waiting until six or seven". The age has to match your position.
 - "opposite gender interaction" → "interacting with both boys and girls"
 
-**To reach Band 7:** Replace "many studies have shown" with one concrete example (e.g. a reception-class child learning phonics or turn-taking). Write about 290 words so that each advantage is extended.
+**To reach Band 7:** Replace "many studies have shown" with one concrete example (e.g. a kindergarten child learning phonics or turn-taking). Write about 290 words so that each advantage is extended.

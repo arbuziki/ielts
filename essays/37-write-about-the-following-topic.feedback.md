@@ -29,6 +29,6 @@ borderline: false
 - "over-reliance on another companies" → "over-reliance on other companies"
 - "While the prices… are steadily plummeting" → "As prices… keep falling"
 - "despite unparalleled comfort that this approach bestows" → "despite the convenience this brings"
-- "the disadvantages will inevitably outweigh…" → summarise the causes and how widespread the trend is in your country
+- "the disadvantages will inevitably outweigh…" → summarize the causes and how widespread the trend is in your country
 
 **To reach Band 8:** Make the conclusion answer the two questions asked. Add a qualifier for "how far" (e.g. which groups still repair things).

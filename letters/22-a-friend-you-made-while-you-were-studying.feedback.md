@@ -20,13 +20,13 @@ borderline: false
 **Verdict.** This sits at the level of the S5 1A Script B Band 7 letter. The tone is right, the paragraphs are logical and the bullets are clearly highlighted, but two bullets are thin. Engnovate's TA 9 is too high because the job's actual duties are never described and the letter only just passes 150 words.
 
 - **Task Achievement:** The informal tone is consistent and the application bullet is well developed (the CV goes through your contact, so it skips screening). Bullet 1 describes the company's project, not what John would do. Bullet 2 gives a single example ("finding those backdoors"). That is TA 7: "could be extended more fully".
-- **Coherence & Cohesion:** There is one paragraph per bullet and some reference ("they", "that's exactly the position"). "As I remember… I remember" is repetitive, and a full stop is missing after "backdoors".
+- **Coherence & Cohesion:** There is one paragraph per bullet and some reference ("they", "that's exactly the position"). "As I remember… I remember" is repetitive, and a period is missing after "backdoors".
 - **Lexical Resource:** "Spare you some screening" is a natural phrase. "Set off to develop" (should be "set out"), "pass it over" (should be "pass it on") and "excessive screening" are imprecise.
 - **Grammatical Range & Accuracy:** 7 of 9 sentences are error-free. The errors are "a HR manager" and the unfinished sentence. The range is fairly simple: one relative clause and one conditional.
 
 **Key corrections**
 - "They set off to develop" → "They have set out to develop" — phrasal verb
-- "particularly good at finding those backdoors" → "…backdoors." — the sentence is missing its full stop
+- "particularly good at finding those backdoors" → "…backdoors." — the sentence is missing its period
 - "a HR manager" → "an HR manager" — use "an" before a vowel sound
 - "I'll pass it over to the manager" → "I'll pass it on to the manager" — phrasal verb
 - "some excessive screening" → "some of the initial screening" — imprecise

@@ -10,7 +10,7 @@ claude_mean: 6.75
 claude_band: 7.0
 borderline: true
 ---
-# Feedback — Letter 03: Saving the sports centre
+# Feedback — Letter 03: Saving the sports center
 
 | | TA | CC | LR | GRA | Band |
 |---|---|---|---|---|---|
@@ -25,7 +25,7 @@ borderline: true
 - **Grammatical Range & Accuracy:** 5 of 8 sentences are error-free. The participle clause ("Unable to access…") and the non-defining relative are controlled, but tenses drift.
 
 **Key corrections**
-- "your decision to close our local sports centre" → "your plan to close our local sports centre" (accuracy: it has not been decided)
+- "your decision to close our local sports centre" → "your plan to close our local sports center" (accuracy: it has not been decided)
 - "me and my frineds have been frequently visiting" → "my friends and I have been regularly visiting" (subject pronoun; spelling)
 - "people often used to visit the pool, while kids are enjoying the playgrounds" → "people often use the pool, while children enjoy the playgrounds" (consistent tense)
 - "return to sedentary lifestyle" → "return to a sedentary lifestyle" (article)

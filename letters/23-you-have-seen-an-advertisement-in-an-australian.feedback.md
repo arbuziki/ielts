@@ -17,7 +17,7 @@ borderline: true
 | engnovate | 8.0 | 7.0 | 7.0 | 7.0 | 7.5 |
 | Claude (official descriptors) | 6 | 6 | 7 | 6 | 6.5 |
 
-**Verdict.** Only bullet 2 reaches the S5 1B Script D Band 7 standard. Bullets 1 and 3 are thin, and bullet 3 is squeezed into a stock "Should I be granted…" sentence that does not fit. That puts the letter near Band 6, below engnovate's 7.5. Engnovate does not penalise the padded template or the faulty logic between clauses.
+**Verdict.** Only bullet 2 reaches the S5 1B Script D Band 7 standard. Bullets 1 and 3 are thin, and bullet 3 is squeezed into a stock "Should I be granted…" sentence that does not fit. That puts the letter near Band 6, below engnovate's 7.5. Engnovate does not penalize the padded template or the faulty logic between clauses.
 
 - **Task Achievement:** Bullet 2 (skills from raising siblings) is well extended. Bullet 1 gives one reason only, a wish to see Australia. Bullet 3 is a single clause ("venture off exploring the wilderness"), and calling that "mutually beneficial" makes no sense to the parents. The salutation "Dear Parents" is unnatural, and the contractions ("I've") are a minor tone slip.
 - **Coherence & Cohesion:** The linking is illogical: "While child-rearing has always been my strongest skill, I would like to… visit Australia" sets up a contrast that does not exist. The colon in paragraph 3 joins two unrelated ideas.
@@ -29,6 +29,6 @@ borderline: true
 - "take an opportunity" → "take the opportunity" — article
 - "I have an extensive experience" → "I have extensive experience" — "experience" is uncountable here
 - "apprear" → "appear" — spelling
-- "Dear Parents" → "Dear Mr and Mrs [surname]" / "Dear Sir or Madam" — salutation
+- "Dear Parents" → "Dear Mr. and Mrs. [surname]" / "Dear Sir or Madam" — salutation
 
 **To reach Band 7:** Drop the "Should I be granted…" frame. Give bullet 3 two or three concrete plans, such as weekend trips or a language class, and give bullet 1 a reason connected to the family or the child.

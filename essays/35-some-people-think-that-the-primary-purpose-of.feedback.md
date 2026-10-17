@@ -28,7 +28,7 @@ borderline: false
 - "becomes less interested in art, therefore the attendance… is plummeting" → "is becoming less interested in art; therefore, attendance… is falling"
 - "by alluring them with" → "by attracting them with". "Alluring" is an adjective.
 - "invoke genuine interest" → "spark/arouse genuine interest"
-- "opponents posit emphasize" → "opponents emphasise"
+- "opponents posit emphasize" → "opponents emphasize"
 - "the access to such important entities" → "access to such valuable works"
 
 **To reach Band 8:** Add one sentence rebutting the preservation argument (e.g. timed lighting or replicas protect originals). Then do a final check for "the" before general plural and uncountable nouns.

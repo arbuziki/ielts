@@ -31,4 +31,4 @@ borderline: false
 - "socially fitting adult individuals" → "socially well-adjusted adults"
 - "When it comes to me, I assume" → "Speaking for myself, I believe"
 
-**To reach Band 8:** Replace "many studies" with one concrete mechanism or example, such as classroom behaviour or the subject choices girls make in mixed schools. Cut the stock opening ("rapidly becoming an anachronism") and use the space to develop the single-sex argument fairly.
+**To reach Band 8:** Replace "many studies" with one concrete mechanism or example, such as classroom behavior or the subject choices girls make in mixed schools. Cut the stock opening ("rapidly becoming an anachronism") and use the space to develop the single-sex argument fairly.

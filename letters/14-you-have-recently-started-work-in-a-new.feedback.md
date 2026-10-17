@@ -17,7 +17,7 @@ borderline: true
 | engnovate | 9.0 | 9.0 | 8.0 | 7.0 | 8.5 |
 | Claude (official descriptors) | 6 | 7 | 7 | 7 | 7.0 |
 
-**Verdict.** The letter is lively and natural, with Band 7–8 language. However, the third bullet ("your other news") is answered with more job news, so it does not fully meet the task in the way the S9 model does. The 1.5-band gap with engnovate comes mainly from that bullet and from several lexical slips that engnovate did not penalise.
+**Verdict.** The letter is lively and natural, with Band 7–8 language. However, the third bullet ("your other news") is answered with more job news, so it does not fully meet the task in the way the S9 model does. The 1.5-band gap with engnovate comes mainly from that bullet and from several lexical slips that engnovate did not penalize.
 
 - **Task Achievement:** Bullets 1 and 2 are well extended (the passed-over promotion and glass ceiling; the cyber-security role and pay). Bullet 3 only says the company is hiring and asks for a CV, which continues bullet 2 rather than giving *other* news. That is "adequately" rather than "clearly" highlighted, so TA 6. The informal tone is consistent and well judged.
 - **Coherence & Cohesion:** The paragraphs map to the bullets and the conversational links work ("Look,", "But hey"). "First and foremost" opens the *second* point, which is a misused sequencer.
@@ -26,7 +26,7 @@ borderline: true
 
 **Key corrections**
 - "my previous employer skimped on my promotion" → "my previous employer kept passing me over for promotion" — collocation
-- "griding job interviews" → "gruelling job interviews" — word choice and spelling
+- "griding job interviews" → "grueling job interviews" — word choice and spelling
 - "negoctiate a generous compensation" → "negotiate a generous salary package" — spelling; *compensation* is uncountable
 - "like back in old good times" → "like in the good old days" — fixed phrase
 - "I'll pass it over to the manager" → "I'll pass it on to the manager" — phrasal verb

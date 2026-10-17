@@ -10,14 +10,14 @@ claude_mean: 6.50
 claude_band: 6.5
 borderline: false
 ---
-# Feedback — Letter 06: Job enquiry to businessman
+# Feedback — Letter 06: Job inquiry to businessman
 
 | | TA | CC | LR | GRA | Band |
 |---|---|---|---|---|---|
 | engnovate | 7.0 | 7.0 | 7.0 | 7.0 | 7.0 |
 | Claude (official descriptors) | 5 | 6 | 7 | 8 | 6.5 |
 
-**Verdict.** The vocabulary is rich, but on task this falls below the S5 Band 7 anchors. The letter never says what job you want (a manager role has to be inferred) and it gives no date for the flight. Contractions and exclamations also make it too chatty for a business contact. engnovate scores it 0.5 higher because it does not penalise the unanswered second bullet.
+**Verdict.** The vocabulary is rich, but on task this falls below the S5 Band 7 anchors. The letter never says what job you want (a manager role has to be inferred) and it gives no date for the flight. Contractions and exclamations also make it too chatty for a business contact. engnovate scores it 0.5 higher because it does not penalize the unanswered second bullet.
 
 - **Task Achievement:** Bullet 2 is not adequately covered because no job title or role is stated, which gives TA 5. Bullet 1 gives the place but not when you met. The tone wavers ("I'm", "Well,", "that cannot be a mere coincidence!") next to formal "Should I be granted".
 - **Coherence & Cohesion:** The first paragraph is one run-on sentence, and "Having said that" is misused (no contrast follows). Bullets 2 and 3 blur together. Progression is generally clear, but the cohesion is faulty.

@@ -28,7 +28,7 @@ borderline: true
 - "majority of population" → "majority of the population" — article
 - "in form of a rule of supply and demand" → "in the form of the law of supply and demand"
 - "drastically reduce the necessety in purely theoretical skills" → "have drastically reduced the need for purely theoretical knowledge"
-- "merely doesn't prioritize" → "simply does not prioritise"
+- "merely doesn't prioritize" → "simply does not prioritize"
 - "I don't have a firm stance on this issue." → "On balance, I partly agree: …" — give a position
 
-**To reach Band 7:** Answer the education question directly, for example with lab work, internships or project-based learning versus memorisation. Take a clear position, even a partial one, and keep it from the introduction to the conclusion.
+**To reach Band 7:** Answer the education question directly, for example with lab work, internships or project-based learning versus memorization. Take a clear position, even a partial one, and keep it from the introduction to the conclusion.

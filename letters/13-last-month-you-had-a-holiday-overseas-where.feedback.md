@@ -10,7 +10,7 @@ claude_mean: 7.0
 claude_band: 7.0
 borderline: false
 ---
-# Feedback — Letter 13: Thanks for holiday photos
+# Feedback — Letter 13: Thanks for vacation photos
 
 | | TA | CC | LR | GRA | Band |
 |---|---|---|---|---|---|
@@ -31,4 +31,4 @@ borderline: false
 - "But now, when I've got everything sorted out" → "Now that I've got everything sorted out" — connective
 - "atop of the hill overlooking the valey" → "on top of the hill overlooking the valley" — preposition and spelling
 
-**To reach Band 7.5+:** Fix comma splices by using a full stop, a dash or "and". Add one concrete invitation detail, such as dates or a trip you will take them on.
+**To reach Band 7.5+:** Fix comma splices by using a period, a dash or "and". Add one concrete invitation detail, such as dates or a trip you will take them on.
