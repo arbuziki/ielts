@@ -6,85 +6,85 @@
 ### Key terms
 | Chunk | Meaning | Example | Notes |
 |---|---|---|---|
-| juvenile delinquency | crime and bad behavior by young people | **Juvenile delinquency** often begins with missing school. | U · formal · person: *a juvenile delinquent* (C) |
-| a young offender | sb under 18 (or 21) who has committed a crime | **Young offenders** are usually kept apart from adult prisoners. | C · neutral · AmE legal: *a juvenile offender* |
-| peer pressure | influence from people of your own age | **Peer pressure** pushes many teenagers into crime. | U · neutral · NOT *a peer pressure* |
-| a gang | an organized group of young people involved in crime | He joined **a gang** at fourteen. | C · neutral · *join / leave a gang*; *gang violence* (U) |
-| antisocial behavior | behavior that harms or annoys other people | Graffiti and noise are common forms of **antisocial behavior**. | U · neutral · BrE spelling: *behaviour* |
-| shoplifting | stealing goods from a store | He was caught **shoplifting** at a supermarket. | U · neutral · person: *a shoplifter* (C) |
-| knife crime | crimes in which a knife is used | **Knife crime** among teenagers has become a major concern in London. | U · neutral, mainly BrE · NOT *a knife crime* when meaning the problem in general · the main US concern is *gun violence* |
-| a role model | a person others admire and copy | Teenagers need positive **role models**. | C · neutral |
-| early intervention | helping children at risk before problems grow | **Early intervention** is far cheaper than prison. | U · formal |
-| youth facilities | places such as clubs and sports centers for young people | Many towns have cut funding for **youth facilities**. | plural · neutral · *a youth center* (C) · BrE: *a youth club*, *sports centres* |
-| social deprivation | lack of money, jobs and services in an area | Crime is closely linked to **social deprivation**. | U · formal, more common in BrE · AmE often: *poverty and disadvantage* |
-| family breakdown | the collapse of a family through divorce or conflict | **Family breakdown** can leave children without guidance. | U · neutral |
+| juvenile delinquency | crime and bad behavior by young people | **Juvenile delinquency** is often thought to be linked to poverty, family breakdown and a lack of parental supervision. | U · formal · person: *a juvenile delinquent* (C) · Grammar: impersonal passive |
+| a young offender | sb under 18 (or 21) who has committed a crime | Were **a young offender** to receive mentoring instead of detention, they would be far less likely to reoffend. | C · neutral · AmE legal: *a juvenile offender* · Grammar: inversion conditional |
+| peer pressure | influence from people of your own age | No matter how strict their parents are, teenagers often find **peer pressure** hard to resist. | U · neutral · NOT *a peer pressure* · Grammar: no matter / however |
+| a gang | an organized group of young people involved in crime | Having joined **a gang** at thirteen, he was arrested for robbery before his sixteenth birthday. | C · neutral · *join / leave a gang*; *gang violence* (U) · Grammar: participle clause |
+| antisocial behavior | behavior that harms or annoys other people | The fewer youth facilities a town has, the more **antisocial behavior** residents tend to report. | U · neutral · BrE spelling: *behaviour* · Grammar: the more…, the more… |
+| shoplifting | stealing goods from a store | She was caught **shoplifting** at fourteen, which led her parents to seek help from a counselor. | U · neutral · person: *a shoplifter* (C) · Grammar: sentential relative |
+| knife crime | crimes in which a knife is used | Not only has **knife crime** risen in some cities, but the victims are also getting younger. | U · neutral, mainly BrE · NOT *a knife crime* when meaning the problem in general · the main US concern is *gun violence* · Grammar: negative inversion |
+| a role model | a person others admire and copy | Many teachers wish that every troubled teenager had **a** positive **role model** at home. | C · neutral · Grammar: unreal past |
+| early intervention | helping children at risk before problems grow | It is **early intervention**, not punishment, that keeps children at risk out of the criminal justice system. | U · formal · Grammar: cleft sentence |
+| youth facilities | places such as clubs and sports centers for young people | If the city had not closed its **youth facilities**, fewer teenagers would now be hanging around on the streets. | plural · neutral · *a youth center* (C) · BrE: *a youth club*, *sports centres* · Grammar: mixed conditional |
+| social deprivation | lack of money, jobs and services in an area | **Social deprivation** must be addressed if governments are serious about reducing youth crime. | U · formal, more common in BrE · AmE often: *poverty and disadvantage* · Grammar: modal passive |
+| family breakdown | the collapse of a family through divorce or conflict | While **family breakdown** can increase the risk of offending, most children of divorced parents never commit a crime. | U · neutral · Grammar: concession |
 
 ### Collocations
 | Chunk | Meaning | Example | Notes |
 |---|---|---|---|
-| turn to crime | start committing crimes | Some teenagers **turn to crime** out of boredom. | verb + to + noun · neutral |
-| get involved in crime | become part of criminal activity | Bored teenagers can easily **get involved in crime**. | neutral · NOT *involve in crime* |
-| fall under the influence of sb | start to be controlled by sb | He **fell under the influence of** older boys. | fixed · neutral |
-| a lack of opportunities | not enough chances for jobs, education, etc. | **A lack of opportunities** drives young people into gangs. | *a lack of* + U / plural noun · neutral |
-| a sense of belonging | the feeling of being accepted by a group | Gangs offer **a sense of belonging**. | singular with *a* · neutral |
-| parental supervision | parents watching over their children | Many young offenders grow up with little **parental supervision**. | U · formal |
-| tackle youth crime | make a determined effort to deal with youth crime | The city launched a program to **tackle youth crime**. | verb + noun · neutral · NOT *fight with youth crime* · AmE also: *combat / address youth crime* |
-| disadvantaged neighborhoods | poor areas lacking good housing, jobs and services | Youth crime is highest in **disadvantaged neighborhoods**. | plural · neutral · also *low-income neighborhoods* · BrE: *deprived areas* |
-| carry a knife | have a knife with you in public | Many teenagers say they **carry a knife** for protection. | verb + noun · neutral · NOT *wear a knife* · AmE also: *carry a gun* |
-| divert sb away from crime | redirect sb's energy so that they do not offend | Sports can **divert** teenagers **away from crime**. | verb + object + away from · formal |
-| be expelled from school | be officially and permanently sent away from a school as a punishment | Students who **are expelled from school** are more likely to offend. | passive · neutral · for a short period: *be suspended* · BrE: *be excluded* (noun: *exclusion*) |
+| turn to crime | start committing crimes | Some teenagers feel so hopeless about their future that they **turn to crime** to earn money. | verb + to + noun · neutral · Grammar: so/such… that |
+| get involved in crime | become part of criminal activity | With better support at school, he might never have **gotten involved in crime**. | neutral · NOT *involve in crime* · Grammar: modal perfect |
+| fall under the influence of sb | start to be controlled by sb | Many children **fall under the influence of** older gang members, thus losing touch with their families and schools. | fixed · neutral · Grammar: result clause with thereby/thus |
+| a lack of opportunities | not enough chances for jobs, education, etc. | Teenagers whose neighborhoods suffer from **a lack of opportunities** are more likely to drift into gangs. | *a lack of* + U / plural noun · neutral · Grammar: relative: whose / whereby / in which |
+| a sense of belonging | the feeling of being accepted by a group | What many gang members are really looking for is **a sense of belonging** that they cannot find at home. | singular with *a* · neutral · Grammar: cleft sentence |
+| parental supervision | parents watching over their children | If the boys had had more **parental supervision** as children, they would not now be facing criminal charges. | U · formal · Grammar: mixed conditional |
+| tackle youth crime | make a determined effort to deal with youth crime | Only by creating jobs and safe places to play can governments hope to **tackle youth crime** effectively. | verb + noun · neutral · NOT *fight with youth crime* · AmE also: *combat / address youth crime* · Grammar: negative inversion |
+| disadvantaged neighborhoods | poor areas lacking good housing, jobs and services | Children in **disadvantaged neighborhoods** are known to face a higher risk of becoming victims of violence. | plural · neutral · also *low-income neighborhoods* · BrE: *deprived areas* · Grammar: impersonal passive |
+| carry a knife | have a knife with you in public | Feeling unsafe on the way to school, many teenagers **carry a knife** for protection. | verb + noun · neutral · NOT *wear a knife* · AmE also: *carry a gun* · Grammar: participle clause |
+| divert sb away from crime | redirect sb's energy so that they do not offend | Sports clubs **divert** many teenagers **away from crime**, which saves the public far more than they cost. | verb + object + away from · formal · Grammar: sentential relative |
+| be expelled from school | be officially and permanently sent away from a school as a punishment | The earlier a child **is expelled from school**, the greater the risk of later offending. | passive · neutral · for a short period: *be suspended* · BrE: *be excluded* (noun: *exclusion*) · Grammar: the more…, the more… |
 
 ### Phrasal verbs
 | Chunk | Meaning | Example | Notes |
 |---|---|---|---|
-| hang around | spend time somewhere doing nothing | Teenagers **hang around** outside convenience stores in the evening. | intransitive · informal · AmE also: *hang out* |
-| fall in with sb | start spending time with (a bad) group | He **fell in with** older boys who sold drugs. | inseparable · neutral |
-| get into trouble | do sth that causes problems with authority | She **got into trouble** with the police at fifteen. | fixed, no article · neutral · NOT *get into a trouble* |
-| act out | behave badly because of emotional problems | Children who are neglected often **act out** at school. | intransitive · neutral |
-| look up to sb | admire and respect sb | Young boys often **look up to** gang leaders. | inseparable · neutral |
-| grow out of sth | stop doing sth as you get older | Most teenagers **grow out of** antisocial behavior. | inseparable · neutral |
-| egg sb on | encourage sb to do sth bad or risky | His friends **egged** him **on**. | separable (sb in the middle) · informal |
-| run away (from home) | leave home secretly | She **ran away from home** at fourteen. | intransitive · neutral · person: *a runaway* (C) |
+| hang around | spend time somewhere doing nothing | I wish my little brother didn't **hang around** the mall with those older kids every weekend. | intransitive · informal · AmE also: *hang out* · Grammar: unreal past |
+| fall in with sb | start spending time with (a bad) group | Had she not **fallen in with** an older crowd at sixteen, she would have finished high school. | inseparable · neutral · Grammar: inversion conditional |
+| get into trouble | do sth that causes problems with authority | He **got into trouble** so often that the school finally called in a social worker. | fixed, no article · neutral · NOT *get into a trouble* · Grammar: so/such… that |
+| act out | behave badly because of emotional problems | Much as teachers may want to punish children who **act out**, many of these kids are struggling with problems at home. | intransitive · neutral · Grammar: concession |
+| look up to sb | admire and respect sb | No matter what their parents say, young boys often **look up to** older gang members. | inseparable · neutral · Grammar: no matter / however |
+| grow out of sth | stop doing sth as you get older | Minor rule-breaking should not be punished too harshly, since most teenagers **grow out of** it. | inseparable · neutral · Grammar: modal passive |
+| egg sb on | encourage sb to do sth bad or risky | His friends must have **egged** him **on**, because he'd never have done something that stupid alone. | separable (sb in the middle) · informal · Grammar: modal perfect |
+| run away (from home) | leave home secretly | At fifteen, she **ran away from home**, thereby losing touch with her school and family. | intransitive · neutral · person: *a runaway* (C) · Grammar: result clause with thereby/thus |
 
 ### Fixed expressions & idioms
 | Chunk | Meaning | Example | Notes |
 |---|---|---|---|
-| the wrong crowd | a group of friends who are a bad influence | He started hanging out with **the wrong crowd**. | always *the* · neutral · *fall in with / get in with the wrong crowd* |
-| keep sb off the streets | give young people something to do so they stay out of trouble | Youth centers **keep** teenagers **off the streets**. | separable · neutral |
-| lead sb astray | encourage sb to behave badly | Older friends **led** him **astray**. | separable · neutral |
-| skip school | stay away from school without permission | He often **skipped school** to hang out with friends. | verb + noun, no article · neutral · informal: *cut class*, *play hooky* · BrE: *play truant* · noun: *truancy* (U) |
-| set a good example (for sb) | behave in a way others should copy | Parents must **set a good example** for their children. | neutral · NOT *give a good example* · BrE often: *set a good example to sb* |
-| nip sth in the bud | stop a problem at an early stage | Schools should **nip** bad behavior **in the bud**. | separable · neutral |
-| a cry for help | behavior that shows sb desperately needs help | His shoplifting may have been **a cry for help**. | C · neutral |
-| time on your hands | free time with nothing to do | Bored teenagers with **time on their hands** are easily led astray. | possessive changes · neutral |
+| the wrong crowd | a group of friends who are a bad influence | Social workers often meet teenagers whose problems began when they fell in with **the wrong crowd**. | always *the* · neutral · *fall in with / get in with the wrong crowd* · Grammar: relative: whose / whereby / in which |
+| keep sb off the streets | give young people something to do so they stay out of trouble | Late-night basketball programs are said to **keep** teenagers **off the streets** in many American cities. | separable · neutral · Grammar: impersonal passive |
+| lead sb astray | encourage sb to behave badly | Little do parents realize how easily older friends can **lead** their children **astray**. | separable · neutral · Grammar: negative inversion |
+| skip school | stay away from school without permission | If he had not **skipped school** so often, he would now have a diploma and a decent job. | verb + noun, no article · neutral · informal: *cut class*, *play hooky* · BrE: *play truant* · noun: *truancy* (U) · Grammar: mixed conditional |
+| set a good example (for sb) | behave in a way others should copy | What younger children need most is older siblings who **set a good example** for them. | neutral · NOT *give a good example* · BrE often: *set a good example to sb* · Grammar: cleft sentence |
+| nip sth in the bud | stop a problem at an early stage | Bullying and truancy must be **nipped in the bud** before they lead to more serious offending. | separable · neutral · Grammar: modal passive |
+| a cry for help | behavior that shows sb desperately needs help | Even though it looked like simple vandalism, his behavior was really **a cry for help**. | C · neutral · Grammar: concession |
+| time on your hands | free time with nothing to do | The more **time** teenagers have **on their hands**, the more likely they are to get into trouble. | possessive changes · neutral · Grammar: the more…, the more… |
 
 ### More terms
 | Chunk | Meaning | Example | Notes |
 |---|---|---|---|
-| juvenile court | a court that deals with crimes committed by young people | First-time offenders under 18 usually appear in **juvenile court**. | C/U · AmE · BrE: *youth court* |
-| a juvenile detention center | a secure place where young offenders are held | He spent six months in **a juvenile detention center**. | C · AmE · informal: *juvie* · BrE: *a young offender institution* |
-| at-risk youth | young people who are likely to get into trouble or drop out of school | The program offers mentoring to **at-risk youth**. | U (treated as plural) · AmE, neutral · also *at-risk teens* |
-| a troubled teen | a teenager with serious behavioral or emotional problems | **Troubled teens** need support, not just punishment. | C · neutral, AmE · also *troubled youth* |
-| a high school dropout | sb who leaves high school before finishing | **High school dropouts** are far more likely to end up in prison. | C · neutral · verb: *drop out of high school* |
-| gun violence | violent crime in which guns are used | **Gun violence** is a leading cause of death among American teenagers. | U · neutral · *reduce / prevent gun violence* |
-| gang culture | the values and lifestyle connected with gangs | Music videos are sometimes blamed for glamorizing **gang culture**. | U · neutral · BrE spelling: *glamorising* |
-| drug dealing | buying and selling illegal drugs | Some teenagers are drawn into **drug dealing** by the promise of easy money. | U · neutral · person: *a drug dealer* (C) |
-| underage drinking | drinking alcohol when you are below the legal age | **Underage drinking** often leads to fights and vandalism. | U · neutral · the legal drinking age in the US is 21 |
-| a broken home | a family in which the parents have separated or divorced | Children from **broken homes** are not automatically more likely to offend. | C · neutral · can sound judgmental; neutral: *a family that has split up* |
-| a single-parent household | a home where a child lives with only one parent | Many children in **single-parent households** do very well in school. | C · neutral · also *a single-parent family* |
-| parental responsibility | the legal and moral duties that parents have for their children | Some argue that **parental responsibility** should be enforced by law. | U · formal |
-| the age of criminal responsibility | the age at which a child can be charged with a crime | **The age of criminal responsibility** varies widely between countries. | singular, with *the* · formal |
-| be tried as an adult | (of a young person) be judged in an adult court | In some US states, a fourteen-year-old can **be tried as an adult**. | passive · neutral, AmE |
-| an after-school program | organized activities for children after school hours | **After-school programs** give kids a safe place to go. | C · AmE · BrE: *an after-school club* |
-| a mentoring program | a program in which an adult guides and supports a young person | **A mentoring program** paired each boy with a volunteer. | C · neutral · *a mentor* (C); verb: *mentor sb* |
-| a positive outlet | a healthy activity that lets sb use their energy or express feelings | Sports give teenagers **a positive outlet** for their energy. | C · neutral · *an outlet for sth* |
-| a bad influence (on sb) | a person who encourages others to behave badly | His parents thought his new friends were **a bad influence** on him. | C · neutral · opposite: *a good influence* |
-| impressionable | easily influenced by other people | **Impressionable** teenagers copy what they see online. | adj · neutral · *at an impressionable age* |
-| a vicious cycle | a situation in which one problem causes another, which makes the first worse | Poverty and crime can trap families in **a vicious cycle**. | C · neutral, AmE · BrE: *a vicious circle* |
-| rebel against sth | fight or refuse to obey authority | Many teenagers **rebel against** their parents' rules. | verb + prep · neutral · stress: *reBEL* (v), *REBel* (n) |
-| drift into crime | gradually start committing crimes without a clear decision | Without a job or school, he slowly **drifted into crime**. | verb + into · neutral · also *drift into gangs* |
-| get mixed up in sth | become involved in sth illegal or harmful | She **got mixed up in** selling stolen phones. | phrasal · informal–neutral |
-| get your act together | start behaving in a more responsible and organized way | He finally **got his act together** and found a job. | idiom · informal · possessive changes |
+| juvenile court | a court that deals with crimes committed by young people | His case was heard in **juvenile court**, which meant his name was kept out of the newspapers. | C/U · AmE · BrE: *youth court* · Grammar: sentential relative |
+| a juvenile detention center | a secure place where young offenders are held | Should the judge send him to **a juvenile detention center**, he would probably meet even more serious offenders there. | C · AmE · informal: *juvie* · BrE: *a young offender institution* · Grammar: inversion conditional |
+| at-risk youth | young people who are likely to get into trouble or drop out of school | The city funded weekend programs for **at-risk youth**, thus giving them safe places to spend their free time. | U (treated as plural) · AmE, neutral · also *at-risk teens* · Grammar: result clause with thereby/thus |
+| a troubled teen | a teenager with serious behavioral or emotional problems | Left alone most evenings while his mother worked two jobs, he gradually became **a troubled teen**. | C · neutral, AmE · also *troubled youth* · Grammar: participle clause |
+| a high school dropout | sb who leaves high school before finishing | Job prospects for **a high school dropout** are so poor that crime can seem like the only option. | C · neutral · verb: *drop out of high school* · Grammar: so/such… that |
+| gun violence | violent crime in which guns are used | It is widely accepted that **gun violence** hits young men in poor neighborhoods hardest. | U · neutral · *reduce / prevent gun violence* · Grammar: impersonal passive |
+| gang culture | the values and lifestyle connected with gangs | However much music videos glamorize it, **gang culture** usually ends in prison or an early death. | U · neutral · BrE spelling: *glamorising* · Grammar: no matter / however |
+| drug dealing | buying and selling illegal drugs | It is high time young people in poor areas had better ways to earn money than **drug dealing**. | U · neutral · person: *a drug dealer* (C) · Grammar: unreal past |
+| underage drinking | drinking alcohol when you are below the legal age | The store owner should have checked the boys' IDs, since **underage drinking** often leads to fights and vandalism. | U · neutral · the legal drinking age in the US is 21 · Grammar: modal perfect |
+| a broken home | a family in which the parents have separated or divorced | Despite growing up in **a broken home**, she became the first in her family to attend college. | C · neutral · can sound judgmental; neutral: *a family that has split up* · Grammar: concession |
+| a single-parent household | a home where a child lives with only one parent | If his father were more responsible, the boy would not have grown up in **a single-parent household**. | C · neutral · also *a single-parent family* · Grammar: mixed conditional |
+| parental responsibility | the legal and moral duties that parents have for their children | It is **parental responsibility**, not just school discipline, that shapes how children behave in public. | U · formal · Grammar: cleft sentence |
+| the age of criminal responsibility | the age at which a child can be charged with a crime | Seldom do politicians agree on what **the age of criminal responsibility** should be. | singular, with *the* · formal · Grammar: negative inversion |
+| be tried as an adult | (of a young person) be judged in an adult court | A fourteen-year-old should never **be tried as an adult**, since a child's brain is still developing. | passive · neutral, AmE · Grammar: modal passive |
+| an after-school program | organized activities for children after school hours | The town launched **an after-school program** whose volunteers help teenagers with homework and sports. | C · AmE · BrE: *an after-school club* · Grammar: relative: whose / whereby / in which |
+| a mentoring program | a program in which an adult guides and supports a young person | The longer teenagers stay in **a mentoring program**, the less likely they are to get into trouble. | C · neutral · *a mentor* (C); verb: *mentor sb* · Grammar: the more…, the more… |
+| a positive outlet | a healthy activity that lets sb use their energy or express feelings | Were schools to offer more sports and music, angry teenagers would have **a positive outlet** for their energy. | C · neutral · *an outlet for sth* · Grammar: inversion conditional |
+| a bad influence (on sb) | a person who encourages others to behave badly | His cousin turned out to be **a bad influence on** him, which his parents only realized after his arrest. | C · neutral · opposite: *a good influence* · Grammar: sentential relative |
+| impressionable | easily influenced by other people | Spending hours on social media, **impressionable** teenagers can easily come to see gang life as glamorous. | adj · neutral · *at an impressionable age* · Grammar: participle clause |
+| a vicious cycle | a situation in which one problem causes another, which makes the first worse | Schools often expel troubled students, thus creating **a vicious cycle** of failure, boredom and crime. | C · neutral, AmE · BrE: *a vicious circle* · Grammar: result clause with thereby/thus |
+| rebel against sth | fight or refuse to obey authority | Psychologists describe a stage in which teenagers **rebel against** authority and test every limit. | verb + prep · neutral · stress: *reBEL* (v), *REBel* (n) · Grammar: relative: whose / whereby / in which |
+| drift into crime | gradually start committing crimes without a clear decision | However bright they are, children without support at home can slowly **drift into crime**. | verb + into · neutral · also *drift into gangs* · Grammar: no matter / however |
+| get mixed up in sth | become involved in sth illegal or harmful | He can't have known what he was **getting mixed up in** when he started running errands for the gang. | phrasal · informal–neutral · Grammar: modal perfect |
+| get your act together | start behaving in a more responsible and organized way | My brother was so scared after his arrest that he finally **got his act together** and went back to school. | idiom · informal · possessive changes · Grammar: so/such… that |
 
 ## Text 1 — Problem and solution
 > In many countries, the number of crimes committed by teenagers is rising. What are the causes of this, and what solutions can you suggest?

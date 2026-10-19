@@ -6,85 +6,85 @@
 ### Key terms
 | Chunk | Meaning | Example | Notes |
 |---|---|---|---|
-| consumerism | a way of life focused on buying goods | Critics blame **consumerism** for rising waste. | U · neutral · no article |
-| materialism | believing that possessions matter most | **Materialism** rarely leads to lasting happiness. | U · neutral · adj: *materialistic* |
-| a status symbol | an item owned to show wealth or importance | For many teenagers, the latest phone is **a status symbol**. | C · neutral |
-| fast fashion | cheap clothes produced quickly to follow trends | **Fast fashion** encourages people to buy clothes they barely wear. | U · neutral · NOT *a fast fashion* |
-| an impulse buy | sth bought suddenly, without planning | The jacket was **an impulse buy** that I never wore. | C · neutral · also *impulse buying* (U) |
-| disposable income | money left after paying for essentials | Young professionals often have more **disposable income** than families. | U · neutral |
-| consumer debt | money people owe for things they have bought | **Consumer debt** has grown with the rise of online credit. | U · neutral |
-| a throwaway culture | a society that discards things quickly | We need to move away from **a throwaway culture** in which phones are replaced every year. | C (singular) · neutral |
-| a buy-now-pay-later plan | a service that lets you pay for a purchase in installments | **Buy-now-pay-later plans** make it easy to overspend. | C · neutral · hyphens before the noun · BrE: *scheme*; *instalments* |
-| minimalism | living with only the things you really need | **Minimalism** has become popular among young city dwellers. | U · neutral · person: *a minimalist* |
-| retail therapy | shopping to cheer yourself up | After a bad week, she turned to **retail therapy**. | U · informal-neutral |
-| clutter | lots of unnecessary things in a space | Their apartment was full of **clutter**. | U · NOT *clutters* · verb: *declutter* |
+| consumerism | a way of life focused on buying goods | **Consumerism** is widely believed to be responsible for the growing amount of household waste in landfills. | U · neutral · no article · Grammar: impersonal passive |
+| materialism | believing that possessions matter most | Rarely does **materialism** bring the kind of lasting satisfaction that advertisers promise their customers. | U · neutral · adj: *materialistic* · Grammar: negative inversion |
+| a status symbol | an item owned to show wealth or importance | For many teenagers, it is the latest phone, not a car, that serves as **a status symbol**. | C · neutral · Grammar: cleft sentence |
+| fast fashion | cheap clothes produced quickly to follow trends | **Fast fashion** keeps prices extremely low, thereby encouraging people to buy clothes they barely wear. | U · neutral · NOT *a fast fashion* · Grammar: result clause with thereby/thus |
+| an impulse buy | sth bought suddenly, without planning | I shouldn't have bought that jacket; it was **an impulse buy** that I've never even worn. | C · neutral · also *impulse buying* (U) · Grammar: modal perfect |
+| disposable income | money left after paying for essentials | The more **disposable income** young professionals have, the more they tend to spend on travel and gadgets. | U · neutral · Grammar: the more…, the more… |
+| consumer debt | money people owe for things they have bought | Driven by easy online credit, **consumer debt** has risen sharply in many wealthy countries. | U · neutral · Grammar: participle clause |
+| a throwaway culture | a society that discards things quickly | It's time we moved away from **a throwaway culture** and started repairing the things we already own. | C (singular) · neutral · Grammar: unreal past |
+| a buy-now-pay-later plan | a service that lets you pay for a purchase in installments | **Buy-now-pay-later plans** make spending so easy that many young shoppers lose track of what they owe. | C · neutral · hyphens before the noun · BrE: *scheme*; *instalments* · Grammar: so/such… that |
+| minimalism | living with only the things you really need | **Minimalism**, whose followers own only what they truly need, has become popular among young city dwellers. | U · neutral · person: *a minimalist* · Grammar: relative: whose / whereby / in which |
+| retail therapy | shopping to cheer yourself up | Even though I know it doesn't really work, I still turn to **retail therapy** after a bad week. | U · informal-neutral · Grammar: concession |
+| clutter | lots of unnecessary things in a space | Our apartment was full of **clutter**, which made it impossible to find anything when we needed it. | U · NOT *clutters* · verb: *declutter* · Grammar: sentential relative |
 
 ### Collocations
 | Chunk | Meaning | Example | Notes |
 |---|---|---|---|
-| material possessions | physical things that a person owns | **Material possessions** cannot replace friendship. | C, plural · neutral |
-| conspicuous consumption | buying expensive things to show off wealth | Luxury cars are a classic form of **conspicuous consumption**. | U · formal |
-| go on a shopping spree | spend a lot of money in one shopping trip | She **went on a shopping spree** after getting her bonus. | neutral · NOT *make a shopping spree* |
-| fuel demand for sth | make demand for sth grow | Social media **fuels demand for** designer goods. | neutral · also *fuel growth / inflation* · past: *fueled* (BrE: *fuelled*) |
-| peer pressure | influence from people of your own age or group | Teenagers face strong **peer pressure** to wear certain brands. | U · *face / give in to* peer pressure |
-| the latest gadgets | the newest electronic devices | Some people wait in line for days to get **the latest gadgets**. | C, plural · neutral · also *the latest trends* |
-| spending habits | the way sb usually spends money | The pandemic changed many people's **spending habits**. | C, plural · *change / curb* spending habits |
-| declutter your home | remove things you do not need from your home | It took me a month to **declutter my home**. | neutral |
-| bring lasting happiness | make sb happy for a long time | New possessions rarely **bring lasting happiness**. | neutral · also *bring satisfaction* |
-| buy sth on credit | buy sth and pay for it later | Many households **buy** furniture **on credit**. | neutral · NOT *buy in credit* |
-| long-lasting products | goods that are built to last a long time | Consumers should choose fewer, **long-lasting products**. | C, plural · neutral · also *products that are built to last* |
+| material possessions | physical things that a person owns | No matter how many **material possessions** people accumulate, they cannot replace close friendships. | C, plural · neutral · Grammar: no matter / however |
+| conspicuous consumption | buying expensive things to show off wealth | Luxury sports cars are often said to be the most obvious form of **conspicuous consumption**. | U · formal · Grammar: impersonal passive |
+| go on a shopping spree | spend a lot of money in one shopping trip | Having received her annual bonus, she **went on a shopping spree** at the most expensive mall in town. | neutral · NOT *make a shopping spree* · Grammar: participle clause |
+| fuel demand for sth | make demand for sth grow | Influencers show off designer goods every day, which **fuels demand for** luxury brands among teenagers. | neutral · also *fuel growth / inflation* · past: *fueled* (BrE: *fuelled*) · Grammar: sentential relative |
+| peer pressure | influence from people of your own age or group | Were schools to require uniforms, teenagers would face less **peer pressure** to wear expensive brands. | U · *face / give in to* peer pressure · Grammar: inversion conditional |
+| the latest gadgets | the newest electronic devices | If I hadn't bought **the latest gadgets** every year, I would now have far more money in savings. | C, plural · neutral · also *the latest trends* · Grammar: mixed conditional |
+| spending habits | the way sb usually spends money | Bad **spending habits** can be changed if people start recording every purchase they make. | C, plural · *change / curb* spending habits · Grammar: modal passive |
+| declutter your home | remove things you do not need from your home | The more ruthlessly you **declutter your home**, the less time you will spend cleaning and searching for things. | neutral · Grammar: the more…, the more… |
+| bring lasting happiness | make sb happy for a long time | While new possessions give us a brief thrill, they rarely **bring lasting happiness**. | neutral · also *bring satisfaction* · Grammar: concession |
+| buy sth on credit | buy sth and pay for it later | Were interest rates to rise sharply, households that **buy** furniture **on credit** would struggle with their repayments. | neutral · NOT *buy in credit* · Grammar: inversion conditional |
+| long-lasting products | goods that are built to last a long time | What consumers need to do is buy **long-lasting products** instead of cheap items that break after a few months. | C, plural · neutral · also *products that are built to last* · Grammar: cleft sentence |
 
 ### Phrasal verbs
 | Chunk | Meaning | Example | Notes |
 |---|---|---|---|
-| shell out (for sth) | pay a lot of money for sth, often unwillingly | I used to **shell out for** designer sneakers. | informal-neutral · BrE also: *splash out on sth* |
-| run up debts | owe more and more money | Students can easily **run up debts** on credit cards. | neutral · also *run up a bill* |
-| get rid of sth | throw away, sell or give away sth unwanted | I've **gotten rid of** half my wardrobe. | neutral · AmE past participle: *gotten* (BrE: *got*) · NOT *get rid from* |
-| give sth away | give sth to sb for free | We **gave away** most of our old toys. | separable · neutral |
-| cut down on sth | reduce the amount of sth | Everyone can **cut down on** unnecessary purchases. | inseparable · neutral |
-| end up with sth / doing sth | finally be in a situation you did not plan | Many shoppers **end up with** clothes they never wear. | neutral |
-| pay sth off | finish paying a debt | It took me a year to **pay off** my credit card. | separable · neutral |
-| throw sth away | put sth in the trash | Cheap clothes are often **thrown away** after being worn only a few times. | separable · neutral · also *throw sth out* · BrE: *put sth in the bin* |
-| do without sth | manage without having sth | It turns out I can **do without** most of my gadgets. | inseparable · neutral |
+| shell out (for sth) | pay a lot of money for sth, often unwillingly | I wish I hadn't **shelled out for** those designer sneakers; I've only worn them twice. | informal-neutral · BrE also: *splash out on sth* · Grammar: unreal past |
+| run up debts | owe more and more money | However careful they intend to be, students can easily **run up debts** on their first credit cards. | neutral · also *run up a bill* · Grammar: no matter / however |
+| get rid of sth | throw away, sell or give away sth unwanted | Having **gotten rid of** half my wardrobe, I now find it much easier to decide what to wear. | neutral · AmE past participle: *gotten* (BrE: *got*) · NOT *get rid from* · Grammar: participle clause |
+| give sth away | give sth to sb for free | We **gave away** most of our children's old toys, which freed up an entire room in the house. | separable · neutral · Grammar: sentential relative |
+| cut down on sth | reduce the amount of sth | Should everyone **cut down on** unnecessary purchases, the amount of waste sent to landfills would fall considerably. | inseparable · neutral · Grammar: inversion conditional |
+| end up with sth / doing sth | finally be in a situation you did not plan | Shoppers who buy fast fashion online are said to **end up with** dozens of items they never wear. | neutral · Grammar: impersonal passive |
+| pay sth off | finish paying a debt | I should have **paid off** my credit card sooner, because the interest cost me hundreds of dollars. | separable · neutral · Grammar: modal perfect |
+| throw sth away | put sth in the trash | Cheap clothes shouldn't be **thrown away** after a few wears; they could be donated or recycled instead. | separable · neutral · also *throw sth out* · BrE: *put sth in the bin* · Grammar: modal passive |
+| do without sth | manage without having sth | Only when I went camping for a week did I realize how many gadgets I could **do without**. | inseparable · neutral · Grammar: negative inversion |
 
 ### Fixed expressions & idioms
 | Chunk | Meaning | Example | Notes |
 |---|---|---|---|
-| keep up with the Joneses | try to own what your neighbors or friends own | Social media makes people feel they must **keep up with the Joneses**. | neutral · idiom |
-| live beyond your means | spend more money than you earn | Easy credit tempts people to **live beyond their means**. | neutral · opposite: *live within your means* |
-| less is more | simpler is often better | When it comes to my wardrobe, **less is more**. | neutral |
-| shop till you drop | shop for a very long time | Tourists come to the city to **shop till they drop**. | informal |
-| money can't buy happiness | wealth does not guarantee happiness | The old saying that **money can't buy happiness** is largely true. | neutral · proverb |
-| make ends meet | have just enough money to live on | Some families struggle to **make ends meet**. | neutral |
-| get carried away | become too excited and lose control | I **got** a little **carried away** during the holiday sales. | informal |
+| keep up with the Joneses | try to own what your neighbors or friends own | Social media has created a world in which people feel they must constantly **keep up with the Joneses**. | neutral · idiom · Grammar: relative: whose / whereby / in which |
+| live beyond your means | spend more money than you earn | Easy credit tempts people to **live beyond their means**, thereby trapping many families in long-term debt. | neutral · opposite: *live within your means* · Grammar: result clause with thereby/thus |
+| less is more | simpler is often better | What I've learned from minimalism is that, when it comes to my wardrobe, **less is more**. | neutral · Grammar: cleft sentence |
+| shop till you drop | shop for a very long time | The outlet mall is so huge that tourists can literally **shop till they drop**. | informal · Grammar: so/such… that |
+| money can't buy happiness | wealth does not guarantee happiness | It is often said that **money can't buy happiness**, yet financial security clearly matters to most people. | neutral · proverb · Grammar: impersonal passive |
+| make ends meet | have just enough money to live on | If the minimum wage were higher, these families would not have struggled to **make ends meet** last winter. | neutral · Grammar: mixed conditional |
+| get carried away | become too excited and lose control | I might have **gotten** a little **carried away** during the holiday sales; I bought four sweaters. | informal · Grammar: modal perfect |
 
 ### More terms
 | Chunk | Meaning | Example | Notes |
 |---|---|---|---|
-| overconsumption | buying and using more than is needed or sustainable | **Overconsumption** is putting huge pressure on the planet's resources. | U · neutral |
-| a consumer society | a society in which buying goods is central to people's lives | In **a consumer society**, people are often judged by what they own. | C · neutral |
-| instant gratification | getting what you want immediately | Online shopping offers **instant gratification** with a single click. | U · neutral-formal · opposite: *delayed gratification* |
-| buyer's remorse | regret after buying sth | Many people feel **buyer's remorse** after an expensive impulse purchase. | U · neutral |
-| a big-ticket item | an expensive purchase, such as a car or a TV | Sales of **big-ticket items** such as cars and appliances fall during a recession. | C · neutral · mainly AmE |
-| luxury goods | expensive, high-quality products | Demand for **luxury goods** keeps rising in Asia. | plural · neutral · also *a luxury brand* |
-| designer labels | expensive clothing brands made by famous designers | Teenagers feel pressure to wear **designer labels**. | C, plural · neutral · also *designer brands* |
-| a must-have item | sth that everyone feels they need to own | Each season, magazines promote a new **must-have item**. | C · informal-neutral · also *a must-have* |
-| planned obsolescence | designing products so that they soon become outdated or break | **Planned obsolescence** forces people to replace their phones every few years. | U · formal-neutral |
-| basic necessities | things people need to survive, such as food and housing | Many families struggle to afford **basic necessities**. | plural · neutral · also *the necessities of life* |
-| a shopaholic | sb who cannot stop shopping | She admits she was **a shopaholic** in her twenties. | C · informal |
-| a thrift store | a store that sells used goods, often for charity | I bought this coat at **a thrift store** for ten dollars. | C · AmE · BrE: *a charity shop* · also *a secondhand store* |
-| a garage sale | a sale of unwanted items held at sb's home | We sold most of our old furniture at **a garage sale**. | C · AmE · also *a yard sale* · BrE similar: *a car boot sale* |
-| buy secondhand | buy things that sb else has already owned | **Buying secondhand** saves money and reduces waste. | neutral · adj: *secondhand clothes* · NOT *buy second hands* |
-| stick to a budget | spend only the amount you have planned | It is hard to **stick to a budget** during the holidays. | neutral · also *set / draw up a budget* |
-| keep track of your spending | record and watch how much you spend | Apps make it easier to **keep track of your spending**. | neutral · *your / their / our* to fit the subject |
-| max out a credit card | use all the credit available on a card | He **maxed out** two **credit cards** in a single year. | informal-neutral · usually *max out* + card |
-| find fulfillment (in sth) | feel satisfied and happy with your life | Many people **find fulfillment in** experiences rather than things. | neutral · AmE spelling *fulfillment* (BrE: *fulfilment*) |
-| splurge (on sth) | spend a lot of money on sth you enjoy | We **splurged on** a nice dinner for our anniversary. | verb or noun (C) · informal-neutral · *a splurge* |
-| save up (for sth) | keep money over time in order to buy sth | Teenagers used to **save up for** months to buy a bike. | intransitive · neutral |
-| trade sth in (for sth) | give an old item as part of the payment for a new one | Many people **trade in** their old phone **for** the latest model. | separable · neutral · noun: *a trade-in* |
-| live paycheck to paycheck | spend all your income before the next payment arrives | Millions of workers **live paycheck to paycheck**. | neutral · AmE · BrE: *live hand to mouth* |
-| save for a rainy day | keep money for a time when you might need it | My parents taught me to **save for a rainy day**. | neutral · idiom |
-| make do (with sth) | manage with what you have, even if it is not ideal | Our grandparents learned to **make do with** very little. | neutral · NOT *make do of* |
+| overconsumption | buying and using more than is needed or sustainable | **Overconsumption** is draining the planet's natural resources, thus leaving future generations with fewer options. | U · neutral · Grammar: result clause with thereby/thus |
+| a consumer society | a society in which buying goods is central to people's lives | We live in **a consumer society** in which people are often judged by what they own. | C · neutral · Grammar: relative: whose / whereby / in which |
+| instant gratification | getting what you want immediately | Offering **instant gratification** with a single click, online stores make it harder for shoppers to resist temptation. | U · neutral-formal · opposite: *delayed gratification* · Grammar: participle clause |
+| buyer's remorse | regret after buying sth | I wish I'd waited a week, because I felt terrible **buyer's remorse** as soon as I got the TV home. | U · neutral · Grammar: unreal past |
+| a big-ticket item | an expensive purchase, such as a car or a TV | Sales of **big-ticket items** such as cars and refrigerators can be hit hard during a recession. | C · neutral · mainly AmE · Grammar: modal passive |
+| luxury goods | expensive, high-quality products | The richer the middle class becomes, the more it tends to spend on **luxury goods**. | plural · neutral · also *a luxury brand* · Grammar: the more…, the more… |
+| designer labels | expensive clothing brands made by famous designers | Despite having little money of their own, many teenagers feel pressure to wear **designer labels**. | C, plural · neutral · also *designer brands* · Grammar: concession |
+| a must-have item | sth that everyone feels they need to own | No matter how many clothes I own, there's always a new **must-have item** that magazines tell me I need. | C · informal-neutral · also *a must-have* · Grammar: no matter / however |
+| planned obsolescence | designing products so that they soon become outdated or break | Not only does **planned obsolescence** waste resources, but it also forces consumers to replace their phones every few years. | U · formal-neutral · Grammar: negative inversion |
+| basic necessities | things people need to survive, such as food and housing | If prices had not risen so quickly, fewer families would now be struggling to afford **basic necessities**. | plural · neutral · also *the necessities of life* · Grammar: mixed conditional |
+| a shopaholic | sb who cannot stop shopping | The reason I cut up my credit cards was that I'd become **a shopaholic** in my twenties. | C · informal · Grammar: cleft sentence |
+| a thrift store | a store that sells used goods, often for charity | The coat I found at **a thrift store** was in such good condition that it looked brand-new. | C · AmE · BrE: *a charity shop* · also *a secondhand store* · Grammar: so/such… that |
+| a garage sale | a sale of unwanted items held at sb's home | We sold most of our old furniture at **a garage sale**, which earned us enough money for a weekend away. | C · AmE · also *a yard sale* · BrE similar: *a car boot sale* · Grammar: sentential relative |
+| buy secondhand | buy things that sb else has already owned | Many families **buy secondhand**, thereby saving money and keeping usable goods out of landfills. | neutral · adj: *secondhand clothes* · NOT *buy second hands* · Grammar: result clause with thereby/thus |
+| stick to a budget | spend only the amount you have planned | However determined you are, it can be hard to **stick to a budget** during the holiday season. | neutral · also *set / draw up a budget* · Grammar: no matter / however |
+| keep track of your spending | record and watch how much you spend | Many banks now offer apps with which customers can easily **keep track of their spending** across all their accounts. | neutral · *your / their / our* to fit the subject · Grammar: relative: whose / whereby / in which |
+| max out a credit card | use all the credit available on a card | He was such a big spender that he **maxed out** two **credit cards** in a single year. | informal-neutral · usually *max out* + card · Grammar: so/such… that |
+| find fulfillment (in sth) | feel satisfied and happy with your life | The older people get, the more they tend to **find fulfillment in** experiences rather than possessions. | neutral · AmE spelling *fulfillment* (BrE: *fulfilment*) · Grammar: the more…, the more… |
+| splurge (on sth) | spend a lot of money on sth you enjoy | We probably shouldn't have **splurged on** such an expensive dinner, but it was our tenth anniversary. | verb or noun (C) · informal-neutral · *a splurge* · Grammar: modal perfect |
+| save up (for sth) | keep money over time in order to buy sth | Were teenagers encouraged to **save up for** the things they want, they would value them far more. | intransitive · neutral · Grammar: inversion conditional |
+| trade sth in (for sth) | give an old item as part of the payment for a new one | While their old phones still work perfectly, many people **trade** them **in for** the latest model every year. | separable · neutral · noun: *a trade-in* · Grammar: concession |
+| live paycheck to paycheck | spend all your income before the next payment arrives | Workers who **live paycheck to paycheck** should be given better access to affordable emergency loans. | neutral · AmE · BrE: *live hand to mouth* · Grammar: modal passive |
+| save for a rainy day | keep money for a time when you might need it | I wish I'd listened when my parents taught me to **save for a rainy day**. | neutral · idiom · Grammar: unreal past |
+| make do (with sth) | manage with what you have, even if it is not ideal | Seldom did our grandparents complain about having to **make do with** very little. | neutral · NOT *make do of* · Grammar: negative inversion |
 
 ## Text 1 — Two-part question
 > People today buy far more things than they actually need. Why is this the case, and is it a positive or negative development?

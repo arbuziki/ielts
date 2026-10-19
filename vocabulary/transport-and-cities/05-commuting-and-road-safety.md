@@ -6,84 +6,84 @@
 ### Key terms
 | Chunk | Meaning | Example | Notes |
 |---|---|---|---|
-| a commute | the regular trip to and from work | My daily **commute** takes an hour each way. | C · neutral · verb: commute; a commuter (C) |
-| the exurbs | the area beyond the suburbs where many commuters live | Home prices are lower in **the exurbs**. | plural, with "the" · neutral · an exurb (C) · BrE: the commuter belt |
-| a bedroom community | a town where many people live but do not work | **Bedroom communities** feel empty during the day. | C · neutral · also: a commuter town · BrE: a dormitory town |
-| remote work | working from home or away from the office | **Remote work** has cut many people's commute to zero. | U · neutral · also: working from home; hybrid work · BrE: remote working |
-| road safety | preventing accidents on the roads | Elementary schools teach children about **road safety**. | U · neutral · AmE also: traffic safety |
-| a traffic accident | a crash involving vehicles | He was badly injured in **a traffic accident**. | C · neutral · also: a car crash, a collision · BrE formal: a road traffic accident |
-| speeding | driving faster than the law allows | **Speeding** is a factor in many fatal crashes. | U · neutral · NOT a speeding |
-| drunk driving | driving after drinking alcohol | **Drunk driving** has become far less socially acceptable since the 1980s. | U · neutral · legal: driving under the influence (DUI) · BrE: drink-driving |
-| a speed limit | the maximum speed allowed on a road | In 2023 Wales lowered **the speed limit** on most residential roads to 20 mph. | C · neutral |
-| a speed camera | a camera that photographs vehicles going too fast | **Speed cameras** have made the intersection much safer. | C · neutral |
-| a crosswalk | a marked place where people can cross the road | There is no **crosswalk** near the school. | C · neutral · BrE: a pedestrian crossing / a zebra crossing |
-| a speed bump | a raised strip across a road that makes cars slow down | **Speed bumps** were installed outside the school. | C · neutral · also: a speed hump |
-| a near miss | a situation in which an accident almost happens | There have been several **near misses** this month. | C · neutral · pl: near misses |
-| an intersection | a place where two or more roads meet | **The intersection** has no traffic lights. | C · neutral · BrE: a junction |
+| a commute | the regular trip to and from work | The farther from the city you live, the longer your daily **commute** is likely to be. | C · neutral · verb: commute; a commuter (C) · Grammar: the more…, the more… |
+| the exurbs | the area beyond the suburbs where many commuters live | Were home prices downtown not so high, fewer families would move out to **the exurbs**. | plural, with "the" · neutral · an exurb (C) · BrE: the commuter belt · Grammar: inversion conditional |
+| a bedroom community | a town where many people live but do not work | Most residents commute to jobs in the city, which makes their town **a bedroom community** that feels empty during the day. | C · neutral · also: a commuter town · BrE: a dormitory town · Grammar: sentential relative |
+| remote work | working from home or away from the office | If the pandemic hadn't made **remote work** normal, millions of people would still be commuting five days a week. | U · neutral · also: working from home; hybrid work · BrE: remote working · Grammar: mixed conditional |
+| road safety | preventing accidents on the roads | Children should be taught about **road safety** in elementary school, long before they ride bikes alone. | U · neutral · AmE also: traffic safety · Grammar: modal passive |
+| a traffic accident | a crash involving vehicles | Thrown from his motorcycle, he was badly injured in **a traffic accident** on the highway. | C · neutral · also: a car crash, a collision · BrE formal: a road traffic accident · Grammar: participle clause |
+| speeding | driving faster than the law allows | **Speeding** is known to be a factor in many fatal crashes on rural roads. | U · neutral · NOT a speeding · Grammar: impersonal passive |
+| drunk driving | driving after drinking alcohol | Never has **drunk driving** been less socially acceptable than it is today, thanks to decades of campaigns. | U · neutral · legal: driving under the influence (DUI) · BrE: drink-driving · Grammar: negative inversion |
+| a speed limit | the maximum speed allowed on a road | In 2023, Wales lowered **the speed limit** on most residential roads to 20 mph, thereby making streets safer for children. | C · neutral · Grammar: result clause with thereby/thus |
+| a speed camera | a camera that photographs vehicles going too fast | **Speed cameras** have made the intersection so much safer that residents now let their children walk to school. | C · neutral · Grammar: so/such… that |
+| a crosswalk | a marked place where people can cross the road | It's high time the city painted **a crosswalk** near the school, because children cross there every morning. | C · neutral · BrE: a pedestrian crossing / a zebra crossing · Grammar: unreal past |
+| a speed bump | a raised strip across a road that makes cars slow down | Even though drivers complain about them, **speed bumps** outside the school have slowed traffic noticeably. | C · neutral · also: a speed hump · Grammar: concession |
+| a near miss | a situation in which an accident almost happens | There have been several **near misses** this month; someone could have been killed at that intersection. | C · neutral · pl: near misses · Grammar: modal perfect |
+| an intersection | a place where two or more roads meet | **The intersection**, at which five roads meet, has no traffic lights or crosswalks. | C · neutral · BrE: a junction · Grammar: relative: whose / whereby / in which |
 
 ### Collocations
 | Chunk | Meaning | Example | Notes |
 |---|---|---|---|
-| a grueling commute | a very long and tiring trip to work | **A grueling commute** leaves little time for exercise. | C · neutral · also: a long commute · BrE spelling: gruelling |
-| exceed the speed limit | drive faster than allowed | Drivers regularly **exceed the speed limit** on this road. | formal · neutral: break the speed limit · NOT overcome / pass the speed limit |
-| enforce the speed limit | make sure people obey the speed limit | Police rarely **enforce the speed limit** here. | formal · enforce + the law / rules |
-| traffic-calming measures | road features that make drivers slow down | **Traffic-calming measures** reduce speed on residential streets. | plural · formal |
-| cause an accident | make an accident happen | A moment's distraction can **cause an accident**. | verb + noun · neutral · NOT do / make an accident |
-| a fatal collision | a crash in which sb dies | The road has seen two **fatal collisions** in five years. | C · formal · also: a fatal accident |
-| lose concentration | stop paying attention | Tired drivers easily **lose concentration**. | neutral · also: lose focus · NOT lose attention |
-| take a toll on sb/sth | have a bad effect over a long time | Long commutes **take a toll on** mental health. | take a (heavy) toll on + noun · neutral |
-| flexible hours | working times that employees can partly choose | **Flexible hours** let staff avoid the rush. | plural · neutral · also: flextime (U) · BrE: flexible working hours |
-| peak times | the busiest periods of the day | Trains are packed at **peak times**. | plural · neutral · also: peak hours · adj: off-peak tickets |
-| quality of life | how good and comfortable a person's life is | Long commutes can damage **quality of life**. | U · neutral · but: a better / higher quality of life |
+| a grueling commute | a very long and tiring trip to work | No matter how much you enjoy your job, **a grueling commute** leaves little time for exercise or family. | C · neutral · also: a long commute · BrE spelling: gruelling · Grammar: no matter / however |
+| exceed the speed limit | drive faster than allowed | It is on this stretch of road that drivers most often **exceed the speed limit**. | formal · neutral: break the speed limit · NOT overcome / pass the speed limit · Grammar: cleft sentence |
+| enforce the speed limit | make sure people obey the speed limit | Were the police to **enforce the speed limit** more strictly, this road would see far fewer crashes. | formal · enforce + the law / rules · Grammar: inversion conditional |
+| traffic-calming measures | road features that make drivers slow down | The city introduced **traffic-calming measures** on residential streets, which has reduced speeds and made walking safer. | plural · formal · Grammar: sentential relative |
+| cause an accident | make an accident happen | If he hadn't **caused an accident** while texting, he would still have his driver's license. | verb + noun · neutral · NOT do / make an accident · Grammar: mixed conditional |
+| a fatal collision | a crash in which sb dies | Poor lighting is believed to have contributed to two **fatal collisions** on the road in recent years. | C · formal · also: a fatal accident · Grammar: impersonal passive |
+| lose concentration | stop paying attention | Driving for hours without a break, tired truckers easily **lose concentration** on long, straight highways. | neutral · also: lose focus · NOT lose attention · Grammar: participle clause |
+| take a toll on sb/sth | have a bad effect over a long time | Not only do long commutes **take a toll on** mental health, but they also put a strain on family life. | take a (heavy) toll on + noun · neutral · Grammar: negative inversion |
+| flexible hours | working times that employees can partly choose | The company introduced **flexible hours**, thereby allowing staff to avoid the rush and arrive less stressed. | plural · neutral · also: flextime (U) · BrE: flexible working hours · Grammar: result clause with thereby/thus |
+| peak times | the busiest periods of the day | While tickets are cheaper later in the day, most commuters have no choice but to travel at **peak times**. | plural · neutral · also: peak hours · adj: off-peak tickets · Grammar: concession |
+| quality of life | how good and comfortable a person's life is | Moving closer to work must have improved her **quality of life**, since she now has her evenings free. | U · neutral · but: a better / higher quality of life · Grammar: modal perfect |
 
 ### Phrasal verbs
 | Chunk | Meaning | Example | Notes |
 |---|---|---|---|
-| slow down | reduce speed | Drivers rarely **slow down** near the school. | intransitive, or slow sth down · neutral |
-| run sb over / be run over | hit and drive over sb with a vehicle | A child was nearly **run over** outside the school. | usually passive · neutral |
-| pull out (of sth) | drive onto a road from a side road or parking space | A van **pulled out** without looking. | pull out of + a side street / a driveway · neutral |
-| clamp down on sth | take strict action to stop sth | Police are **clamping down on** drivers who use phones. | clamp down on + speeding / drunk driving · neutral · cf. crack down on |
-| take up sth | use an amount of time or space | Commuting **takes up** three hours of her day. | take up + time / space · neutral |
-| wear sb out / be worn out | make sb very tired | Long trips leave commuters **worn out**. | neutral · adj: worn out (after be / leave sb) |
-| drop sb off | take sb somewhere by car and leave them there | Parents **drop** their children **off** at the school entrance. | drop sb off at + place · neutral · opposite: pick sb up |
-| nod off | fall asleep without meaning to | Exhausted drivers can **nod off** on the highway. | intransitive · informal / neutral |
+| slow down | reduce speed | I wish drivers would **slow down** near the school; they treat the street like a highway. | intransitive, or slow sth down · neutral · Grammar: unreal past |
+| run sb over / be run over | hit and drive over sb with a vehicle | The child could easily have been **run over** outside the school; the van was going far too fast. | usually passive · neutral · Grammar: modal passive |
+| pull out (of sth) | drive onto a road from a side road or parking space | A van **pulled out** of a side street without looking, which forced the cyclist to swerve into traffic. | pull out of + a side street / a driveway · neutral · Grammar: sentential relative |
+| clamp down on sth | take strict action to stop sth | Police are expected to **clamp down on** drivers who text while driving. | clamp down on + speeding / drunk driving · neutral · cf. crack down on · Grammar: impersonal passive |
+| take up sth | use an amount of time or space | Her commute **takes up** so much of her day that she rarely sees her children before bedtime. | take up + time / space · neutral · Grammar: so/such… that |
+| wear sb out / be worn out | make sb very tired | It is the stop-and-go traffic, not the distance, that leaves commuters **worn out** by the evening. | neutral · adj: worn out (after be / leave sb) · Grammar: cleft sentence |
+| drop sb off | take sb somewhere by car and leave them there | Were the streets safer, fewer parents would **drop** their children **off** at the school entrance by car. | drop sb off at + place · neutral · opposite: pick sb up · Grammar: inversion conditional |
+| nod off | fall asleep without meaning to | The longer you drive without a break, the more likely you are to **nod off** at the wheel. | intransitive · informal / neutral · Grammar: the more…, the more… |
 
 ### Fixed expressions & idioms
 | Chunk | Meaning | Example | Notes |
 |---|---|---|---|
-| behind the wheel | while driving | Texting **behind the wheel** is illegal in almost every US state. | neutral · also: at the wheel |
-| an accident waiting to happen | sth so dangerous that an accident is very likely | That crosswalk is **an accident waiting to happen**. | C · neutral |
-| only a matter of time before | sth will certainly happen soon | It is **only a matter of time before** a child is hurt. | It is only a matter of time before + clause · neutral |
-| door to door | from the start to the end of a trip | The trip takes ninety minutes **door to door**. | adv · neutral · adj: a door-to-door trip |
-| take your life in your hands | do sth very dangerous | You **take your life in your hands** crossing that road. | idiomatic · neutral / informal · possessive changes |
-| a drain on sth | sth that uses up time, money or energy | A two-hour commute is **a drain on** anyone's energy. | C · neutral · a drain on + resources / energy / time |
-| the daily grind | the tiring routine of everyday work | The commute is the worst part of **the daily grind**. | C, with "the" · neutral / informal |
-| work-life balance | a healthy division of time between work and private life | A shorter commute means a better **work-life balance**. | U, or C (singular) · neutral · a good / healthy work-life balance |
+| behind the wheel | while driving | No matter how short the trip, texting **behind the wheel** is illegal in almost every US state. | neutral · also: at the wheel · Grammar: no matter / however |
+| an accident waiting to happen | sth so dangerous that an accident is very likely | Despite repeated complaints from parents, the crosswalk outside the school remains **an accident waiting to happen**. | C · neutral · Grammar: concession |
+| only a matter of time before | sth will certainly happen soon | Drivers speed through the school zone every morning, which means it is **only a matter of time before** a child is hurt. | It is only a matter of time before + clause · neutral · Grammar: sentential relative |
+| door to door | from the start to the end of a trip | The trip can't have taken ninety minutes **door to door**; you left home only an hour ago. | adv · neutral · adj: a door-to-door trip · Grammar: modal perfect |
+| take your life in your hands | do sth very dangerous | The traffic on that road is so fast that you **take your life in your hands** every time you cross it. | idiomatic · neutral / informal · possessive changes · Grammar: so/such… that |
+| a drain on sth | sth that uses up time, money or energy | A two-hour commute is **a drain on** workers' energy, thus reducing their productivity once they finally reach the office. | C · neutral · a drain on + resources / energy / time · Grammar: result clause with thereby/thus |
+| the daily grind | the tiring routine of everyday work | What I hate most about **the daily grind** is the hour I spend in traffic each way. | C, with "the" · neutral / informal · Grammar: cleft sentence |
+| work-life balance | a healthy division of time between work and private life | The shorter your commute, the easier it is to maintain a healthy **work-life balance**. | U, or C (singular) · neutral · a good / healthy work-life balance · Grammar: the more…, the more… |
 
 ### More terms
 | Chunk | Meaning | Example | Notes |
 |---|---|---|---|
-| road rage | sudden violent anger between drivers | Long traffic jams can trigger **road rage**. | U · neutral · a road rage incident |
-| distracted driving | driving while doing sth else, e.g. using a phone | **Distracted driving** kills thousands of Americans each year. | U · neutral · a distracted driver (C) |
-| run a red light | drive through a traffic light when it is red | The driver **ran a red light** and hit a cyclist. | verb + noun · neutral · also: run a stop sign |
-| tailgate | drive too close behind another vehicle | Never **tailgate** in the rain. | intransitive, or tailgate sb · neutral · noun: tailgating (U) |
-| cut sb off | suddenly drive in front of another vehicle | A truck **cut** me **off** on the freeway. | separable · neutral / informal |
-| pull sb over | (police) make a driver stop at the side of the road | The police **pulled** him **over** for speeding. | separable · neutral · intransitive: pull over (= stop at the side of the road) |
-| zone out | stop paying attention to what is around you | Drivers often **zone out** on familiar routes. | intransitive · informal |
-| wear a seat belt | have a seat belt fastened while traveling | Almost every state requires adults to **wear a seat belt**. | verb + noun · neutral · informal: buckle up |
-| a driver's license | an official document that allows you to drive | Drunk drivers can lose their **driver's license**. | C · neutral · have your license suspended · BrE: a driving licence |
-| a learner's permit | a document that lets a beginner drive with an adult | In most states, teenagers can get **a learner's permit** at 15 or 16. | C · neutral · BrE: a provisional licence |
-| a speeding ticket | an official notice that you must pay a fine for speeding | He got **a speeding ticket** on the way to work. | C · neutral · also: a traffic ticket · BrE: a speeding fine |
-| a school zone | the area near a school where lower speed limits apply | Speeding in **a school zone** carries higher fines. | C · neutral |
-| a hit-and-run | an accident in which the driver does not stop | The cyclist was killed in **a hit-and-run**. | C · neutral · adj: a hit-and-run driver |
-| a pileup | a crash involving several vehicles | Thick fog caused **a 50-car pileup** on the highway. | C · neutral · a multi-vehicle pileup |
-| a fender bender | a minor car accident | It was just **a fender bender**, so nobody was hurt. | C · informal |
-| traffic fatalities | deaths caused by traffic accidents | **Traffic fatalities** in the US topped 40,000 in 2022. | plural · formal · also: traffic deaths |
-| Vision Zero | a road safety policy that aims for no traffic deaths | Many US cities have adopted **Vision Zero** since 2014. | U · neutral · first developed in Sweden in the 1990s |
-| a super commuter | sb who travels 90 minutes or more each way to work | **Super commuters** often spend more time on the road than with their families. | C · neutral / journalistic |
-| telecommute | work from home using the internet | More employees now **telecommute** at least part of the week. | intransitive · neutral · noun: telecommuting (U) |
-| a four-day workweek | a schedule in which people work four days a week instead of five | **A four-day workweek** would cut commuting by a fifth. | C · neutral · BrE: a four-day week |
-| burnout | extreme tiredness caused by too much work or stress | A long commute can contribute to **burnout**. | U · neutral · adj: burned out |
+| road rage | sudden violent anger between drivers | Stuck in traffic for hours, some frustrated drivers give in to **road rage** and start honking and shouting. | U · neutral · a road rage incident · Grammar: participle clause |
+| distracted driving | driving while doing sth else, e.g. using a phone | **Distracted driving** is estimated to kill thousands of Americans on the roads each year. | U · neutral · a distracted driver (C) · Grammar: impersonal passive |
+| run a red light | drive through a traffic light when it is red | Had the driver not **run a red light**, the cyclist would never have been hit. | verb + noun · neutral · also: run a stop sign · Grammar: inversion conditional |
+| tailgate | drive too close behind another vehicle | I wish the truck behind us wouldn't **tailgate** in this heavy rain; it's really dangerous. | intransitive, or tailgate sb · neutral · noun: tailgating (U) · Grammar: unreal past |
+| cut sb off | suddenly drive in front of another vehicle | A truck **cut** me **off** on the freeway, which made me slam on the brakes. | separable · neutral / informal · Grammar: sentential relative |
+| pull sb over | (police) make a driver stop at the side of the road | Only when the police **pulled** him **over** for speeding did he realize his license had expired. | separable · neutral · intransitive: pull over (= stop at the side of the road) · Grammar: negative inversion |
+| zone out | stop paying attention to what is around you | Even though I know it's risky, I sometimes **zone out** when I'm driving the same old route to work. | intransitive · informal · Grammar: concession |
+| wear a seat belt | have a seat belt fastened while traveling | Every passenger should be required to **wear a seat belt**, including children sitting in the back. | verb + noun · neutral · informal: buckle up · Grammar: modal passive |
+| a driver's license | an official document that allows you to drive | It is people convicted of drunk driving who are most likely to lose their **driver's license**. | C · neutral · have your license suspended · BrE: a driving licence · Grammar: cleft sentence |
+| a learner's permit | a document that lets a beginner drive with an adult | Having passed a written test, teenagers in most states can get **a learner's permit** at 15 or 16. | C · neutral · BrE: a provisional licence · Grammar: participle clause |
+| a speeding ticket | an official notice that you must pay a fine for speeding | He shouldn't have driven so fast; he got **a speeding ticket** and arrived late for work anyway. | C · neutral · also: a traffic ticket · BrE: a speeding fine · Grammar: modal perfect |
+| a school zone | the area near a school where lower speed limits apply | Accidents involving children are such a serious concern that speeding in **a school zone** carries higher fines. | C · neutral · Grammar: so/such… that |
+| a hit-and-run | an accident in which the driver does not stop | The cyclist, whose family is still waiting for answers, was killed in **a hit-and-run** last spring. | C · neutral · adj: a hit-and-run driver · Grammar: relative: whose / whereby / in which |
+| a pileup | a crash involving several vehicles | Thick fog caused **a pileup** involving dozens of vehicles, thus closing the highway for most of the day. | C · neutral · a multi-vehicle pileup · Grammar: result clause with thereby/thus |
+| a fender bender | a minor car accident | No matter how minor **a fender bender** is, you should still swap insurance details with the other driver. | C · informal · Grammar: no matter / however |
+| traffic fatalities | deaths caused by traffic accidents | **Traffic fatalities** in the US are reported to have topped 40,000 in 2022. | plural · formal · also: traffic deaths · Grammar: impersonal passive |
+| Vision Zero | a road safety policy that aims for no traffic deaths | Since 2014, many US cities have adopted **Vision Zero**, which has led them to redesign dangerous streets rather than simply blame drivers. | U · neutral · first developed in Sweden in the 1990s · Grammar: sentential relative |
+| a super commuter | sb who travels 90 minutes or more each way to work | While they earn higher salaries in the city, **super commuters** often spend more time on the road than with their families. | C · neutral / journalistic · Grammar: concession |
+| telecommute | work from home using the internet | If her boss hadn't let her **telecommute**, she would be spending four hours a day on the road now. | intransitive · neutral · noun: telecommuting (U) · Grammar: mixed conditional |
+| a four-day workweek | a schedule in which people work four days a week instead of five | Were companies to adopt **a four-day workweek**, commuting would fall by roughly a fifth. | C · neutral · BrE: a four-day week · Grammar: inversion conditional |
+| burnout | extreme tiredness caused by too much work or stress | Rarely do employers realize how much a long commute can contribute to **burnout** among their staff. | U · neutral · adj: burned out · Grammar: negative inversion |
 
 ## Text 1 — Two-part question
 > Many people now spend more than two hours a day traveling to and from work. Why is this happening, and what effects does it have on individuals and society?

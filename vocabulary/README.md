@@ -2,7 +2,17 @@
 
 Topic vocabulary for IELTS General Training writing, aimed at Band 7.5–8.
 Each sub-topic file has a vocabulary table, two model texts with notes and practice prompts.
-Each topic folder also has an Anki deck (`anki-<topic>.csv`). To import it: Anki → File → Import; the separator and tags are set in the file.
+
+## Anki flashcards (type-in)
+
+- **All topics in one file:** [anki-all-topics.apkg](anki-all-topics.apkg), or use the per-topic `.apkg` files listed below.
+- **AnkiDroid:** download the `.apkg` (in the GitHub app or browser: open the file → Download), then tap it and choose AnkiDroid,
+  or in AnkiDroid tap ⋮ → Import and pick the file. **Anki desktop:** File → Import.
+- **Card layout:** each card shows a meaning hint and a sentence with a gap. Type the missing words (for 2–3 gaps, type them in order separated by spaces).
+  The back shows a letter-by-letter comparison, the dictionary form, the example and notes.
+- **Organization:** deck tree *IELTS Vocabulary → topic → sub-topic*, note type *IELTS Chunk (type in)*.
+  Re-importing an updated file updates existing cards and keeps your review history.
+- **Rebuild after editing the vocabulary:** `pip install genanki`, then `python tools/build_anki.py`. The `.csv` files are the source for the decks.
 
 **American English throughout:** spelling (*organize, behavior, center, traveled*), vocabulary
 (*trash, apartment, sidewalk, résumé*) and letter conventions (*Sincerely,* / *Best regards,* / *Take care,*).
@@ -19,7 +29,7 @@ Then write the Practice prompts using 6 or more chunks, and bring them for gradi
 - [Consumer Culture & Materialism](advertising-and-consumerism/03-consumer-culture-and-materialism.md) (63 items)
 - [Shopping & Online Retail](advertising-and-consumerism/04-shopping-and-online-retail.md) (62 items)
 - [Brands & Globalization](advertising-and-consumerism/05-brands-and-globalization.md) (61 items)
-- Anki deck: [anki-advertising-and-consumerism.csv](advertising-and-consumerism/anki-advertising-and-consumerism.csv) (309 cards)
+- Anki deck: [anki-advertising-and-consumerism.apkg](advertising-and-consumerism/anki-advertising-and-consumerism.apkg) (309 cards; source: [anki-advertising-and-consumerism.csv](advertising-and-consumerism/anki-advertising-and-consumerism.csv))
 
 ## Aging & Family
 
@@ -28,7 +38,7 @@ Then write the Practice prompts using 6 or more chunks, and bring them for gradi
 - [Generations & Family Structure](aging-and-family/03-generations-and-family-structure.md) (62 items)
 - [Parenting](aging-and-family/04-parenting.md) (63 items)
 - [Living Alone & Independence](aging-and-family/05-living-alone-and-independence.md) (62 items)
-- Anki deck: [anki-aging-and-family.csv](aging-and-family/anki-aging-and-family.csv) (313 cards)
+- Anki deck: [anki-aging-and-family.apkg](aging-and-family/anki-aging-and-family.apkg) (313 cards; source: [anki-aging-and-family.csv](aging-and-family/anki-aging-and-family.csv))
 
 ## Crime & Punishment
 
@@ -37,7 +47,7 @@ Then write the Practice prompts using 6 or more chunks, and bring them for gradi
 - [Youth Crime & Its Causes](crime-and-punishment/03-youth-crime-and-its-causes.md) (63 items)
 - [Policing & Surveillance](crime-and-punishment/04-policing-and-surveillance.md) (62 items)
 - [Cybercrime & Online Fraud](crime-and-punishment/05-cybercrime-and-online-fraud.md) (64 items)
-- Anki deck: [anki-crime-and-punishment.csv](crime-and-punishment/anki-crime-and-punishment.csv) (314 cards)
+- Anki deck: [anki-crime-and-punishment.apkg](crime-and-punishment/anki-crime-and-punishment.apkg) (314 cards; source: [anki-crime-and-punishment.csv](crime-and-punishment/anki-crime-and-punishment.csv))
 
 ## Environment & Energy
 
@@ -46,7 +56,7 @@ Then write the Practice prompts using 6 or more chunks, and bring them for gradi
 - [Energy & Renewable Sources](environment-and-energy/03-energy-and-renewables.md) (62 items)
 - [Wildlife, Biodiversity & Animal Welfare](environment-and-energy/04-wildlife-biodiversity-and-animal-welfare.md) (62 items)
 - [Water & Natural Resources](environment-and-energy/05-water-and-natural-resources.md) (62 items)
-- Anki deck: [anki-environment-and-energy.csv](environment-and-energy/anki-environment-and-energy.csv) (316 cards)
+- Anki deck: [anki-environment-and-energy.apkg](environment-and-energy/anki-environment-and-energy.apkg) (316 cards; source: [anki-environment-and-energy.csv](environment-and-energy/anki-environment-and-energy.csv))
 
 ## Health & Diet
 
@@ -55,7 +65,7 @@ Then write the Practice prompts using 6 or more chunks, and bring them for gradi
 - [Exercise & Sedentary Lifestyles](health-and-diet/03-exercise-and-sedentary-lifestyles.md) (63 items)
 - [Mental Health](health-and-diet/04-mental-health.md) (64 items)
 - [Sleep, Stress & the 24-Hour Society](health-and-diet/05-sleep-stress-and-the-24-hour-society.md) (63 items)
-- Anki deck: [anki-health-and-diet.csv](health-and-diet/anki-health-and-diet.csv) (318 cards)
+- Anki deck: [anki-health-and-diet.apkg](health-and-diet/anki-health-and-diet.apkg) (318 cards; source: [anki-health-and-diet.csv](health-and-diet/anki-health-and-diet.csv))
 
 ## Media & The Internet
 
@@ -64,7 +74,7 @@ Then write the Practice prompts using 6 or more chunks, and bring them for gradi
 - [Privacy & Personal Data](media-and-the-internet/03-privacy-and-personal-data.md) (67 items)
 - [Screen Time & Digital Well-Being](media-and-the-internet/04-screen-time-and-digital-wellbeing.md) (66 items)
 - [Online Learning](media-and-the-internet/05-online-learning.md) (66 items)
-- Anki deck: [anki-media-and-the-internet.csv](media-and-the-internet/anki-media-and-the-internet.csv) (332 cards)
+- Anki deck: [anki-media-and-the-internet.apkg](media-and-the-internet/anki-media-and-the-internet.apkg) (332 cards; source: [anki-media-and-the-internet.csv](media-and-the-internet/anki-media-and-the-internet.csv))
 
 ## Science & Technology
 
@@ -73,7 +83,7 @@ Then write the Practice prompts using 6 or more chunks, and bring them for gradi
 - [Genetic Engineering & Medicine](science-and-technology/03-genetic-engineering-and-medicine.md) (65 items)
 - [Artificial Intelligence & Automation](science-and-technology/04-artificial-intelligence-and-automation.md) (66 items)
 - [Technology Dependence](science-and-technology/05-technology-dependence.md) (65 items)
-- Anki deck: [anki-science-and-technology.csv](science-and-technology/anki-science-and-technology.csv) (329 cards)
+- Anki deck: [anki-science-and-technology.apkg](science-and-technology/anki-science-and-technology.apkg) (329 cards; source: [anki-science-and-technology.csv](science-and-technology/anki-science-and-technology.csv))
 
 ## Transport & Cities
 
@@ -82,7 +92,7 @@ Then write the Practice prompts using 6 or more chunks, and bring them for gradi
 - [Air Travel & Tourism](transport-and-cities/03-air-travel-and-tourism.md) (59 items)
 - [Urban Planning & Housing](transport-and-cities/04-urban-planning-and-housing.md) (61 items)
 - [Commuting & Road Safety](transport-and-cities/05-commuting-and-road-safety.md) (62 items)
-- Anki deck: [anki-transport-and-cities.csv](transport-and-cities/anki-transport-and-cities.csv) (305 cards)
+- Anki deck: [anki-transport-and-cities.apkg](transport-and-cities/anki-transport-and-cities.apkg) (305 cards; source: [anki-transport-and-cities.csv](transport-and-cities/anki-transport-and-cities.csv))
 
 ## Work & Careers
 
@@ -92,4 +102,4 @@ Then write the Practice prompts using 6 or more chunks, and bring them for gradi
 - [Pay & Job Satisfaction](work-and-careers/04-pay-and-job-satisfaction.md) (66 items)
 - [Career Choice & Skills](work-and-careers/05-career-choice-and-skills.md) (64 items)
 - [Workers' Rights & Labor Relations](work-and-careers/06-workers-rights-and-labor-relations.md) (70 items)
-- Anki deck: [anki-work-and-careers.csv](work-and-careers/anki-work-and-careers.csv) (395 cards)
+- Anki deck: [anki-work-and-careers.apkg](work-and-careers/anki-work-and-careers.apkg) (395 cards; source: [anki-work-and-careers.csv](work-and-careers/anki-work-and-careers.csv))

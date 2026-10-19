@@ -6,84 +6,84 @@
 ### Key terms
 | Chunk | Meaning | Example | Notes |
 |---|---|---|---|
-| surveillance | the careful watching of people, especially by the police or the state | The city has expanded **surveillance** in public places. | U · neutral · *mass surveillance*; NOT *a surveillance* |
-| CCTV | cameras that record public places for security | The attack was recorded on **CCTV**. | U (the system); *CCTV cameras* (C, plural) · neutral, more common in BrE · *on CCTV* · everyday AmE: *security cameras*, *surveillance cameras* |
-| facial recognition | technology that identifies people from their faces | Police are testing **facial recognition** at sports stadiums. | U · neutral · *facial recognition technology / cameras* |
-| community policing | police working closely with local residents | **Community policing** helps officers win residents' trust. | U · neutral |
-| a police presence | police officers being visible in an area | The festival had **a** strong **police presence**. | C (singular) · neutral · *a visible / heavy police presence* |
-| crime prevention | measures that stop crime before it happens | Better street lighting is a cheap form of **crime prevention**. | U · neutral |
-| civil liberties | basic rights such as freedom of speech and privacy | Mass surveillance threatens **civil liberties**. | plural · formal |
-| the right to privacy | the right not to be watched or have your data shared without consent | Cameras inside homes would violate **the right to privacy**. | *the* + U · formal · *protect / violate the right to privacy* |
-| a surveillance state | a country where the government watches citizens closely | Critics fear that Britain is becoming **a surveillance state**. | C · neutral |
-| a suspect | a person thought to have committed a crime | Police released images of **a suspect**. | C · neutral · stress: *SUSpect* (n), *susPECT* (v) |
-| a break-in | an illegal entry into a building in order to steal | There have been three **break-ins** on our street this month. | C · neutral · verb: *break into sth* |
-| a neighborhood watch program | a group of residents who look out for crime in their area | Residents started **a neighborhood watch program**. | C · neutral · also *a neighborhood watch group* · BrE: *a neighbourhood watch scheme* |
+| surveillance | the careful watching of people, especially by the police or the state | Mass **surveillance** is said to prevent terrorist attacks, but critics question how often it actually does. | U · neutral · *mass surveillance*; NOT *a surveillance* · Grammar: impersonal passive |
+| CCTV | cameras that record public places for security | Not only does **CCTV** help police identify suspects, but it also provides evidence in court. | U (the system); *CCTV cameras* (C, plural) · neutral, more common in BrE · *on CCTV* · everyday AmE: *security cameras*, *surveillance cameras* · Grammar: negative inversion |
+| facial recognition | technology that identifies people from their faces | If the city had not banned **facial recognition**, the police would now be scanning every face in the subway. | U · neutral · *facial recognition technology / cameras* · Grammar: mixed conditional |
+| community policing | police working closely with local residents | What poor neighborhoods need is **community policing**, not more officers in riot gear. | U · neutral · Grammar: cleft sentence |
+| a police presence | police officers being visible in an area | Officers established **a** visible **police presence** near the stadium, thus deterring fights after the game. | C (singular) · neutral · *a visible / heavy police presence* · Grammar: result clause with thereby/thus |
+| crime prevention | measures that stop crime before it happens | Much as people demand harsher punishment, **crime prevention** is far cheaper than locking people up. | U · neutral · Grammar: concession |
+| civil liberties | basic rights such as freedom of speech and privacy | No matter how serious the threat of terrorism becomes, governments must continue to respect **civil liberties**. | plural · formal · Grammar: no matter / however |
+| the right to privacy | the right not to be watched or have your data shared without consent | **The right to privacy** must be protected even when police are investigating serious crimes. | *the* + U · formal · *protect / violate the right to privacy* · Grammar: modal passive |
+| a surveillance state | a country where the government watches citizens closely | The more cameras a government installs, the closer the country moves toward becoming **a surveillance state**. | C · neutral · Grammar: the more…, the more… |
+| a suspect | a person thought to have committed a crime | Caught on camera near the scene, **a suspect** was arrested within hours of the robbery. | C · neutral · stress: *SUSpect* (n), *susPECT* (v) · Grammar: participle clause |
+| a break-in | an illegal entry into a building in order to steal | There was **a break-in** at our neighbors' house last week, which persuaded us to install an alarm. | C · neutral · verb: *break into sth* · Grammar: sentential relative |
+| a neighborhood watch program | a group of residents who look out for crime in their area | Residents set up **a neighborhood watch program** whose members report suspicious activity to the local police. | C · neutral · also *a neighborhood watch group* · BrE: *a neighbourhood watch scheme* · Grammar: relative: whose / whereby / in which |
 
 ### Collocations
 | Chunk | Meaning | Example | Notes |
 |---|---|---|---|
-| install security cameras | put cameras in place | The city plans to **install security cameras** in the park. | verb + noun · neutral · BrE: *install CCTV cameras* |
-| monitor public spaces | watch places like streets and stations | Cameras **monitor public spaces** 24 hours a day. | verb + noun · formal |
-| identify suspects | recognize who sb is | Footage helps police **identify suspects** quickly. | verb + noun · neutral |
-| an invasion of privacy | an unacceptable intrusion into sb's private life | Many people see face scanning as **an invasion of privacy**. | C · neutral · NOT *an invasion in privacy* |
-| gather evidence | collect information to prove a crime | Officers **gathered evidence** from local stores. | verb + U noun · neutral · NOT *an evidence* / *evidences* |
-| report a crime | tell the police about a crime | Residents can now **report a crime** online. | verb + noun · neutral · *report sth to the police* |
-| patrol the streets | walk or drive around an area to keep order | More officers **patrol the streets** at night. | verb + noun · neutral |
-| erode public trust | gradually weaken people's confidence | Misuse of data could **erode public trust** in the police. | verb + noun · formal · *trust in sb* |
-| response times | how quickly the police arrive after a call | Residents complained about slow **response times**. | plural · neutral |
-| displace crime | move crime to another area instead of stopping it | Cameras may simply **displace crime** to nearby streets. | verb + noun · formal |
-| raise concerns about sth | make people worried about sth | The new law **raised concerns about** privacy. | verb + noun + about · neutral |
+| install security cameras | put cameras in place | Were the city to **install security cameras** in the park, residents would feel safer walking there at night. | verb + noun · neutral · BrE: *install CCTV cameras* · Grammar: inversion conditional |
+| monitor public spaces | watch places like streets and stations | Privacy groups would rather the government **monitored public spaces** less and invested more in community policing. | verb + noun · formal · Grammar: unreal past |
+| identify suspects | recognize who sb is | Without facial recognition, it might have taken detectives weeks to **identify suspects** in the robbery. | verb + noun · neutral · Grammar: modal perfect |
+| an invasion of privacy | an unacceptable intrusion into sb's private life | Some employees found the cameras in the break room such **an invasion of privacy** that they quit. | C · neutral · NOT *an invasion in privacy* · Grammar: so/such… that |
+| gather evidence | collect information to prove a crime | Using phone records and security footage, detectives **gathered evidence** against the gang for months. | verb + U noun · neutral · NOT *an evidence* / *evidences* · Grammar: participle clause |
+| report a crime | tell the police about a crime | Many immigrants are afraid to **report a crime**, even though they are entitled to police protection. | verb + noun · neutral · *report sth to the police* · Grammar: concession |
+| patrol the streets | walk or drive around an area to keep order | Many residents wish more officers **patrolled the streets** at night instead of waiting at the station for calls. | verb + noun · neutral · Grammar: unreal past |
+| erode public trust | gradually weaken people's confidence | Several officers lied in court, which **eroded public trust** in the entire department. | verb + noun · formal · *trust in sb* · Grammar: sentential relative |
+| response times | how quickly the police arrive after a call | If the department had hired more officers last year, **response times** would now be much shorter. | plural · neutral · Grammar: mixed conditional |
+| displace crime | move crime to another area instead of stopping it | Security cameras are often said to **displace crime** to nearby streets rather than prevent it. | verb + noun · formal · Grammar: impersonal passive |
+| raise concerns about sth | make people worried about sth | It is facial recognition in schools that has **raised** the most **concerns about** children's privacy. | verb + noun + about · neutral · Grammar: cleft sentence |
 
 ### Phrasal verbs
 | Chunk | Meaning | Example | Notes |
 |---|---|---|---|
-| break into sth | enter a building or car illegally | Thieves **broke into** three cars last night. | inseparable · neutral |
-| track sb down | find sb after a long search | Police **tracked down** the suspect within a week. | separable · neutral |
-| look into sth | investigate | The police promised to **look into** the complaint. | inseparable · neutral |
-| step up sth | increase effort, patrols or security | The police **stepped up** patrols after the attacks. | separable · neutral |
-| tip sb off | secretly warn or inform sb | A neighbor **tipped off** the police. | separable · neutral · noun: *a tip-off* (C); AmE also: *a tip* |
-| hand sth over | give sth to sb in authority | The store **handed over** its security footage. | separable · neutral |
-| follow up (on) sth | take further action on sth | Officers rarely **follow up** reports of bike theft. | separable · neutral · noun: *a follow-up* · *follow up on* is especially common in AmE |
-| pick sb/sth up | (of a camera or sensor) detect or record sb/sth | A doorbell camera **picked up** the burglar's face. | separable · neutral · also *be picked up on camera* |
+| break into sth | enter a building or car illegally | The darker and quieter a street is, the easier it is for thieves to **break into** cars. | inseparable · neutral · Grammar: the more…, the more… |
+| track sb down | find sb after a long search | The police can't have **tracked** him **down** so quickly without access to his phone records. | separable · neutral · Grammar: modal perfect |
+| look into sth | investigate | Every complaint about police misconduct should be **looked into** by an independent body. | inseparable · neutral · Grammar: modal passive |
+| step up sth | increase effort, patrols or security | No matter how much the police **step up** patrols, burglars simply move to other neighborhoods. | separable · neutral · Grammar: no matter / however |
+| tip sb off | secretly warn or inform sb | The arrest followed an anonymous call in which a neighbor **tipped** the police **off** about a drug lab. | separable · neutral · noun: *a tip-off* (C); AmE also: *a tip* · Grammar: relative: whose / whereby / in which |
+| hand sth over | give sth to sb in authority | Privacy campaigners wish tech companies didn't **hand over** user data to the police without a warrant. | separable · neutral · Grammar: unreal past |
+| follow up (on) sth | take further action on sth | Rarely do detectives have time to **follow up on** every tip from the public. | separable · neutral · noun: *a follow-up* · *follow up on* is especially common in AmE · Grammar: negative inversion |
+| pick sb/sth up | (of a camera or sensor) detect or record sb/sth | The camera's resolution was so poor that it barely **picked up** the thief's face. | separable · neutral · also *be picked up on camera* · Grammar: so/such… that |
 
 ### Fixed expressions & idioms
 | Chunk | Meaning | Example | Notes |
 |---|---|---|---|
-| keep an eye on sb/sth | watch sb/sth carefully | Neighbors **keep an eye on** each other's homes. | fixed · neutral–informal |
-| catch sb red-handed | catch sb in the act of doing sth wrong | Cameras **caught** the thief **red-handed**. | separable · neutral |
-| Big Brother | a state that watches and controls its citizens | Some people see facial recognition as **Big Brother** watching us. | proper noun, no article · neutral |
-| if you have nothing to hide, you have nothing to fear | an argument used to defend surveillance | Supporters say that **if you have nothing to hide, you have nothing to fear**. | fixed sentence · neutral · often quoted in order to challenge it |
-| a false sense of security | a feeling of safety that is not justified | Cameras can give residents **a false sense of security**. | C (singular) · neutral |
-| on the beat | (of police) walking around an area on duty | We need more officers **on the beat**. | fixed · neutral · AmE also: *walk a beat*, *beat cops* |
-| a double-edged sword | sth with both good and bad effects | Surveillance technology is **a double-edged sword**. | C · neutral |
-| strike a balance between X and Y | find a fair compromise between two things | Governments must **strike a balance between** security and privacy. | fixed frame · neutral |
+| keep an eye on sb/sth | watch sb/sth carefully | Neighbors **keep an eye on** each other's homes, thereby making burglaries far less likely. | fixed · neutral–informal · Grammar: result clause with thereby/thus |
+| catch sb red-handed | catch sb in the act of doing sth wrong | Hidden behind a parked van, two officers **caught** the thieves **red-handed** as they broke into a car. | separable · neutral · Grammar: participle clause |
+| Big Brother | a state that watches and controls its citizens | While cameras make some people feel safer, others feel that **Big Brother** is watching their every move. | proper noun, no article · neutral · Grammar: concession |
+| if you have nothing to hide, you have nothing to fear | an argument used to defend surveillance | What critics reject is the claim that **if you have nothing to hide, you have nothing to fear**. | fixed sentence · neutral · often quoted in order to challenge it · Grammar: cleft sentence |
+| a false sense of security | a feeling of safety that is not justified | If people were more skeptical about cameras, they would not have been lulled into **a false sense of security**. | C (singular) · neutral · Grammar: mixed conditional |
+| on the beat | (of police) walking around an area on duty | Were there more officers **on the beat**, residents would report crimes far more often. | fixed · neutral · AmE also: *walk a beat*, *beat cops* · Grammar: inversion conditional |
+| a double-edged sword | sth with both good and bad effects | Facial recognition is widely considered to be **a double-edged sword**: it catches criminals but threatens privacy. | C · neutral · Grammar: impersonal passive |
+| strike a balance between X and Y | find a fair compromise between two things | The more powerful surveillance technology becomes, the harder it is to **strike a balance between** security and privacy. | fixed frame · neutral · Grammar: the more…, the more… |
 
 ### More terms
 | Chunk | Meaning | Example | Notes |
 |---|---|---|---|
-| law enforcement | the police and other organizations that make sure laws are obeyed | **Law enforcement** agencies are using more and more technology. | U · neutral, very common in AmE · *law enforcement officers / agencies* |
-| a police department | the police organization of a city or area | The city's **police department** is short of officers. | C · AmE · *the NYPD* = New York City Police Department · BrE: *a police force* |
-| understaffed | not having enough workers | Many **understaffed** police departments cannot investigate minor thefts. | adj · neutral · related: *underfunded* |
-| body cameras | small cameras that police officers wear on their uniforms | **Body cameras** record what happens during arrests. | C, usually plural · neutral · informal: *bodycams*; *wear a body camera* |
-| make an arrest | officially take sb into police custody | Police **made** three **arrests** after the robbery. | verb + noun · neutral · *be under arrest*; NOT *do an arrest* |
-| be taken into custody | be arrested and held by the police | The suspect **was taken into custody** last night. | passive · formal · *be held in custody* |
-| press charges (against sb) | officially accuse sb of a crime so that they go to court | The store owner decided not to **press charges**. | verb + noun · neutral · *charge sb with a crime* (verb) |
-| a witness | a person who sees a crime and can describe it | Police are looking for **witnesses** to the attack. | C · neutral · *an eyewitness*; verb: *witness a crime* |
-| come forward | offer to give information to the police | Anyone with information is urged to **come forward**. | intransitive · neutral |
-| a crime scene | the place where a crime happened | Officers sealed off **the crime scene**. | C · neutral · *secure / examine a crime scene* |
-| security footage | video recorded by security cameras | **Security footage** showed the thief leaving the building. | U · neutral · NOT *footages* · BrE: *CCTV footage* |
-| solve a crime | find out who committed a crime | DNA evidence helps police **solve crimes** that are decades old. | verb + noun · neutral · informal: *crack a case* |
-| call 911 | phone the emergency number in the US | Witnesses **called 911** immediately. | verb + number, no article · AmE · BrE: *dial 999*; *a 911 call* (C) |
-| a high-crime area | a place where a lot of crime happens | Officers are sent mainly to **high-crime areas**. | C · neutral · AmE also: *a high-crime neighborhood* |
-| predictive policing | using data to predict where crime is likely to happen | **Predictive policing** may unfairly target poor neighborhoods. | U · formal |
-| racial profiling | treating people as suspects because of their race | **Racial profiling** damages trust between police and minority communities. | U · neutral |
-| stop-and-frisk | stopping people in the street and searching them for weapons | **Stop-and-frisk** was heavily criticized in New York. | U · AmE · BrE: *stop and search* |
-| police brutality | violent and illegal treatment of people by the police | Protests against **police brutality** spread across the country. | U · neutral · also *excessive force* |
-| police accountability | making police officers answer for their actions | Body cameras can improve **police accountability**. | U · formal |
-| data retention | keeping recorded data for a certain period | Strict **data retention** rules limit how long footage can be stored. | U · formal · *a data retention policy* |
-| a trade-off (between X and Y) | a balance between two things you cannot have fully at the same time | There is always **a trade-off between** safety and freedom. | C · neutral · AmE also spelled *tradeoff* |
-| round sb up | find and arrest a group of people | Police **rounded up** members of the gang. | separable · neutral · noun: *a roundup* (C) |
-| on the lookout (for sb/sth) | watching carefully in order to find or avoid sb/sth | Store staff are **on the lookout for** shoplifters. | fixed · neutral–informal · *be / stay on the lookout* |
+| law enforcement | the police and other organizations that make sure laws are obeyed | **Law enforcement** agencies should be required to get a warrant before tracking someone's phone. | U · neutral, very common in AmE · *law enforcement officers / agencies* · Grammar: modal passive |
+| a police department | the police organization of a city or area | However well funded **a police department** is, it cannot reduce crime without the trust of local residents. | C · AmE · *the NYPD* = New York City Police Department · BrE: *a police force* · Grammar: no matter / however |
+| understaffed | not having enough workers | Many rural police stations are badly **understaffed**, which means a single officer may cover hundreds of square miles. | adj · neutral · related: *underfunded* · Grammar: sentential relative |
+| body cameras | small cameras that police officers wear on their uniforms | The truth about the shooting might have come out sooner if the officers had been wearing **body cameras**. | C, usually plural · neutral · informal: *bodycams*; *wear a body camera* · Grammar: modal perfect |
+| make an arrest | officially take sb into police custody | Only after months of surveillance and dozens of interviews did detectives finally **make an arrest**. | verb + noun · neutral · *be under arrest*; NOT *do an arrest* · Grammar: negative inversion |
+| be taken into custody | be arrested and held by the police | The victim's family wishes the driver **had been taken into custody** at the scene. | passive · formal · *be held in custody* · Grammar: unreal past |
+| press charges (against sb) | officially accuse sb of a crime so that they go to court | She was so angry about the assault that she decided to **press charges against** her attacker. | verb + noun · neutral · *charge sb with a crime* (verb) · Grammar: so/such… that |
+| a witness | a person who sees a crime and can describe it | The police are searching for **a witness** whose car was parked outside the bank during the robbery. | C · neutral · *an eyewitness*; verb: *witness a crime* · Grammar: relative: whose / whereby / in which |
+| come forward | offer to give information to the police | Encouraged by the reward, several neighbors **came forward** with information about the shooting. | intransitive · neutral · Grammar: participle clause |
+| a crime scene | the place where a crime happened | Officers sealed off the **crime scene** within minutes, thus preventing anyone from contaminating the evidence. | C · neutral · *secure / examine a crime scene* · Grammar: result clause with thereby/thus |
+| security footage | video recorded by security cameras | Despite reviewing hours of **security footage**, detectives still could not identify the hooded man. | U · neutral · NOT *footages* · BrE: *CCTV footage* · Grammar: concession |
+| solve a crime | find out who committed a crime | If DNA testing in the state were faster, detectives would have **solved** the **crime** months ago. | verb + noun · neutral · informal: *crack a case* · Grammar: mixed conditional |
+| call 911 | phone the emergency number in the US | What you should do first in an emergency is **call 911**, not post about it online. | verb + number, no article · AmE · BrE: *dial 999*; *a 911 call* (C) · Grammar: cleft sentence |
+| a high-crime area | a place where a lot of crime happens | Should you live in **a high-crime area**, your car insurance would probably cost more. | C · neutral · AmE also: *a high-crime neighborhood* · Grammar: inversion conditional |
+| predictive policing | using data to predict where crime is likely to happen | **Predictive policing** is thought to reinforce existing bias, as it relies on past arrest data. | U · formal · Grammar: impersonal passive |
+| racial profiling | treating people as suspects because of their race | Officers who are found guilty of **racial profiling** should be dismissed from the force. | U · neutral · Grammar: modal passive |
+| stop-and-frisk | stopping people in the street and searching them for weapons | New York scaled back **stop-and-frisk** in the 2010s, which did not lead to the rise in crime that critics predicted. | U · AmE · BrE: *stop and search* · Grammar: sentential relative |
+| police brutality | violent and illegal treatment of people by the police | The more videos of **police brutality** spread online, the louder the calls for reform become. | U · neutral · also *excessive force* · Grammar: the more…, the more… |
+| police accountability | making police officers answer for their actions | The city introduced body cameras, thereby improving **police accountability** and reducing complaints. | U · formal · Grammar: result clause with thereby/thus |
+| data retention | keeping recorded data for a certain period | The company should have had a clear **data retention** policy instead of storing footage for years. | U · formal · *a data retention policy* · Grammar: modal perfect |
+| a trade-off (between X and Y) | a balance between two things you cannot have fully at the same time | The **trade-off between** security and privacy is such a difficult one that no policy will satisfy everyone. | C · neutral · AmE also spelled *tradeoff* · Grammar: so/such… that |
+| round sb up | find and arrest a group of people | No matter how many dealers the police **round up**, new ones appear on the same corners within weeks. | separable · neutral · noun: *a roundup* (C) · Grammar: no matter / however |
+| on the lookout (for sb/sth) | watching carefully in order to find or avoid sb/sth | Not only are store detectives **on the lookout for** shoplifters, but they also watch for staff theft. | fixed · neutral–informal · *be / stay on the lookout* · Grammar: negative inversion |
 
 ## Text 1 — Advantages and disadvantages
 > CCTV cameras are increasingly being installed in streets, stores and public transportation. Do the advantages of this development outweigh the disadvantages?

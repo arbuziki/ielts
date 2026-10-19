@@ -6,87 +6,87 @@
 ### Key terms
 | Chunk | Meaning | Example | Notes |
 |---|---|---|---|
-| genetic engineering | changing the genes of a living thing | **Genetic engineering** could make crops resistant to disease. | U, no article; neutral |
-| gene editing | making precise changes to DNA, e.g. with the CRISPR tool | **Gene editing** is already helping patients with sickle cell disease. | U; tool: *CRISPR* |
-| gene therapy | treating a disease by changing or replacing faulty genes | **Gene therapy** offers hope to children with rare blood disorders. | U |
-| an inherited disease | an illness passed from parents to children through genes | Cystic fibrosis is **an inherited disease**. | C; formal synonym: *a hereditary condition* |
-| a faulty gene | a gene with a mistake in it that can cause illness | She was born with **a faulty gene** that affects her lungs. | C; also *a defective gene* |
-| a designer baby | a baby whose genes have been chosen by its parents | Critics fear that gene editing will lead to **designer babies**. | C; usually critical |
-| an embryo | a human or animal at the earliest stage of development | Doctors can test **an embryo** for serious diseases during IVF. | C; adjective: *embryonic* |
-| GM crops | crops whose genes have been changed | **GM crops** are widely grown in the US but tightly restricted in the EU. | C, plural; full form: *genetically modified crops*; AmE also: *GMO crops*; *GM food* (U) |
-| DNA | the substance in cells that carries genetic information | Your **DNA** can reveal where your ancestors came from. | U, no article; but *a DNA test* (C) |
-| life expectancy | the average number of years a person is expected to live | **Life expectancy** has risen steadily over the last century. | U; *rise / fall*; NOT *life expectation* |
-| a side effect | an unwanted extra effect of a drug or treatment | Every new therapy has possible **side effects**. | C, often plural |
-| a genetic predisposition to sth | a higher natural chance of developing a condition | He has **a genetic predisposition to** heart disease. | C, singular; formal; + *to* + noun |
+| genetic engineering | changing the genes of a living thing | **Genetic engineering** is expected to make many staple crops more resistant to pests and disease. | U, no article; neutral · Grammar: impersonal passive |
+| gene editing | making precise changes to DNA, e.g. with the CRISPR tool | Already approved for sickle cell disease, **gene editing** could soon treat other inherited blood disorders. | U; tool: *CRISPR* · Grammar: participle clause |
+| gene therapy | treating a disease by changing or replacing faulty genes | Although **gene therapy** is extremely expensive, it offers real hope to children with rare blood disorders. | U · Grammar: concession |
+| an inherited disease | an illness passed from parents to children through genes | Cystic fibrosis is **an inherited disease** in which thick mucus builds up in the lungs. | C; formal synonym: *a hereditary condition* · Grammar: relative: whose / whereby / in which |
+| a faulty gene | a gene with a mistake in it that can cause illness | If she hadn't been born with **a faulty gene**, she wouldn't need daily treatment for her lungs now. | C; also *a defective gene* · Grammar: mixed conditional |
+| a designer baby | a baby whose genes have been chosen by its parents | Not only could gene editing lead to **designer babies**, but it could also deepen inequality between rich and poor. | C; usually critical · Grammar: negative inversion |
+| an embryo | a human or animal at the earliest stage of development | **An embryo** can be tested for serious genetic diseases before it is implanted during IVF. | C; adjective: *embryonic* · Grammar: modal passive |
+| GM crops | crops whose genes have been changed | Public suspicion of **GM crops** in Europe is so strong that few supermarkets will stock genetically modified food. | C, plural; full form: *genetically modified crops*; AmE also: *GMO crops*; *GM food* (U) · Grammar: so/such… that |
+| DNA | the substance in cells that carries genetic information | My sister wishes she had never sent her **DNA** to a testing company, since its database was later hacked. | U, no article; but *a DNA test* (C) · Grammar: unreal past |
+| life expectancy | the average number of years a person is expected to live | Vaccines and antibiotics have saved millions of children, thereby raising **life expectancy** around the world. | U; *rise / fall*; NOT *life expectation* · Grammar: result clause with thereby/thus |
+| a side effect | an unwanted extra effect of a drug or treatment | What worries patients most about the new therapy is the risk of serious **side effects**. | C, often plural · Grammar: cleft sentence |
+| a genetic predisposition to sth | a higher natural chance of developing a condition | He has **a genetic predisposition to** heart disease, which is why his doctor checks his blood pressure every year. | C, singular; formal; + *to* + noun · Grammar: sentential relative |
 
 ### Collocations
 | Chunk | Meaning | Example | Notes |
 |---|---|---|---|
-| eradicate a disease | destroy a disease completely | Smallpox was the first human disease to be **eradicated**. | formal; noun: *eradication* (U) |
-| carry a gene | have a gene that can be passed to your children | Both parents may **carry the gene** without being sick themselves. | neutral; noun: *a carrier* (C) |
-| screen for sth | test people for a disease before symptoms appear | Newborn babies are **screened for** several genetic conditions. | neutral; noun: *screening* (U) |
-| raise ethical concerns | make people worry about what is morally right | Editing human embryos **raises** serious **ethical concerns**. | neutral; also *raise ethical questions* |
-| unforeseen consequences | results that nobody expected | Changing one gene could have **unforeseen consequences**. | C, plural; formal; also *unintended consequences* |
-| tamper with nature | interfere with the natural world in a harmful way | Opponents argue that we should not **tamper with nature**. | critical; *tamper with* + noun |
-| prolong life | make life last longer | New drugs can **prolong life** by several years. | formal; noun: *the prolongation of life* (rare) |
-| undergo treatment | receive medical treatment | Patients **undergo treatment** for several months. | formal; past: *underwent*, *undergone* |
-| a medical breakthrough | an important new discovery in medicine | Insulin was **a medical breakthrough** of the 1920s. | C; *achieve / make a breakthrough* |
-| informed consent | permission given by sb who fully understands the risks | No trial can begin without the patients' **informed consent**. | U; formal |
-| boost crop yields | increase the amount of food a field produces | Drought-resistant varieties can **boost crop yields**. | *crop yields* is C, plural |
-| drought-resistant crops | plants that can survive with very little water | Farmers in dry regions need **drought-resistant crops**. | C, plural; also *pest-resistant* |
-| strict safeguards | strong rules that prevent harm | Gene editing should be allowed only with **strict safeguards**. | C, plural; *put safeguards in place* |
-| inherit sth from sb | receive a feature or illness through your genes | She **inherited** the condition **from** her father. | neutral; noun: *inheritance* (U) |
+| eradicate a disease | destroy a disease completely | Were every child to receive the vaccine, health workers could finally **eradicate a disease** that has crippled millions. | formal; noun: *eradication* (U) · Grammar: inversion conditional |
+| carry a gene | have a gene that can be passed to your children | No matter how healthy they look, both parents may **carry the gene** for a serious inherited condition. | neutral; noun: *a carrier* (C) · Grammar: no matter / however |
+| screen for sth | test people for a disease before symptoms appear | All newborn babies should be **screened for** treatable genetic conditions within days of birth. | neutral; noun: *screening* (U) · Grammar: modal passive |
+| raise ethical concerns | make people worry about what is morally right | Rarely has a scientific technique **raised** such serious **ethical concerns** as editing human embryos. | neutral; also *raise ethical questions* · Grammar: negative inversion |
+| unforeseen consequences | results that nobody expected | While changing a single gene may cure a disease, it could also have **unforeseen consequences** for future generations. | C, plural; formal; also *unintended consequences* · Grammar: concession |
+| tamper with nature | interfere with the natural world in a harmful way | It is the fear of **tampering with nature** that makes many consumers reject genetically modified food. | critical; *tamper with* + noun · Grammar: cleft sentence |
+| prolong life | make life last longer | The more effectively new drugs **prolong life**, the more pressure they put on pension and health care systems. | formal; noun: *the prolongation of life* (rare) · Grammar: the more…, the more… |
+| undergo treatment | receive medical treatment | Having **undergone treatment** for six months, the patient was finally declared free of cancer. | formal; past: *underwent*, *undergone* · Grammar: participle clause |
+| a medical breakthrough | an important new discovery in medicine | The discovery of insulin is widely regarded as **a medical breakthrough** that transformed the lives of diabetics. | C; *achieve / make a breakthrough* · Grammar: impersonal passive |
+| informed consent | permission given by sb who fully understands the risks | Were a trial to begin without the patients' **informed consent**, the researchers would be breaking the law. | U; formal · Grammar: inversion conditional |
+| boost crop yields | increase the amount of food a field produces | Scientists have developed pest-resistant corn, thereby helping farmers **boost crop yields** without extra pesticides. | *crop yields* is C, plural · Grammar: result clause with thereby/thus |
+| drought-resistant crops | plants that can survive with very little water | If farmers in East Africa had planted **drought-resistant crops** years ago, they wouldn't be facing hunger now. | C, plural; also *pest-resistant* · Grammar: mixed conditional |
+| strict safeguards | strong rules that prevent harm | The government allowed gene editing research only under **strict safeguards**, which reassured many worried citizens. | C, plural; *put safeguards in place* · Grammar: sentential relative |
+| inherit sth from sb | receive a feature or illness through your genes | She **inherited** the condition **from** her father, whose family had carried it for generations. | neutral; noun: *inheritance* (U) · Grammar: relative: whose / whereby / in which |
 
 ### Phrasal verbs
 | Chunk | Meaning | Example | Notes |
 |---|---|---|---|
-| rule sth out | decide that sth is not possible or not the cause | The test **ruled out** the most serious diagnosis. | neutral |
-| fight sth off | resist an infection | Healthy children usually **fight off** the virus within days. | neutral |
-| clear up | (of an illness) go away | The infection **cleared up** after a week of antibiotics. | intransitive; neutral |
-| wear off | (of a drug's effect) gradually disappear | The anesthetic **wears off** after a few hours. | intransitive; neutral; BrE spelling: *anaesthetic* |
-| build up | increase gradually | Bacteria can **build up** resistance to antibiotics. | also intransitive: *resistance builds up* |
-| tinker with sth | make small changes to sth, often carelessly | Scientists should not **tinker with** human genes lightly. | neutral; critical tone |
-| pass away | die | Her grandfather **passed away** after a long illness. | polite; neutral |
-| hold out the hope of sth | offer the possibility of sth good | Gene therapy **holds out the hope of** a cure. | formal-neutral |
+| rule sth out | decide that sth is not possible or not the cause | The doctor can't have **ruled out** a serious diagnosis without first ordering a blood test. | neutral · Grammar: modal perfect |
+| fight sth off | resist an infection | Most healthy children have such strong immune systems that they **fight off** the virus within days. | neutral · Grammar: so/such… that |
+| clear up | (of an illness) go away | The infection must have **cleared up** on its own, because she never took the antibiotics the doctor prescribed. | intransitive; neutral · Grammar: modal perfect |
+| wear off | (of a drug's effect) gradually disappear | Even though the anesthetic **wears off** after a few hours, patients may feel drowsy for the rest of the day. | intransitive; neutral; BrE spelling: *anaesthetic* · Grammar: concession |
+| build up | increase gradually | The more often antibiotics are misused, the faster bacteria **build up** resistance to them. | also intransitive: *resistance builds up* · Grammar: the more…, the more… |
+| tinker with sth | make small changes to sth, often carelessly | Human genes should never be **tinkered with** lightly, as the changes may pass to future generations. | neutral; critical tone · Grammar: modal passive |
+| pass away | die | I wish my grandfather hadn't **passed away** before doctors found a treatment for his illness. | polite; neutral · Grammar: unreal past |
+| hold out the hope of sth | offer the possibility of sth good | Gene therapy is thought to **hold out the hope of** a cure for several inherited diseases. | formal-neutral · Grammar: impersonal passive |
 
 ### Fixed expressions & idioms
 | Chunk | Meaning | Example | Notes |
 |---|---|---|---|
-| play God | try to control things that should be left to nature | Editing embryos is seen by some as **playing God**. | idiom; neutral; NOT *play a God* |
-| a slippery slope | a first step that will lead to worse things | Allowing gene editing for disease may be **a slippery slope** toward designer babies. | C; neutral; BrE also: *towards* |
-| run in the family | (of an illness or feature) be common among relatives | Heart disease **runs in my family**. | idiom; neutral-informal |
-| a double-edged sword | sth that has both good and bad effects | Genetic testing is **a double-edged sword**. | C; neutral |
-| open Pandora's box | start sth that causes many unexpected problems | Allowing designer babies could **open Pandora's box**. | idiom; also *open a Pandora's box* |
-| prevention is better than cure | it is better to stop a problem than to fix it later | Screening works because **prevention is better than cure**. | proverb; no articles; AmE also: *an ounce of prevention is worth a pound of cure* |
-| the jury is still out | people have not yet reached a decision | **The jury is still out** on the long-term effects of some GM foods. | idiom; + *on sth* |
-| err on the side of caution | be extra careful in order to avoid risk | Regulators should **err on the side of caution**. | formal-neutral |
-| bring sth under control | succeed in limiting sth | Modern drugs have **brought** HIV **under control** for millions of people. | neutral |
+| play God | try to control things that should be left to nature | Little do some scientists realize that many people see editing embryos as **playing God**. | idiom; neutral; NOT *play a God* · Grammar: negative inversion |
+| a slippery slope | a first step that will lead to worse things | However noble the motive, editing genes to prevent disease may be **a slippery slope** toward designer babies. | C; neutral; BrE also: *towards* · Grammar: no matter / however |
+| run in the family | (of an illness or feature) be common among relatives | It's heart disease that **runs in my family**, so I get my cholesterol checked every year. | idiom; neutral-informal · Grammar: cleft sentence |
+| a double-edged sword | sth that has both good and bad effects | Genetic testing can warn you about a disease you cannot prevent, which is why many see it as **a double-edged sword**. | C; neutral · Grammar: sentential relative |
+| open Pandora's box | start sth that causes many unexpected problems | Were governments to allow designer babies, they might well **open Pandora's box** in ways that nobody can predict. | idiom; also *open a Pandora's box* · Grammar: inversion conditional |
+| prevention is better than cure | it is better to stop a problem than to fix it later | Recognizing that **prevention is better than cure**, many health systems now offer free genetic screening. | proverb; no articles; AmE also: *an ounce of prevention is worth a pound of cure* · Grammar: participle clause |
+| the jury is still out | people have not yet reached a decision | Despite decades of research, **the jury is still out** on the long-term effects of some GM foods. | idiom; + *on sth* · Grammar: concession |
+| err on the side of caution | be extra careful in order to avoid risk | Regulators chose to **err on the side of caution**, thus delaying approval until more safety data were available. | formal-neutral · Grammar: result clause with thereby/thus |
+| bring sth under control | succeed in limiting sth | If researchers hadn't developed new drugs in the 1990s, doctors wouldn't be able to **bring** HIV **under control** today. | neutral · Grammar: mixed conditional |
 
 ### More terms
 | Chunk | Meaning | Example | Notes |
 |---|---|---|---|
-| the human genome | the complete set of genes in a human being | Scientists finished mapping **the human genome** in 2003. | with *the*; C: *a genome*; *sequence / map a genome* |
-| genetic testing | testing sb's DNA for diseases or risks | **Genetic testing** can reveal a higher risk of breast cancer. | U, no article; but *a genetic test* (C) |
-| a genetic disorder | an illness caused by a problem in sb's genes | Hemophilia is **a genetic disorder** that stops blood from clotting. | C; formal; BrE spelling: *haemophilia* |
-| stem cells | cells that can develop into many different types of cell | **Stem cells** can grow into almost any type of tissue. | C, plural; *stem cell research* (U) |
-| cloning | making an exact genetic copy of an animal or plant | Human **cloning** is banned in most countries. | U; verb: *clone*; *a clone* (C) |
-| an organ transplant | an operation to replace a damaged organ with a healthy one | Thousands of patients die each year waiting for **an organ transplant**. | C; *receive / need a transplant*; *an organ donor* (C) |
-| personalized medicine | treatment designed for one patient, often based on their DNA | **Personalized medicine** uses a patient's genes to choose the best drug. | U; BrE spelling: *personalised*; also *precision medicine* |
-| biotechnology | the use of living cells and organisms in science and industry | **Biotechnology** is one of the fastest-growing industries. | U; informal: *biotech* (often before a noun: *a biotech company*) |
-| genetic diversity | the range of different genes within a species | Growing only one variety of a crop reduces **genetic diversity**. | U; formal |
-| antibiotic resistance | the ability of bacteria to survive antibiotics | **Antibiotic resistance** could make simple infections deadly again. | U; also *antimicrobial resistance (AMR)* |
-| a cure for sth | a treatment that ends a disease | There is still no **cure for** Alzheimer's disease. | C; *a cure for* (NOT *of*); *find / develop a cure* |
-| an ethical dilemma | a difficult choice between two morally problematic options | Choosing a baby's sex creates **an ethical dilemma** for doctors. | C; formal; *face an ethical dilemma* |
-| a moral obligation | a duty to do sth because it is right | Some argue that we have **a moral obligation** to prevent suffering if we can. | C; formal; + *to* + inf |
-| genetic discrimination | treating people unfairly because of their genes | US law bans **genetic discrimination** by employers and health insurers. | U; formal |
-| pose a risk to sth | be a possible danger to sth | Critics say GM crops **pose a risk to** wild plants. | neutral-formal; also *pose a threat to* |
-| ban sth outright | ban sth completely | Many countries have **banned** reproductive cloning **outright**. | neutral; *an outright ban* (C) |
-| weed sth out | remove unwanted people or things from a group | Screening could **weed out** embryos with serious diseases. | neutral; often critical in this context |
-| speed sth up | make sth happen faster | Cheap DNA sequencing has **sped up** the diagnosis of rare diseases. | neutral; past: *sped* or *speeded* |
-| hold sth back | stop sth from making progress | Overly strict rules may **hold back** life-saving research. | neutral |
-| cross the line | do sth that is no longer acceptable | Editing embryos for intelligence would **cross the line**. | idiom; neutral; also *draw the line at sth* |
-| the greater good | the benefit of most people | Some risks may be acceptable for **the greater good**. | with *the*; *for the greater good* |
-| a ray of hope | a small sign that things may improve | The new therapy offers **a ray of hope** to families. | C, singular; neutral |
+| the human genome | the complete set of genes in a human being | **The human genome** is estimated to contain roughly 20,000 genes, far fewer than scientists originally expected. | with *the*; C: *a genome*; *sequence / map a genome* · Grammar: impersonal passive |
+| genetic testing | testing sb's DNA for diseases or risks | **Genetic testing** has become so cheap that millions of people now order kits online. | U, no article; but *a genetic test* (C) · Grammar: so/such… that |
+| a genetic disorder | an illness caused by a problem in sb's genes | Hemophilia is **a genetic disorder** in which the blood fails to clot properly after an injury. | C; formal; BrE spelling: *haemophilia* · Grammar: relative: whose / whereby / in which |
+| stem cells | cells that can develop into many different types of cell | Only by studying **stem cells** can scientists learn how to grow replacement tissue for damaged organs. | C, plural; *stem cell research* (U) · Grammar: negative inversion |
+| cloning | making an exact genetic copy of an animal or plant | What alarmed the public in 1997 was the **cloning** of Dolly the sheep, the first mammal copied from an adult cell. | U; verb: *clone*; *a clone* (C) · Grammar: cleft sentence |
+| an organ transplant | an operation to replace a damaged organ with a healthy one | If only more people signed up as donors, fewer patients would die waiting for **an organ transplant**. | C; *receive / need a transplant*; *an organ donor* (C) · Grammar: unreal past |
+| personalized medicine | treatment designed for one patient, often based on their DNA | **Personalized medicine** uses a patient's genes to choose the right drug, thereby reducing harmful side effects. | U; BrE spelling: *personalised*; also *precision medicine* · Grammar: result clause with thereby/thus |
+| biotechnology | the use of living cells and organisms in science and industry | No matter what critics say, **biotechnology** remains one of the fastest-growing industries in the world. | U; informal: *biotech* (often before a noun: *a biotech company*) · Grammar: no matter / however |
+| genetic diversity | the range of different genes within a species | The more farmers rely on a single variety of a crop, the less **genetic diversity** remains to protect it from disease. | U; formal · Grammar: the more…, the more… |
+| antibiotic resistance | the ability of bacteria to survive antibiotics | Antibiotics must be prescribed more carefully, or **antibiotic resistance** could make simple infections deadly again. | U; also *antimicrobial resistance (AMR)* · Grammar: modal passive |
+| a cure for sth | a treatment that ends a disease | There is still no **cure for** Alzheimer's disease, which places a heavy burden on families and nursing homes. | C; *a cure for* (NOT *of*); *find / develop a cure* · Grammar: sentential relative |
+| an ethical dilemma | a difficult choice between two morally problematic options | While screening embryos for disease is widely accepted, choosing a baby's sex creates **an ethical dilemma** for doctors. | C; formal; *face an ethical dilemma* · Grammar: concession |
+| a moral obligation | a duty to do sth because it is right | If governments truly felt **a moral obligation** to reduce suffering, they would have funded research into rare diseases long ago. | C; formal; + *to* + inf · Grammar: mixed conditional |
+| genetic discrimination | treating people unfairly because of their genes | Were insurers allowed to see test results, **genetic discrimination** would become far more common. | U; formal · Grammar: inversion conditional |
+| pose a risk to sth | be a possible danger to sth | GM crops are believed by some ecologists to **pose a risk to** wild plants and insects. | neutral-formal; also *pose a threat to* · Grammar: impersonal passive |
+| ban sth outright | ban sth completely | Concerned about safety and ethics, many countries have **banned** reproductive cloning **outright**. | neutral; *an outright ban* (C) · Grammar: participle clause |
+| weed sth out | remove unwanted people or things from a group | Without screening, the clinic couldn't have **weeded out** embryos carrying the faulty gene before implantation. | neutral; often critical in this context · Grammar: modal perfect |
+| speed sth up | make sth happen faster | DNA sequencing has become so fast and cheap that it has greatly **sped up** the diagnosis of rare diseases. | neutral; past: *sped* or *speeded* · Grammar: so/such… that |
+| hold sth back | stop sth from making progress | The stricter the rules become, the more they may **hold back** life-saving research. | neutral · Grammar: the more…, the more… |
+| cross the line | do sth that is no longer acceptable | However tempting it may be, editing embryos to boost intelligence would **cross the line** for most scientists. | idiom; neutral; also *draw the line at sth* · Grammar: no matter / however |
+| the greater good | the benefit of most people | Those early volunteers must have accepted the risks of the trial for **the greater good**. | with *the*; *for the greater good* · Grammar: modal perfect |
+| a ray of hope | a small sign that things may improve | The new therapy, whose early trial results look promising, offers **a ray of hope** to families of sick children. | C, singular; neutral · Grammar: relative: whose / whereby / in which |
 
 ## Text 1 — Advantages and disadvantages
 > Genetic engineering may allow scientists to prevent many serious diseases, but some people are worried about the risks. Do the advantages of genetic engineering outweigh the disadvantages?

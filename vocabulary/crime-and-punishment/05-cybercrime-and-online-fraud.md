@@ -6,86 +6,86 @@
 ### Key terms
 | Chunk | Meaning | Example | Notes |
 |---|---|---|---|
-| cybercrime | crime committed using computers or the internet | **Cybercrime** is growing faster than the police can respond. | U · neutral |
-| identity theft | using sb's personal details to commit fraud | **Identity theft** can damage a person's credit score for years. | U · neutral |
-| phishing | fake emails or texts that trick people into giving their details | **Phishing** emails often look like messages from banks. | U · neutral · *a phishing email / scam* (C) |
-| a scam | a dishonest plan to cheat people out of money | He lost his savings in **a scam**. | C · informal–neutral · person: *a scammer* |
-| a data breach | an incident in which private data is stolen or leaked | **A data breach** exposed millions of customers' passwords. | C · neutral |
-| a hacker | sb who illegally gets into computer systems | **Hackers** stole customers' card details. | C · neutral |
-| ransomware | software that locks files until a payment is made | The 2017 WannaCry **ransomware** attack hit hospitals across Britain. | U · neutral · but *a ransomware attack* (C) |
-| personal data | information about a person | Companies must protect customers' **personal data**. | U · neutral · NOT *personal datas* |
-| digital literacy | the skills needed to use technology safely and effectively | Schools should teach **digital literacy** from an early age. | U · neutral |
-| two-factor authentication | a login method that needs a second step, such as a code | Turn on **two-factor authentication** for your bank account. | U · neutral |
-| a fraudster | sb who cheats people to get money | **Fraudsters** often pretend to be bank employees. | C · neutral · AmE also: *a con artist* |
-| the dark web | hidden websites used for illegal trade | Stolen card details are sold on **the dark web**. | always *the* · neutral |
+| cybercrime | crime committed using computers or the internet | **Cybercrime** is expected to cost the global economy more each year as criminals adopt new technology. | U · neutral · Grammar: impersonal passive |
+| identity theft | using sb's personal details to commit fraud | Were banks to require two-factor authentication for every login, **identity theft** would become far more difficult. | U · neutral · Grammar: inversion conditional |
+| phishing | fake emails or texts that trick people into giving their details | Disguised as messages from banks, **phishing** emails trick thousands of people into revealing their passwords. | U · neutral · *a phishing email / scam* (C) · Grammar: participle clause |
+| a scam | a dishonest plan to cheat people out of money | The email looked so convincing that my grandmother didn't realize it was **a scam** until her money was gone. | C · informal–neutral · person: *a scammer* · Grammar: so/such… that |
+| a data breach | an incident in which private data is stolen or leaked | The retailer suffered **a data breach** last year, which exposed millions of customers' credit card numbers. | C · neutral · Grammar: sentential relative |
+| a hacker | sb who illegally gets into computer systems | If the company had fixed the security flaw, **a hacker** would not now be selling its customers' data online. | C · neutral · Grammar: mixed conditional |
+| ransomware | software that locks files until a payment is made | It was **ransomware** that shut down the hospital's computer systems for nearly a week. | U · neutral · but *a ransomware attack* (C) · Grammar: cleft sentence |
+| personal data | information about a person | **Personal data** should be stored securely and deleted once it is no longer needed. | U · neutral · NOT *personal datas* · Grammar: modal passive |
+| digital literacy | the skills needed to use technology safely and effectively | Only by teaching **digital literacy** in schools can we protect the next generation from online fraud. | U · neutral · Grammar: negative inversion |
+| two-factor authentication | a login method that needs a second step, such as a code | Her account should have been protected by **two-factor authentication**, but she had never switched it on. | U · neutral · Grammar: modal perfect |
+| a fraudster | sb who cheats people to get money | No matter how careful you are, **a fraudster** with enough of your personal details can still fool you. | C · neutral · AmE also: *a con artist* · Grammar: no matter / however |
+| the dark web | hidden websites used for illegal trade | **The dark web** is a hidden part of the internet in which stolen data is bought and sold. | always *the* · neutral · Grammar: relative: whose / whereby / in which |
 
 ### Collocations
 | Chunk | Meaning | Example | Notes |
 |---|---|---|---|
-| fall victim to sth | be harmed or cheated by sth | Elderly people often **fall victim to** online scams. | fixed · neutral · NOT *fall a victim of* |
-| steal sb's identity | use sb's personal details to commit fraud | Criminals **stole** her **identity** and opened bank accounts. | verb + possessive + noun · neutral |
-| sensitive data | private information that could cause harm if leaked | Hospitals hold large amounts of **sensitive data**. | U · neutral |
-| a security flaw | a weakness in a system that criminals can use | Hackers exploited **a security flaw** in the app. | C · neutral · *exploit / fix a security flaw* |
-| target vulnerable groups | aim crimes at people who are easily harmed | Scammers **target vulnerable groups** such as seniors. | verb + noun · neutral · BrE: *pensioners* |
-| raise awareness of sth | make people know more about sth | Banks run campaigns to **raise awareness of** fraud. | fixed · neutral · AmE also very common: *raise awareness about sth* |
-| banking information | details such as account and card numbers | Never share your **banking information** over the phone. | U · neutral · NOT *informations* · BrE: *bank details* (plural) |
-| tighten security | make security stricter | After the attack, the company **tightened security**. | verb + noun · neutral |
-| hold sb liable (for sth) | make sb legally responsible | Banks should be **held liable** for weak systems. | formal · also *hold sb accountable* (neutral) |
-| reimburse victims | pay victims back the money they lost | Banks must **reimburse victims** quickly. | verb + noun · formal |
-| a strong password | a password that is hard to guess | Use **a strong password** for every account. | C · neutral · opposite: *a weak password* |
+| fall victim to sth | be harmed or cheated by sth | The more personal information people share online, the more likely they are to **fall victim to** fraud. | fixed · neutral · NOT *fall a victim of* · Grammar: the more…, the more… |
+| steal sb's identity | use sb's personal details to commit fraud | Criminals **stole his identity** and opened credit cards in his name, thus ruining his credit score. | verb + possessive + noun · neutral · Grammar: result clause with thereby/thus |
+| sensitive data | private information that could cause harm if leaked | Even though the files contained **sensitive data**, the company had stored them without any encryption. | U · neutral · Grammar: concession |
+| a security flaw | a weakness in a system that criminals can use | Many customers wish the company had disclosed **a security flaw** long before hackers exploited it. | C · neutral · *exploit / fix a security flaw* · Grammar: unreal past |
+| target vulnerable groups | aim crimes at people who are easily harmed | Scammers are known to **target vulnerable groups** such as the elderly and recent immigrants. | verb + noun · neutral · BrE: *pensioners* · Grammar: impersonal passive |
+| raise awareness of sth | make people know more about sth | Were schools to **raise awareness of** online scams, fewer teenagers would hand over their passwords. | fixed · neutral · AmE also very common: *raise awareness about sth* · Grammar: inversion conditional |
+| banking information | details such as account and card numbers | **Banking information** should never be sent by email, since banks do not ask for it this way. | U · neutral · NOT *informations* · BrE: *bank details* (plural) · Grammar: modal passive |
+| tighten security | make security stricter | Having lost millions to hackers, the bank decided to **tighten security** across all its systems. | verb + noun · neutral · Grammar: participle clause |
+| hold sb liable (for sth) | make sb legally responsible | What many experts propose is to **hold** tech companies **liable for** the data breaches they fail to prevent. | formal · also *hold sb accountable* (neutral) · Grammar: cleft sentence |
+| reimburse victims | pay victims back the money they lost | If banks were required by law to **reimburse victims**, they would have invested in better fraud detection long ago. | verb + noun · formal · Grammar: mixed conditional |
+| a strong password | a password that is hard to guess | Hackers can now guess weak passwords so quickly that **a strong password** alone is no longer enough. | C · neutral · opposite: *a weak password* · Grammar: so/such… that |
 
 ### Phrasal verbs
 | Chunk | Meaning | Example | Notes |
 |---|---|---|---|
-| hack into sth | get into a computer system illegally | Someone **hacked into** my email account. | inseparable · neutral |
-| con sb out of sth | trick sb into giving money | They **conned** him **out of** $5,000. | separable · informal–neutral |
-| fall for sth | be tricked into believing sth | It is easy to **fall for** a fake delivery text. | inseparable · neutral |
-| pass yourself off as sb | pretend to be sb | Scammers **pass themselves off as** bank employees. | reflexive · neutral |
-| give away sth | let others have information, often carelessly | Never **give away** your PIN. | separable · neutral |
-| take down sth | remove a website or post | Police **took down** hundreds of fake websites. | separable · neutral |
-| watch out for sth | be careful to notice sth | **Watch out for** emails with spelling mistakes. | inseparable · neutral |
-| prey on sb | target and take advantage of weaker people | Fraudsters **prey on** lonely older people. | inseparable · neutral |
-| lag behind (sth) | fail to keep up with | The law always **lags behind** technology. | intransitive or + object · neutral |
+| hack into sth | get into a computer system illegally | Not only did the criminals **hack into** the bank's network, but they also deleted the evidence of their attack. | inseparable · neutral · Grammar: negative inversion |
+| con sb out of sth | trick sb into giving money | The fake builder must have **conned** several elderly neighbors **out of** their savings. | separable · informal–neutral · Grammar: modal perfect |
+| fall for sth | be tricked into believing sth | However smart you are, it is easy to **fall for** a well-designed phishing email. | inseparable · neutral · Grammar: no matter / however |
+| pass yourself off as sb | pretend to be sb | Police warned of a scam whereby criminals **pass themselves off as** bank staff to get customers' PINs. | reflexive · neutral · Grammar: relative: whose / whereby / in which |
+| give away sth | let others have information, often carelessly | Many users **give away** personal details in online quizzes, which makes guessing their security questions easy. | separable · neutral · Grammar: sentential relative |
+| take down sth | remove a website or post | The police **took down** the fake shopping website, thereby protecting thousands of potential victims. | separable · neutral · Grammar: result clause with thereby/thus |
+| watch out for sth | be careful to notice sth | While most banks warn customers to **watch out for** fake texts, many people still click on the links. | inseparable · neutral · Grammar: concession |
+| prey on sb | target and take advantage of weaker people | The lonelier people are, the more easily scammers can **prey on** them. | inseparable · neutral · Grammar: the more…, the more… |
+| lag behind (sth) | fail to keep up with | It is high time laws on cybercrime stopped **lagging behind** the technology criminals use. | intransitive or + object · neutral · Grammar: unreal past |
 
 ### Fixed expressions & idioms
 | Chunk | Meaning | Example | Notes |
 |---|---|---|---|
-| too good to be true | so good that it is probably false | If an offer seems **too good to be true**, it probably is. | fixed · neutral |
-| the first line of defense | the first protection against an attack | Users are **the first line of defense** against hackers. | always *the* · neutral · BrE spelling: *defence* |
-| a game of cat and mouse | a situation in which one side keeps chasing the other | Cybersecurity is **a game of cat and mouse**. | C · neutral · AmE also: *a cat-and-mouse game* |
-| think twice before -ing | consider sth carefully before doing it | **Think twice before** clicking a link in a text message. | + -ing · neutral |
-| err on the side of caution | be extra careful rather than take a risk | When in doubt, **err on the side of caution**. | fixed · neutral |
-| the weakest link | the least reliable part of a system | People are often **the weakest link** in security. | always *the* · neutral |
-| a wake-up call | an event that makes people realize a danger | The hack was **a wake-up call** for the company. | C · neutral |
-| at the click of a button | very easily and quickly online | Money can now be moved **at the click of a button**. | fixed · neutral |
+| too good to be true | so good that it is probably false | Should an online offer seem **too good to be true**, you would be wise to ignore it. | fixed · neutral · Grammar: inversion conditional |
+| the first line of defense | the first protection against an attack | It is ordinary users, not IT departments, who are often **the first line of defense** against phishing. | always *the* · neutral · BrE spelling: *defence* · Grammar: cleft sentence |
+| a game of cat and mouse | a situation in which one side keeps chasing the other | Cybersecurity is often said to be **a game of cat and mouse** between hackers and security experts. | C · neutral · AmE also: *a cat-and-mouse game* · Grammar: impersonal passive |
+| think twice before -ing | consider sth carefully before doing it | If people were more aware of the risks, they would have **thought twice before** posting their home address online. | + -ing · neutral · Grammar: mixed conditional |
+| err on the side of caution | be extra careful rather than take a risk | You needn't have deleted the email, but it is always better to **err on the side of caution**. | fixed · neutral · Grammar: modal perfect |
+| the weakest link | the least reliable part of a system | Employees reuse passwords so often that they have become **the weakest link** in many companies' security. | always *the* · neutral · Grammar: so/such… that |
+| a wake-up call | an event that makes people realize a danger | Having had his email account hacked, he saw the incident as **a wake-up call** and started using a password manager. | C · neutral · Grammar: participle clause |
+| at the click of a button | very easily and quickly online | Criminals can now reach millions of people **at the click of a button**, which makes online fraud cheap and easy. | fixed · neutral · Grammar: sentential relative |
 
 ### More terms
 | Chunk | Meaning | Example | Notes |
 |---|---|---|---|
-| online fraud | cheating people out of money or information over the internet | **Online fraud** now costs consumers billions of dollars a year. | U · neutral · *commit online fraud* |
-| cybersecurity | the protection of computer systems and data from attack | Small businesses often cannot afford proper **cybersecurity**. | U · neutral · AmE: one word; BrE also: *cyber security* |
-| a cybercriminal | a person who commits crimes using computers or the internet | **Cybercriminals** often operate from countries where they cannot be arrested. | C · neutral |
-| a cyberattack | an attempt to damage or take control of a computer system | **A cyberattack** shut down the city's computer systems for a week. | C · neutral · *launch / carry out a cyberattack* · BrE also: *cyber-attack* |
-| malware | software designed to damage computers or steal data | Opening the attachment installed **malware** on her laptop. | U · neutral · NOT *a malware*; *a piece of malware* |
-| a computer virus | a program that copies itself and damages computers | **A computer virus** spread through the company's email system. | C · neutral |
-| encryption | changing data into a code so that others cannot read it | **Encryption** keeps messages private even if they are intercepted. | U · neutral · *end-to-end encryption*; verb: *encrypt* |
-| a password manager | an app that creates and stores strong passwords | **A password manager** means you only need to remember one password. | C · neutral |
-| privacy settings | options that control who can see your information | Check your **privacy settings** on every social media app. | plural · neutral · *adjust / change your privacy settings* |
-| a digital footprint | the record of everything you do online | Everything you post adds to your **digital footprint**. | C · neutral · *leave a digital footprint* |
-| be hacked | (of an account or system) be entered illegally | My social media account **was hacked** last week. | passive · neutral · noun: *a hack* (C) |
-| a suspicious link | a link that may lead to a fake or harmful website | Never click on **a suspicious link** in a text message. | C · neutral · *click on a link* |
-| a red flag | a sign that something is wrong or dangerous | A request to pay in gift cards is **a red flag**. | C · neutral, very common in AmE · *raise a red flag* |
-| a robocall | an automated phone call, often used by scammers | Millions of Americans receive **robocalls** every day. | C · AmE, informal–neutral |
-| a romance scam | a scam in which a criminal pretends to be in love to get money | She lost her savings in **a romance scam** that lasted a year. | C · neutral · related: *catfishing* (= using a fake online identity to deceive sb) |
-| credit card fraud | using sb's credit card details without permission | **Credit card fraud** often starts with a fake online store. | U · neutral · *be a victim of credit card fraud* |
-| freeze your card | temporarily stop your bank card from being used | If you suspect fraud, **freeze your card** immediately. | verb + noun · neutral · AmE also: *freeze your credit* (to stop new accounts being opened) |
-| keep sth up to date | regularly install the newest version of sth | **Keep** your software **up to date** to fix security flaws. | fixed · neutral · adj before a noun: *up-to-date software* |
-| Big Tech | the largest and most powerful technology companies | Many people believe **Big Tech** should do more to stop scams. | U, no article · neutral, AmE |
-| cross-border crime | crime that involves more than one country | Cybercrime is a classic example of **cross-border crime**. | U · formal |
-| international cooperation | countries working together toward a shared goal | Catching hackers requires **international cooperation**. | U · formal · AmE spelling: *cooperation* (BrE also: *co-operation*) · AmE *toward* = BrE *towards* |
-| trace sth back to sb/sth | find where sth came from | The attack was **traced back to** a group overseas. | separable, often passive · neutral |
-| cash in on sth | make money from a situation, often unfairly | Scammers **cashed in on** people's fears during the pandemic. | inseparable · informal–neutral |
-| once bitten, twice shy | after a bad experience, you are more careful | After losing money to a fake store, she never shops on unknown websites: **once bitten, twice shy**. | fixed saying · informal–neutral · AmE also: *once burned, twice shy* |
+| online fraud | cheating people out of money or information over the internet | No matter how often banks warn customers, **online fraud** continues to grow every year. | U · neutral · *commit online fraud* · Grammar: no matter / however |
+| cybersecurity | the protection of computer systems and data from attack | The government launched a program whereby small businesses receive free **cybersecurity** training. | U · neutral · AmE: one word; BrE also: *cyber security* · Grammar: relative: whose / whereby / in which |
+| a cybercriminal | a person who commits crimes using computers or the internet | Seldom is **a cybercriminal** caught, since many operate from countries that refuse to extradite suspects. | C · neutral · Grammar: negative inversion |
+| a cyberattack | an attempt to damage or take control of a computer system | Hackers launched **a cyberattack** on the city's power grid, thereby leaving thousands of homes without electricity. | C · neutral · *launch / carry out a cyberattack* · BrE also: *cyber-attack* · Grammar: result clause with thereby/thus |
+| malware | software designed to damage computers or steal data | **Malware** can be hidden in free apps, so downloads should be limited to official app stores. | U · neutral · NOT *a malware*; *a piece of malware* · Grammar: modal passive |
+| a computer virus | a program that copies itself and damages computers | Despite having security software, the office network was infected by **a computer virus** within days. | C · neutral · Grammar: concession |
+| encryption | changing data into a code so that others cannot read it | End-to-end **encryption** is believed to make messages almost impossible for hackers to read. | U · neutral · *end-to-end encryption*; verb: *encrypt* · Grammar: impersonal passive |
+| a password manager | an app that creates and stores strong passwords | The more accounts you have, the more useful **a password manager** becomes. | C · neutral · Grammar: the more…, the more… |
+| privacy settings | options that control who can see your information | Many parents would rather their children checked their **privacy settings** before posting anything online. | plural · neutral · *adjust / change your privacy settings* · Grammar: unreal past |
+| a digital footprint | the record of everything you do online | What many teenagers forget is that every post leaves **a digital footprint** that employers can find years later. | C · neutral · *leave a digital footprint* · Grammar: cleft sentence |
+| be hacked | (of an account or system) be entered illegally | His email account must have **been hacked**, because his friends started receiving strange messages from him. | passive · neutral · noun: *a hack* (C) · Grammar: modal perfect |
+| a suspicious link | a link that may lead to a fake or harmful website | Had she not clicked on **a suspicious link**, her laptop would never have been infected with ransomware. | C · neutral · *click on a link* · Grammar: inversion conditional |
+| a red flag | a sign that something is wrong or dangerous | If the bank had treated the large transfer as **a red flag**, the customer would still have her savings. | C · neutral, very common in AmE · *raise a red flag* · Grammar: mixed conditional |
+| a robocall | an automated phone call, often used by scammers | No matter how many numbers I block, I still get **a robocall** almost every day. | C · AmE, informal–neutral · Grammar: no matter / however |
+| a romance scam | a scam in which a criminal pretends to be in love to get money | Convinced that she had found true love, the woman lost her savings to **a romance scam**. | C · neutral · related: *catfishing* (= using a fake online identity to deceive sb) · Grammar: participle clause |
+| credit card fraud | using sb's credit card details without permission | Banks now send instant alerts for unusual purchases, thus making **credit card fraud** easier to spot. | U · neutral · *be a victim of credit card fraud* · Grammar: result clause with thereby/thus |
+| freeze your card | temporarily stop your bank card from being used | She wishes she had **frozen her card** as soon as she noticed the strange payment. | verb + noun · neutral · AmE also: *freeze your credit* (to stop new accounts being opened) · Grammar: unreal past |
+| keep sth up to date | regularly install the newest version of sth | All devices should be **kept up to date**, since old software often contains security flaws. | fixed · neutral · adj before a noun: *up-to-date software* · Grammar: modal passive |
+| Big Tech | the largest and most powerful technology companies | **Big Tech** collects huge amounts of personal data, which makes these companies attractive targets for hackers. | U, no article · neutral, AmE · Grammar: sentential relative |
+| cross-border crime | crime that involves more than one country | Only through international cooperation can police tackle **cross-border crime** such as online fraud. | U · formal · Grammar: negative inversion |
+| international cooperation | countries working together toward a shared goal | Online fraud crosses borders so easily that **international cooperation** between police forces is essential. | U · formal · AmE spelling: *cooperation* (BrE also: *co-operation*) · AmE *toward* = BrE *towards* · Grammar: so/such… that |
+| trace sth back to sb/sth | find where sth came from | Investigators found a server whose location helped them **trace** the attack **back to** a gang in another country. | separable, often passive · neutral · Grammar: relative: whose / whereby / in which |
+| cash in on sth | make money from a situation, often unfairly | The bigger the news story, the faster scammers **cash in on** it with fake charity websites. | inseparable · informal–neutral · Grammar: the more…, the more… |
+| once bitten, twice shy | after a bad experience, you are more careful | Even though the site looks legit, I'm not ordering from it — **once bitten, twice shy**. | fixed saying · informal–neutral · AmE also: *once burned, twice shy* · Grammar: concession |
 
 ## Text 1 — Two-part question
 > Online fraud and identity theft are becoming increasingly common. Why is this happening, and who should be responsible for protecting people from these crimes?
