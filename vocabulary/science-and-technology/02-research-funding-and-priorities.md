@@ -6,88 +6,88 @@
 ### Key terms
 | Chunk | Meaning | Example | Notes |
 |---|---|---|---|
-| basic research | research done to understand how things work, with no immediate practical use | **Basic research** into bacteria eventually led to gene editing. | U, no article; also *fundamental research* |
-| applied research | research aimed at solving a particular practical problem | Most company money goes into **applied research**. | U, no article |
-| blue-sky research | research with no obvious short-term application | Few investors are willing to pay for **blue-sky research**. | U; neutral; also *curiosity-driven research* |
-| a research grant | money given to a scientist or team for a project | She won **a research grant** to study malaria. | C; *apply for / award / receive a grant* |
-| public funding | money provided by the government | **Public funding** for science has fallen in real terms. | U: NOT *public fundings* |
-| the pharmaceutical industry | the companies that develop and sell medicines | **The pharmaceutical industry** spends billions on new drugs. | with *the*; informal: *Big Pharma* (critical) |
-| a conflict of interest | a situation in which sb's private interests could affect their judgment | Funding from a tobacco company creates **a conflict of interest**. | C; *disclose a conflict of interest*; BrE spelling: *judgement* |
-| peer review | the checking of research by other experts before it is published | Every study must pass **peer review**. | U; adjective: *peer-reviewed journals* |
-| a clinical trial | a test of a new drug or treatment on patients | The vaccine went through three phases of **clinical trials**. | C; *conduct / run a clinical trial* |
-| the brain drain | the movement of highly skilled people to other countries | **The brain drain** leaves poorer nations short of doctors and scientists. | with *the*; neutral |
-| intellectual property | ideas and inventions that legally belong to sb | Firms protect their **intellectual property** with patents. | U; abbreviation *IP* |
-| a patent | a legal right to be the only one to make or sell an invention | The company holds **a patent** on the drug for twenty years. | C; *hold / file / take out a patent* |
-| neglected diseases | illnesses that mainly affect poor countries and attract little research | Drug companies show little interest in **neglected diseases**. | C, plural; formal |
+| basic research | research done to understand how things work, with no immediate practical use | It was **basic research** into bacteria, not a search for new drugs, that eventually led to gene editing. | U, no article; also *fundamental research* · Grammar: cleft sentence |
+| applied research | research aimed at solving a particular practical problem | While **applied research** delivers quick commercial results, it rarely produces the surprising discoveries that transform a field. | U, no article · Grammar: concession |
+| blue-sky research | research with no obvious short-term application | Rarely are private investors willing to pay for **blue-sky research** with no obvious short-term application. | U; neutral; also *curiosity-driven research* · Grammar: negative inversion |
+| a research grant | money given to a scientist or team for a project | Having won **a research grant** from a medical charity, she spent three years studying malaria in Kenya. | C; *apply for / award / receive a grant* · Grammar: participle clause |
+| public funding | money provided by the government | In many countries, **public funding** for science is said to have fallen in real terms over the last decade. | U: NOT *public fundings* · Grammar: impersonal passive |
+| the pharmaceutical industry | the companies that develop and sell medicines | **The pharmaceutical industry** spends such vast sums on new drugs that it can shape entire research agendas. | with *the*; informal: *Big Pharma* (critical) · Grammar: so/such… that |
+| a conflict of interest | a situation in which sb's private interests could affect their judgment | Were a tobacco company to fund a study on smoking, it would create **a conflict of interest**. | C; *disclose a conflict of interest*; BrE spelling: *judgement* · Grammar: inversion conditional |
+| peer review | the checking of research by other experts before it is published | Every study should be subjected to **peer review** before its findings are reported in the media. | U; adjective: *peer-reviewed journals* · Grammar: modal passive |
+| a clinical trial | a test of a new drug or treatment on patients | The larger **a clinical trial** is, the more reliable its results tend to be. | C; *conduct / run a clinical trial* · Grammar: the more…, the more… |
+| the brain drain | the movement of highly skilled people to other countries | Many young scientists from poorer countries emigrate for higher salaries, thereby fueling **the brain drain**. | with *the*; neutral · Grammar: result clause with thereby/thus |
+| intellectual property | ideas and inventions that legally belong to sb | Patents create a system whereby firms can protect their **intellectual property** for up to twenty years. | U; abbreviation *IP* · Grammar: relative: whose / whereby / in which |
+| a patent | a legal right to be the only one to make or sell an invention | The university should have taken out **a patent** before publishing the discovery in a journal. | C; *hold / file / take out a patent* · Grammar: modal perfect |
+| neglected diseases | illnesses that mainly affect poor countries and attract little research | It's time drug companies paid more attention to **neglected diseases** that kill millions in poorer countries. | C, plural; formal · Grammar: unreal past |
 
 ### Collocations
 | Chunk | Meaning | Example | Notes |
 |---|---|---|---|
-| conduct research | do research | Universities **conduct research** that companies cannot afford. | *research* is U: NOT *a research*, NOT *researches*, NOT *make research* |
-| fund research into sth | pay for research on a subject | Charities **fund research into** rare cancers. | *research into / on sth* (NOT *research of*) |
-| commercially viable | able to make a profit | The idea was clever but not **commercially viable**. | formal |
-| the profit motive | the desire to make money as the reason for doing sth | **The profit motive** drives most private research. | with *the*; formal |
-| publish findings | make the results of a study public | Scientists must be free to **publish** their **findings**. | *findings* is plural; also *publish results* |
-| suppress unfavorable results | hide results that are bad for the funder | Some firms have been accused of **suppressing unfavorable results**. | formal; BrE spelling: *unfavourable* |
-| academic freedom | the right of researchers to study and publish what they choose | Corporate funding can threaten **academic freedom**. | U, no article |
-| allocate funding to sth | officially decide to give money to sth | The government **allocated** extra **funding to** dementia research. | formal; *funding* is U |
-| cutting-edge research | the most advanced research in a field | The lab is known for **cutting-edge research** on batteries. | U; hyphenated before a noun |
-| vested interests | groups that want to protect their own advantage | **Vested interests** can decide which questions get studied. | C, plural; formal |
-| a return on investment | the profit made from money invested | Shareholders expect **a** quick **return on** their **investment**. | C, singular; *a return on* (NOT *of*); abbreviation *ROI* |
-| tax incentives | tax reductions that encourage a certain activity | **Tax incentives** encourage firms to invest in research. | C, plural; *offer / introduce tax incentives* |
-| underfunded | not given enough money | Many university labs are badly **underfunded**. | adjective; *chronically / badly underfunded* |
+| conduct research | do research | If universities didn't **conduct research** that companies cannot afford, many medical breakthroughs would never have happened. | *research* is U: NOT *a research*, NOT *researches*, NOT *make research* · Grammar: mixed conditional |
+| fund research into sth | pay for research on a subject | Patient charities **fund research into** rare cancers, which fills a gap left by the big drug companies. | *research into / on sth* (NOT *research of*) · Grammar: sentential relative |
+| commercially viable | able to make a profit | Despite being highly innovative, the battery was not **commercially viable** because it cost too much to produce. | formal · Grammar: concession |
+| the profit motive | the desire to make money as the reason for doing sth | **The profit motive** steers private labs toward drugs for wealthy markets, thus leaving neglected diseases underfunded. | with *the*; formal · Grammar: result clause with thereby/thus |
+| publish findings | make the results of a study public | No matter how disappointing the results are, scientists must be free to **publish** their **findings**. | *findings* is plural; also *publish results* · Grammar: no matter / however |
+| suppress unfavorable results | hide results that are bad for the funder | Drug companies that **suppress unfavorable results** should be heavily fined, since doctors may end up prescribing drugs that do not work. | formal; BrE spelling: *unfavourable* · Grammar: modal passive |
+| academic freedom | the right of researchers to study and publish what they choose | Not only does corporate funding threaten **academic freedom**, but it can also discourage scientists from publishing critical studies. | U, no article · Grammar: negative inversion |
+| allocate funding to sth | officially decide to give money to sth | Faced with an aging population, the government **allocated** extra **funding to** dementia research. | formal; *funding* is U · Grammar: participle clause |
+| cutting-edge research | the most advanced research in a field | The lab, whose **cutting-edge research** on batteries attracts investors from around the world, has just won a federal grant. | U; hyphenated before a noun · Grammar: relative: whose / whereby / in which |
+| vested interests | groups that want to protect their own advantage | It is often **vested interests**, rather than scientific curiosity, that decide which questions get studied. | C, plural; formal · Grammar: cleft sentence |
+| a return on investment | the profit made from money invested | Shareholders demand such **a** quick **return on investment** that long-term studies rarely get funded. | C, singular; *a return on* (NOT *of*); abbreviation *ROI* · Grammar: so/such… that |
+| tax incentives | tax reductions that encourage a certain activity | The more generous the **tax incentives** are, the more firms tend to invest in research and development. | C, plural; *offer / introduce tax incentives* · Grammar: the more…, the more… |
+| underfunded | not given enough money | Many researchers wish their labs weren't chronically **underfunded**, as they spend more time applying for grants than doing science. | adjective; *chronically / badly underfunded* · Grammar: unreal past |
 
 ### Phrasal verbs
 | Chunk | Meaning | Example | Notes |
 |---|---|---|---|
-| come up with sth | think of an idea, plan or solution | The team **came up with** a cheaper test for tuberculosis. | neutral |
-| build on sth | use earlier work as a base for further progress | Each generation of scientists **builds on** the work of the last. | neutral |
-| cut back on sth | reduce spending on sth | The government **cut back on** science funding during the recession. | neutral; noun: *cutbacks* (C, plural) |
-| dry up | (of money or supplies) stop being available | Many projects collapse when the funding **dries up**. | intransitive; neutral |
-| pour sth into sth | invest a lot of money in sth | Tech giants are **pouring** billions **into** AI research. | neutral |
-| stumble on/upon sth | find sth by chance | Fleming **stumbled upon** penicillin in 1928. | neutral; also *come across sth* |
-| sign up for sth | agree to take part in sth | Thousands of volunteers **signed up for** the vaccine trials. | neutral; + noun or *to* + inf |
-| turn sth into sth | change sth into sth else | Startups **turn** lab discoveries **into** products. | neutral |
-| lure sb away | persuade sb to leave by offering them more | Private labs **lure** top researchers **away** from universities. | neutral; informal synonym: *poach sb* |
+| come up with sth | think of an idea, plan or solution | The team might have **come up with** a cheaper test for tuberculosis sooner if they had shared their data. | neutral · Grammar: modal perfect |
+| build on sth | use earlier work as a base for further progress | Each generation of scientists **builds on** the work of the last, thus speeding up progress in every field. | neutral · Grammar: result clause with thereby/thus |
+| cut back on sth | reduce spending on sth | The government **cut back on** science funding during the recession, which forced many young researchers to move abroad. | neutral; noun: *cutbacks* (C, plural) · Grammar: sentential relative |
+| dry up | (of money or supplies) stop being available | Should the funding **dry up**, the project would collapse before the first results came in. | intransitive; neutral · Grammar: inversion conditional |
+| pour sth into sth | invest a lot of money in sth | Tech giants are reported to be **pouring** billions of dollars **into** AI research every year. | neutral · Grammar: impersonal passive |
+| stumble on/upon sth | find sth by chance | Although Fleming **stumbled upon** penicillin by accident in 1928, it took over a decade to turn it into a usable drug. | neutral; also *come across sth* · Grammar: concession |
+| sign up for sth | agree to take part in sth | So many volunteers **signed up for** the vaccine trials that researchers had to turn people away. | neutral; + noun or *to* + inf · Grammar: so/such… that |
+| turn sth into sth | change sth into sth else | Promising lab discoveries must be **turned into** affordable products before patients can benefit from them. | neutral · Grammar: modal passive |
+| lure sb away | persuade sb to leave by offering them more | Private labs offer salaries with which universities cannot compete, so they easily **lure** top researchers **away**. | neutral; informal synonym: *poach sb* · Grammar: relative: whose / whereby / in which |
 
 ### Fixed expressions & idioms
 | Chunk | Meaning | Example | Notes |
 |---|---|---|---|
-| in the public interest | good for people in general | Research on vaccines is clearly **in the public interest**. | formal; NOT *in public interest* |
-| he who pays the piper calls the tune | whoever pays for sth controls how it is done | In research, as elsewhere, **he who pays the piper calls the tune**. | proverb; understood in AmE but more common in BrE; AmE alternative: *money talks* |
-| with no strings attached | with no special conditions | The grant was given **with no strings attached**. | neutral; also *no strings attached* |
-| trial and error | trying different methods until one works | Much early chemistry was pure **trial and error**. | U, no article; *by trial and error* |
-| reinvent the wheel | waste time creating sth that already exists | Sharing data means labs do not have to **reinvent the wheel**. | idiom; neutral |
-| a shot in the dark | a guess with little chance of success | Funding such an unusual project felt like **a shot in the dark**. | C; neutral |
-| publish or perish | the pressure on academics to publish often in order to keep their jobs | **Publish or perish** pushes scientists toward safe, quick studies. | fixed phrase, no article; BrE also: *towards* |
-| bear fruit | produce good results | The investment took twenty years to **bear fruit**. | neutral; NOT *give fruit* |
+| in the public interest | good for people in general | What makes vaccine research worth funding is that it is clearly **in the public interest**. | formal; NOT *in public interest* · Grammar: cleft sentence |
+| he who pays the piper calls the tune | whoever pays for sth controls how it is done | It is often said that **he who pays the piper calls the tune**, and corporate-funded research is no exception. | proverb; understood in AmE but more common in BrE; AmE alternative: *money talks* · Grammar: impersonal passive |
+| with no strings attached | with no special conditions | Most scientists would rather the government gave them grants **with no strings attached**. | neutral; also *no strings attached* · Grammar: unreal past |
+| trial and error | trying different methods until one works | Working largely by **trial and error**, early chemists gradually discovered which substances reacted safely. | U, no article; *by trial and error* · Grammar: participle clause |
+| reinvent the wheel | waste time creating sth that already exists | Were labs to share their data openly, they wouldn't have to **reinvent the wheel** every time they started a project. | idiom; neutral · Grammar: inversion conditional |
+| a shot in the dark | a guess with little chance of success | Funding such an unusual project must have seemed like **a shot in the dark**, yet it led to a major breakthrough. | C; neutral · Grammar: modal perfect |
+| publish or perish | the pressure on academics to publish often in order to keep their jobs | The stronger the culture of **publish or perish**, the more scientists choose safe, quick studies over risky ones. | fixed phrase, no article; BrE also: *towards* · Grammar: the more…, the more… |
+| bear fruit | produce good results | Although the investment took twenty years to **bear fruit**, it eventually produced a whole new industry. | neutral; NOT *give fruit* · Grammar: concession |
 
 ### More terms
 | Chunk | Meaning | Example | Notes |
 |---|---|---|---|
-| research and development (R&D) | the work a company or country does to create new products and knowledge | Tech companies spend billions on **research and development**. | U; abbreviation *R&D*, often before a noun: *R&D spending* |
-| a research institution | a university, lab or institute that carries out research | Universities and other **research institutions** compete for grants. | C; formal |
-| a funding agency | an organization that gives money for research | The National Science Foundation is a major federal **funding agency** for basic science. | C; BrE also: *a funding body* |
-| a research budget | the money available for research over a period | The lab's **research budget** was cut by a third. | C; *increase / slash a budget* |
-| federal funding | money from the national government in the US | Most university science in the US depends on **federal funding**. | U; AmE context; general term: *government funding* |
-| a public-private partnership | a project paid for and run jointly by the government and companies | The vaccine was developed through **a public-private partnership**. | C; formal; abbreviation *PPP* |
-| secure funding | succeed in getting money for a project | The team finally **secured funding** for a five-year study. | formal; NOT *gain a funding* |
-| a funding shortfall | a situation in which there is less money than needed | **A funding shortfall** forced the lab to close. | C; formal |
-| corporate sponsorship | money given by companies in return for publicity or influence | **Corporate sponsorship** keeps many university labs running. | U; neutral |
-| a top priority | the most important thing to deal with | Cancer research remains **a top priority** for the government. | C; also *a high / low priority* |
-| a research paper | a written report of a study, published in a journal | She has published over fifty **research papers**. | C; *publish / submit a paper* |
-| empirical evidence | evidence based on observation and experiment | Policy should be based on **empirical evidence**, not opinion. | U; formal |
-| a scientific consensus | general agreement among scientists | There is **a scientific consensus** that the climate is warming. | C, usually singular; *reach a consensus* |
-| replicate findings | repeat a study and get the same results | Other labs failed to **replicate the findings**. | formal; noun: *replication* (U) |
-| scientific misconduct | dishonest behavior in research | Faking data is the most serious form of **scientific misconduct**. | U; formal; BrE spelling: *behaviour* |
-| falsify data | change data dishonestly | The researcher was fired for **falsifying data**. | formal; noun: *falsification* (U) |
-| retain talent | keep skilled people from leaving | Countries must raise salaries to **retain talent**. | neutral; also *attract and retain talent* |
-| a brain gain | the arrival of skilled people from other countries | The US enjoyed a huge **brain gain** after World War II. | C, singular; opposite of *the brain drain* |
-| carry out experiments | do experiments | Students **carry out experiments** in a fully equipped lab. | neutral; also *carry out research / a study* |
-| team up with sb | start working together with sb | Universities often **team up with** drug companies on new treatments. | neutral-informal |
-| follow up on sth | investigate sth further | Nobody had the money to **follow up on** the early results. | neutral; noun: *a follow-up study* |
-| the bottom line | the most important fact; the profit a company makes | For drug companies, **the bottom line** usually comes first. | idiom; neutral |
-| a means to an end | sth done only to achieve sth else | For some firms, research is merely **a means to an end**. | C, singular; neutral |
+| research and development (R&D) | the work a company or country does to create new products and knowledge | The government offers tax credits for **research and development**, thereby encouraging firms to invest in new products. | U; abbreviation *R&D*, often before a noun: *R&D spending* · Grammar: result clause with thereby/thus |
+| a research institution | a university, lab or institute that carries out research | No matter how prestigious **a research institution** is, it still has to compete fiercely for grants. | C; formal · Grammar: no matter / however |
+| a funding agency | an organization that gives money for research | The National Science Foundation is **a funding agency** whose grants support basic science at hundreds of universities. | C; BrE also: *a funding body* · Grammar: relative: whose / whereby / in which |
+| a research budget | the money available for research over a period | If the lab's **research budget** hadn't been cut by a third, the team would now be running clinical trials. | C; *increase / slash a budget* · Grammar: mixed conditional |
+| federal funding | money from the national government in the US | Most university research in the US is known to depend heavily on **federal funding**. | U; AmE context; general term: *government funding* · Grammar: impersonal passive |
+| a public-private partnership | a project paid for and run jointly by the government and companies | Developed through **a public-private partnership**, the vaccine reached patients far faster than usual. | C; formal; abbreviation *PPP* · Grammar: participle clause |
+| secure funding | succeed in getting money for a project | Only after months of applications did the team finally **secure funding** for a five-year study. | formal; NOT *gain a funding* · Grammar: negative inversion |
+| a funding shortfall | a situation in which there is less money than needed | **A funding shortfall** forced the lab to close, which meant that years of research were never completed. | C; formal · Grammar: sentential relative |
+| corporate sponsorship | money given by companies in return for publicity or influence | Much as universities welcome **corporate sponsorship**, they must make sure it does not threaten academic freedom. | U; neutral · Grammar: concession |
+| a top priority | the most important thing to deal with | Cancer research should be treated as **a top priority**, given how many lives it could save. | C; also *a high / low priority* · Grammar: modal passive |
+| a research paper | a written report of a study, published in a journal | It was a single fraudulent **research paper** that sparked years of public fear about vaccines. | C; *publish / submit a paper* · Grammar: cleft sentence |
+| empirical evidence | evidence based on observation and experiment | The **empirical evidence** was so strong that even skeptical politicians had to change the policy. | U; formal · Grammar: so/such… that |
+| a scientific consensus | general agreement among scientists | It's high time politicians accepted that there is **a scientific consensus** on climate change. | C, usually singular; *reach a consensus* · Grammar: unreal past |
+| replicate findings | repeat a study and get the same results | However carefully a study is designed, its results mean little until other labs **replicate the findings**. | formal; noun: *replication* (U) · Grammar: no matter / however |
+| scientific misconduct | dishonest behavior in research | Were journals to check raw data more carefully, cases of **scientific misconduct** would be detected much sooner. | U; formal; BrE spelling: *behaviour* · Grammar: inversion conditional |
+| falsify data | change data dishonestly | Researchers who **falsify data** should be permanently banned from receiving public research grants. | formal; noun: *falsification* (U) · Grammar: modal passive |
+| retain talent | keep skilled people from leaving | The better the salaries and equipment a country offers, the more easily it can **retain talent**. | neutral; also *attract and retain talent* · Grammar: the more…, the more… |
+| a brain gain | the arrival of skilled people from other countries | If the US hadn't enjoyed **a brain gain** after World War II, American science might not lead the world today. | C, singular; opposite of *the brain drain* · Grammar: mixed conditional |
+| carry out experiments | do experiments | Not only do students **carry out experiments** in a fully equipped lab, but they also present their results at conferences. | neutral; also *carry out research / a study* · Grammar: negative inversion |
+| team up with sb | start working together with sb | Honestly, we should have **teamed up with** a local company earlier, since they had the equipment we needed. | neutral-informal · Grammar: modal perfect |
+| follow up on sth | investigate sth further | The scientists wish they had had the money to **follow up on** the promising early results. | neutral; noun: *a follow-up study* · Grammar: unreal past |
+| the bottom line | the most important fact; the profit a company makes | For drug companies, **the bottom line** is said to matter more than patients' needs. | idiom; neutral · Grammar: impersonal passive |
+| a means to an end | sth done only to achieve sth else | For some firms, research is merely **a means to an end**, which explains why unprofitable discoveries are often shelved. | C, singular; neutral · Grammar: sentential relative |
 
 ## Text 1 — Discuss both views and give your opinion
 > Some people believe that scientific research should be funded mainly by governments, while others think it should be paid for by private companies. Discuss both views and give your opinion.

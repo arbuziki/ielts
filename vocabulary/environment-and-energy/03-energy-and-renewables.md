@@ -6,84 +6,84 @@
 ### Key terms
 | Chunk | Meaning | Example | Notes |
 |---|---|---|---|
-| renewable energy | energy from sources that do not run out, such as sun, wind, and water | **Renewable energy** now supplies a large share of Europe's electricity. | U, no article; also *renewables* (plural, neutral) |
-| a wind farm | a group of wind turbines producing electricity | **An offshore wind farm** is being built off the east coast. | C; *onshore / offshore wind farm* |
-| solar power | electricity produced from sunlight | **Solar power** is cheapest in countries with plenty of sunshine. | U, no article; *a solar panel* (C) |
-| nuclear power | electricity produced by splitting atoms | Supporters argue that **nuclear power** provides a steady low-carbon supply. | U; *a nuclear power plant* (C); BrE: *power station* |
-| energy security | a country's ability to get enough energy without depending on unreliable suppliers | Building more wind farms improves **energy security**. | U; formal |
-| the grid | the network of power lines that carries electricity across a country | Spare electricity from homes can be fed into **the grid**. | always *the*; also *the power grid*; BrE: *the national grid* |
-| energy efficiency | using less energy to do the same job | Better insulation is the cheapest way to improve **energy efficiency**. | U; adj: *energy-efficient* |
-| a subsidy | money the government pays to reduce the cost of sth | **Subsidies** for heat pumps have made them more affordable. | C; *a subsidy for sth*; verb: *subsidize sth* |
-| energy poverty | a situation in which a household cannot afford to heat or cool its home properly | Rising prices pushed many seniors into **energy poverty**. | U; also *energy insecurity*; BrE: *fuel poverty* |
-| an energy bill | the amount a household pays for gas and electricity | **Energy bills** rose sharply during the 2022 crisis. | C, usually plural; also *a utility bill* |
-| intermittent | not continuous; starting and stopping | Wind and solar are **intermittent**, so they need storage or backup. | adj; formal; noun: *intermittency* |
+| renewable energy | energy from sources that do not run out, such as sun, wind, and water | **Renewable energy** is expected to overtake coal as the world's largest source of electricity in the coming years. | U, no article; also *renewables* (plural, neutral) · Grammar: impersonal passive |
+| a wind farm | a group of wind turbines producing electricity | The state has approved a huge offshore **wind farm**, which means hundreds of new jobs for coastal towns. | C; *onshore / offshore wind farm* · Grammar: sentential relative |
+| solar power | electricity produced from sunlight | While **solar power** is cheapest in sunny countries, it is becoming affordable even in cloudy northern Europe. | U, no article; *a solar panel* (C) · Grammar: concession |
+| nuclear power | electricity produced by splitting atoms | Not only does **nuclear power** provide a steady supply of low-carbon electricity, but it also takes up very little land. | U; *a nuclear power plant* (C); BrE: *power station* · Grammar: negative inversion |
+| energy security | a country's ability to get enough energy without depending on unreliable suppliers | Building more wind farms at home reduces reliance on imported gas, thereby improving **energy security**. | U; formal · Grammar: result clause with thereby/thus |
+| the grid | the network of power lines that carries electricity across a country | Old power lines must be replaced if **the grid** is to carry far more electricity from wind and solar farms. | always *the*; also *the power grid*; BrE: *the national grid* · Grammar: modal passive |
+| energy efficiency | using less energy to do the same job | It is better insulation, not a new furnace, that offers the cheapest way to improve **energy efficiency** at home. | U; adj: *energy-efficient* · Grammar: cleft sentence |
+| a subsidy | money the government pays to reduce the cost of sth | Were the government to cut **subsidies** for heat pumps, far fewer families could afford to install one. | C; *a subsidy for sth*; verb: *subsidize sth* · Grammar: inversion conditional |
+| energy poverty | a situation in which a household cannot afford to heat or cool its home properly | Pushed into **energy poverty** by rising prices, many seniors had to choose between heating and eating. | U; also *energy insecurity*; BrE: *fuel poverty* · Grammar: participle clause |
+| an energy bill | the amount a household pays for gas and electricity | **Energy bills** rose so sharply in 2022 that many households cut back on heating altogether. | C, usually plural; also *a utility bill* · Grammar: so/such… that |
+| intermittent | not continuous; starting and stopping | Wind and solar are **intermittent** sources of power, whose output depends entirely on the weather. | adj; formal; noun: *intermittency* · Grammar: relative: whose / whereby / in which |
 
 ### Collocations
 | Chunk | Meaning | Example | Notes |
 |---|---|---|---|
-| generate electricity | produce electricity | Coal was once used to **generate** most of Britain's **electricity**. | neutral; NOT *make electricity* in formal writing |
-| invest heavily in sth | spend a lot of money on sth to get future benefits | China has **invested heavily in** solar manufacturing. | neutral; *investment in* (U) |
-| install solar panels | put solar panels on a building | More homeowners are **installing solar panels** on their roofs. | neutral; noun: *installation* |
-| soaring energy prices | prices that are rising very fast | **Soaring energy prices** hit small businesses hardest. | plural; also *prices soar / skyrocket* |
-| cut energy bills | reduce what households pay | Insulating attics is a simple way to **cut energy bills**. | neutral; *attic* (AmE) = *loft* (BrE) |
-| a secure supply of energy | energy that will always be available | A country needs **a secure supply of energy** to protect its economy. | C; formal |
-| meet demand | supply as much as people need | On cold, windless evenings, solar cannot **meet demand**. | neutral; *peak demand* (U) |
-| upfront costs | money you must pay at the start | The **upfront costs** of a heat pump put many families off. | plural; also *the initial outlay* (formal) |
-| reduce dependence on sth | rely less on sth | Europe is trying to **reduce** its **dependence on** imported gas. | formal; *dependence on* (U) |
-| a power outage | a period when electricity stops | Storms caused **power outages** across the region. | C; also *a blackout*; BrE: *a power cut* |
-| insulate homes | stop heat escaping from houses | A national program to **insulate homes** would cut demand for heating fuel. | neutral; noun: *insulation* (U) |
-| low-carbon electricity | electricity produced with few emissions | Nuclear and wind both provide **low-carbon electricity**. | U; hyphenate *low-carbon* |
+| generate electricity | produce electricity | The more wind turbines a country installs, the more **electricity** it can **generate** without burning fuel. | neutral; NOT *make electricity* in formal writing · Grammar: the more…, the more… |
+| invest heavily in sth | spend a lot of money on sth to get future benefits | If China had not **invested heavily in** solar manufacturing, panels would not be so cheap today. | neutral; *investment in* (U) · Grammar: mixed conditional |
+| install solar panels | put solar panels on a building | I wish we had **installed solar panels** before electricity prices went up last winter. | neutral; noun: *installation* · Grammar: unreal past |
+| soaring energy prices | prices that are rising very fast | No matter how efficient a bakery is, **soaring energy prices** can wipe out its profits. | plural; also *prices soar / skyrocket* · Grammar: no matter / however |
+| cut energy bills | reduce what households pay | Many homeowners insulate their attics, thus **cutting energy bills** without changing their daily habits. | neutral; *attic* (AmE) = *loft* (BrE) · Grammar: result clause with thereby/thus |
+| a secure supply of energy | energy that will always be available | What every economy needs above all is **a secure supply of energy** that does not depend on hostile states. | C; formal · Grammar: cleft sentence |
+| meet demand | supply as much as people need | Even though solar panels produce plenty of power at noon, they cannot **meet demand** on cold, windless evenings. | neutral; *peak demand* (U) · Grammar: concession |
+| upfront costs | money you must pay at the start | The **upfront costs** of a heat pump are so high that many families put off replacing their old furnace. | plural; also *the initial outlay* (formal) · Grammar: so/such… that |
+| reduce dependence on sth | rely less on sth | Having **reduced** its **dependence on** Russian gas, Europe is now less vulnerable to sudden price shocks. | formal; *dependence on* (U) · Grammar: participle clause |
+| a power outage | a period when electricity stops | The storm is reported to have caused **power outages** in more than a dozen counties. | C; also *a blackout*; BrE: *a power cut* · Grammar: impersonal passive |
+| insulate homes | stop heat escaping from houses | The government launched a national program whereby contractors **insulate homes** for free in low-income neighborhoods. | neutral; noun: *insulation* (U) · Grammar: relative: whose / whereby / in which |
+| low-carbon electricity | electricity produced with few emissions | Critics argue that Germany should have kept its nuclear plants open, since they produced **low-carbon electricity**. | U; hyphenate *low-carbon* · Grammar: modal perfect |
 
 ### Phrasal verbs
 | Chunk | Meaning | Example | Notes |
 |---|---|---|---|
-| run on sth | use sth as fuel or power | Most buses in the city now **run on** electricity. | neutral |
-| run out of sth | use all of sth so that none is left | The world will not **run out of** sunlight. | neutral; *supplies run out* (intransitive) |
-| shut sth down | stop a factory or power plant working | Germany **shut down** its last nuclear power plants in 2023. | neutral; noun: *a shutdown* |
-| ramp sth up | increase sth quickly | Manufacturers are **ramping up** production of batteries. | neutral-informal |
-| pay off | bring a good result after effort or investment | Early investment in wind power has **paid off**. | intransitive; neutral |
-| feed sth into the grid | send electricity to the power network | Homes with panels can **feed** spare power **into the grid**. | neutral |
-| eat into sth | use up part of an amount of money | High bills are **eating into** families' savings. | neutral |
-| turn sth down | reduce the level of heat or power | **Turning down** the thermostat by one degree saves money. | neutral |
+| run on sth | use sth as fuel or power | The more buses **run on** electricity, the cleaner the air in city centers becomes. | neutral · Grammar: the more…, the more… |
+| run out of sth | use all of sth so that none is left | Even though the world will never **run out of** sunlight, solar panels still produce nothing at night. | neutral; *supplies run out* (intransitive) · Grammar: concession |
+| shut sth down | stop a factory or power plant working | Germany **shut down** its last nuclear power plants in 2023, which divided public opinion. | neutral; noun: *a shutdown* · Grammar: sentential relative |
+| ramp sth up | increase sth quickly | Battery makers are **ramping up** production so fast that prices keep falling year after year. | neutral-informal · Grammar: so/such… that |
+| pay off | bring a good result after effort or investment | Denmark's early investment in wind power must have **paid off**, as wind now supplies much of its electricity. | intransitive; neutral · Grammar: modal perfect |
+| feed sth into the grid | send electricity to the power network | Spare power from rooftop panels can be **fed into the grid** and sold to the local utility. | neutral · Grammar: modal passive |
+| eat into sth | use up part of an amount of money | Never have energy bills **eaten into** family savings as quickly as they did in 2022. | neutral · Grammar: negative inversion |
+| turn sth down | reduce the level of heat or power | If only more people **turned down** the thermostat by a degree or two, demand for gas would fall considerably. | neutral · Grammar: unreal past |
 
 ### Fixed expressions & idioms
 | Chunk | Meaning | Example | Notes |
 |---|---|---|---|
-| keep the lights on | maintain a reliable electricity supply | Gas plants are still needed to **keep the lights on** in winter. | neutral |
-| in the short term | for a short time from now | Bills may rise **in the short term**. | neutral; opposite: *in the long term* |
-| a price worth paying | a cost acceptable because of the benefits | Slightly higher bills are **a price worth paying** for cleaner air. | neutral |
-| pay for itself | save as much money as it cost | Good insulation can **pay for itself** within a few years. | neutral; *pay for themselves* (plural) |
-| break even | reach the point where savings equal costs | We expect to **break even** on the panels in about ten years. | neutral |
-| put all your eggs in one basket | depend on a single source or plan | A country should not **put all its eggs in one basket** by relying on one supplier. | idiom; neutral |
-| at the mercy of sb/sth | unable to protect yourself from sb or sth | Importers are **at the mercy of** global gas prices. | neutral-formal |
-| foot the bill | pay for sth, often unwillingly | In the end, households **foot the bill** for new power lines. | idiom; neutral |
+| keep the lights on | maintain a reliable electricity supply | It is gas plants that still **keep the lights on** during long, windless winter nights. | neutral · Grammar: cleft sentence |
+| in the short term | for a short time from now | Clean energy investment must be paid for **in the short term**, but it will lower bills over time. | neutral; opposite: *in the long term* · Grammar: modal passive |
+| a price worth paying | a cost acceptable because of the benefits | Slightly higher bills are widely considered **a price worth paying** for cleaner air and a stable climate. | neutral · Grammar: impersonal passive |
+| pay for itself | save as much money as it cost | Good insulation can **pay for itself** within a few years, thus making it one of the best home investments. | neutral; *pay for themselves* (plural) · Grammar: result clause with thereby/thus |
+| break even | reach the point where savings equal costs | Were electricity prices to keep rising, we would **break even** on our solar panels in under eight years. | neutral · Grammar: inversion conditional |
+| put all your eggs in one basket | depend on a single source or plan | Europe should never have **put all its eggs in one basket** by relying so heavily on Russian gas. | idiom; neutral · Grammar: modal perfect |
+| at the mercy of sb/sth | unable to protect yourself from sb or sth | Most European countries import their gas, which leaves them **at the mercy of** global prices. | neutral-formal · Grammar: sentential relative |
+| foot the bill | pay for sth, often unwillingly | Only when households **foot the bill** for new power lines do they realize how expensive the energy transition is. | idiom; neutral · Grammar: negative inversion |
 
 ### More terms
 | Chunk | Meaning | Example | Notes |
 |---|---|---|---|
-| hydropower | electricity produced by flowing water, usually from dams | Norway gets around 90 percent of its electricity from **hydropower**. | U; also *hydroelectric power*; *a hydroelectric dam* (C) |
-| geothermal energy | energy from the heat inside the Earth | Iceland uses **geothermal energy** to heat most of its homes. | U; neutral |
-| a heat pump | a device that heats a home by moving heat from the outside air or ground | **A heat pump** uses far less energy than a gas furnace. | C; *install a heat pump*; *furnace* (AmE) ≈ *boiler* (BrE) |
-| an electric vehicle (EV) | a car or truck powered by a battery instead of gasoline | Sales of **electric vehicles** have grown quickly as battery prices have fallen. | C; abbreviation *EV*; *charge an EV* |
-| battery storage | storing electricity in large batteries for later use | **Battery storage** allows solar power to be used after sunset. | U; also *energy storage* |
-| a coal-fired power plant | a facility that burns coal to produce electricity | China is still building **coal-fired power plants** alongside its huge solar farms. | C; hyphenate *coal-fired*; BrE: *a coal-fired power station* |
-| natural gas | a fuel taken from under the ground, used for heating, cooking, and electricity | Many American homes are heated with **natural gas**. | U; in AmE, *gas* on its own usually means *gasoline* |
-| gas prices | the cost of gasoline for cars | High **gas prices** push more drivers toward hybrids and electric cars. | plural; AmE *gas* = *gasoline*; BrE: *petrol prices* |
-| fracking | forcing liquid into rock deep underground to release oil or gas | **Fracking** turned the US into the world's largest producer of oil and gas. | U; informal for *hydraulic fracturing*; controversial |
-| the energy transition | the shift from fossil fuels to clean energy sources | **The energy transition** will require huge investment in new power lines. | with *the*; formal; also *the transition to clean energy* |
-| clean energy | energy that produces little or no pollution or carbon | **Clean energy** includes nuclear as well as wind and solar. | U; neutral; also *green energy*; cf. *renewable energy* |
-| an energy-efficient appliance | a machine such as a refrigerator or washer that uses little electricity | Look for the Energy Star label when buying **energy-efficient appliances**. | C; hyphenate *energy-efficient* before a noun |
-| off-peak rates | lower prices for electricity used at times of low demand, e.g. at night | Running the dishwasher at night takes advantage of **off-peak rates**. | plural; opposite: *peak rates / peak hours*; BrE also: *off-peak tariffs* |
-| a tax credit | an amount taken off the tax you owe, often to encourage sth | Some governments offer **a tax credit** to homeowners who install solar panels. | C; *claim / qualify for a tax credit* |
-| weatherize a home | protect a building against cold and heat, e.g. by sealing gaps around windows | Low-income families can get free help to **weatherize their homes**. | AmE; noun: *weatherization* (U); cf. *insulate homes* |
-| shop around | compare prices from different sellers before choosing | It pays to **shop around** for a cheaper electricity plan. | neutral; + *for sth* |
-| unplug sth | disconnect a device from the electrical outlet | **Unplug** chargers when you are not using them. | neutral; *outlet* (AmE) = *socket* (BrE) |
-| backup power | electricity available when the main supply fails | Gas plants provide **backup power** when the wind drops. | U; also *a backup generator* (C) |
-| go solar | start using solar panels for your home's electricity | More homeowners are deciding to **go solar** as panel prices fall. | informal; *go* + adj pattern (*go green*) |
-| live off the grid | live without a connection to the public electricity supply | The family **lives off the grid** with solar panels and a wood stove. | neutral; adj: *off-grid* (*an off-grid cabin*) |
-| nuclear waste | radioactive material left over after producing nuclear power | Storing **nuclear waste** safely for thousands of years remains a major challenge. | U; also *radioactive waste* |
-| a cost-of-living crisis | a period when everyday prices rise faster than incomes | High energy bills deepened **the cost-of-living crisis** in 2022. | C; hyphenate before *crisis*; but *the cost of living* (no hyphens); especially common in BrE, while US news often says *an affordability crisis* |
-| drill for oil | make holes in the ground or seabed to extract oil | Environmental groups oppose plans to **drill for oil** in the Arctic. | neutral; also *drill for gas*; noun: *offshore drilling* (U) |
+| hydropower | electricity produced by flowing water, usually from dams | Norway, whose mountains and rivers are ideal for dams, gets almost all of its electricity from **hydropower**. | U; also *hydroelectric power*; *a hydroelectric dam* (C) · Grammar: relative: whose / whereby / in which |
+| geothermal energy | energy from the heat inside the Earth | Located in a volcanically active region, Iceland uses **geothermal energy** to heat most of its homes. | U; neutral · Grammar: participle clause |
+| a heat pump | a device that heats a home by moving heat from the outside air or ground | Despite costing more to install, **a heat pump** uses far less energy than a gas furnace. | C; *install a heat pump*; *furnace* (AmE) ≈ *boiler* (BrE) · Grammar: concession |
+| an electric vehicle (EV) | a car or truck powered by a battery instead of gasoline | The cheaper batteries become, the more people will switch to **electric vehicles**. | C; abbreviation *EV*; *charge an EV* · Grammar: the more…, the more… |
+| battery storage | storing electricity in large batteries for later use | It's time utilities invested in **battery storage** so that homes can run on solar power after sunset. | U; also *energy storage* · Grammar: unreal past |
+| a coal-fired power plant | a facility that burns coal to produce electricity | However many solar farms China builds, it continues to open new **coal-fired power plants** to meet rising demand. | C; hyphenate *coal-fired*; BrE: *a coal-fired power station* · Grammar: no matter / however |
+| natural gas | a fuel taken from under the ground, used for heating, cooking, and electricity | **Natural gas** is so cheap in the US that millions of homes still rely on it for heating. | U; in AmE, *gas* on its own usually means *gasoline* · Grammar: so/such… that |
+| gas prices | the cost of gasoline for cars | **Gas prices** hit record highs in 2022, which pushed many drivers toward hybrids and electric cars. | plural; AmE *gas* = *gasoline*; BrE: *petrol prices* · Grammar: sentential relative |
+| fracking | forcing liquid into rock deep underground to release oil or gas | It was **fracking** that turned the US into the world's largest producer of oil and gas. | U; informal for *hydraulic fracturing*; controversial · Grammar: cleft sentence |
+| the energy transition | the shift from fossil fuels to clean energy sources | **The energy transition** cannot be completed without huge investment in new power lines and storage. | with *the*; formal; also *the transition to clean energy* · Grammar: modal passive |
+| clean energy | energy that produces little or no pollution or carbon | Not only does **clean energy** reduce emissions, but it also improves air quality in crowded cities. | U; neutral; also *green energy*; cf. *renewable energy* · Grammar: negative inversion |
+| an energy-efficient appliance | a machine such as a refrigerator or washer that uses little electricity | Should your old refrigerator break down, replace it with **an energy-efficient appliance** rather than a cheap secondhand model. | C; hyphenate *energy-efficient* before a noun · Grammar: inversion conditional |
+| off-peak rates | lower prices for electricity used at times of low demand, e.g. at night | Many families run the dishwasher at night, thereby taking advantage of **off-peak rates**. | plural; opposite: *peak rates / peak hours*; BrE also: *off-peak tariffs* · Grammar: result clause with thereby/thus |
+| a tax credit | an amount taken off the tax you owe, often to encourage sth | Some governments offer **a tax credit** whereby homeowners recover part of the cost of installing solar panels. | C; *claim / qualify for a tax credit* · Grammar: relative: whose / whereby / in which |
+| weatherize a home | protect a building against cold and heat, e.g. by sealing gaps around windows | We should have **weatherized** our **home** before winter; the drafts around the windows doubled our heating bill. | AmE; noun: *weatherization* (U); cf. *insulate homes* · Grammar: modal perfect |
+| shop around | compare prices from different sellers before choosing | I wish I had **shopped around** for a cheaper electricity plan instead of staying with the same provider for years. | neutral; + *for sth* · Grammar: unreal past |
+| unplug sth | disconnect a device from the electrical outlet | Left plugged in, a charger keeps drawing a small amount of power, so **unplug** it once your phone is full. | neutral; *outlet* (AmE) = *socket* (BrE) · Grammar: participle clause |
+| backup power | electricity available when the main supply fails | While wind and solar are cheap, gas plants still provide **backup power** when the wind drops and the sun sets. | U; also *a backup generator* (C) · Grammar: concession |
+| go solar | start using solar panels for your home's electricity | The cheaper panels get, the more homeowners decide to **go solar** and cut their bills. | informal; *go* + adj pattern (*go green*) · Grammar: the more…, the more… |
+| live off the grid | live without a connection to the public electricity supply | The family **lives off the grid** in such a remote valley that connecting to power lines would cost a fortune. | neutral; adj: *off-grid* (*an off-grid cabin*) · Grammar: so/such… that |
+| nuclear waste | radioactive material left over after producing nuclear power | **Nuclear waste** is known to remain dangerous for thousands of years, and storing it safely is a major challenge. | U; also *radioactive waste* · Grammar: impersonal passive |
+| a cost-of-living crisis | a period when everyday prices rise faster than incomes | If energy prices had not soared in 2022, many families would not still be struggling with the **cost-of-living crisis**. | C; hyphenate before *crisis*; but *the cost of living* (no hyphens); especially common in BrE, while US news often says *an affordability crisis* · Grammar: mixed conditional |
+| drill for oil | make holes in the ground or seabed to extract oil | No matter how high fuel prices climb, environmental groups will oppose plans to **drill for oil** in the Arctic. | neutral; also *drill for gas*; noun: *offshore drilling* (U) · Grammar: no matter / however |
 
 ## Text 1 — Opinion (to what extent)
 > Some people think governments should invest heavily in renewable energy, even if this means higher electricity bills for households. To what extent do you agree or disagree?

@@ -6,84 +6,84 @@
 ### Key terms
 | Chunk | Meaning | Example | Notes |
 |---|---|---|---|
-| a water shortage | a situation in which there is not enough water | Southern Spain is facing **a severe water shortage**. | C; also *water scarcity* (U, formal) |
-| drought | a long period without rain | Years of **drought** have destroyed crops across the region. | U (the condition) / C (*a drought* = one period) |
-| watering restrictions | official rules limiting when people can water lawns, wash cars, or fill pools | The city imposed **watering restrictions** after the dry summer. | plural; BrE: *a hosepipe ban* |
-| a smart meter | a device that shows how much gas, electricity, or water a home is using | With **a smart meter**, you can see your electricity use jump every time the air conditioner turns on. | C; *have / install a smart meter* |
-| a water footprint | the total amount of water used to produce sth or used by a person | It takes about 2,700 liters of water to make one cotton T-shirt, so fashion has a huge **water footprint**. | C; cf. *a carbon footprint*; *reduce your water footprint* |
-| natural resources | materials from nature such as water, minerals, forests, and fuels | Many **natural resources** are being used faster than they can be replaced. | plural |
-| utility bills | bills for water, gas, and electricity | Rising **utility bills** are squeezing household budgets. | C, plural; *utilities* = the services |
-| standby | a mode in which a machine is switched on but not in use | TVs left on **standby** still use electricity. | U; *on standby* (no article) |
-| a reservoir | an artificial lake that stores water for a town | **The reservoir** was only a quarter full by August. | C |
-| sewage | waste water from toilets and drains | Water utilities in England have been fined for releasing **sewage** into rivers. | U: NOT *sewages* |
-| a water-saving device | a fitting on a faucet, shower, or toilet that reduces the amount of water used | Installing **water-saving devices** on showers cuts water use without making them less pleasant. | C, usually plural; hyphenate *water-saving* |
-| groundwater | water held underground in soil and rock | Farmers are pumping **groundwater** faster than rain can replace it. | U |
+| a water shortage | a situation in which there is not enough water | Facing a severe **water shortage**, the city banned filling swimming pools and washing cars. | C; also *water scarcity* (U, formal) · Grammar: participle clause |
+| drought | a long period without rain | The **drought** lasted so long that farmers across the region lost almost their entire harvest. | U (the condition) / C (*a drought* = one period) · Grammar: so/such… that |
+| watering restrictions | official rules limiting when people can water lawns, wash cars, or fill pools | Were the dry weather to continue, the city would impose even stricter **watering restrictions** on lawns and gardens. | plural; BrE: *a hosepipe ban* · Grammar: inversion conditional |
+| a smart meter | a device that shows how much gas, electricity, or water a home is using | The more often you check your **smart meter**, the easier it becomes to spot wasteful habits like long showers. | C; *have / install a smart meter* · Grammar: the more…, the more… |
+| a water footprint | the total amount of water used to produce sth or used by a person | It is the cotton in our clothes that gives the fashion industry its enormous **water footprint**. | C; cf. *a carbon footprint*; *reduce your water footprint* · Grammar: cleft sentence |
+| natural resources | materials from nature such as water, minerals, forests, and fuels | Never before have **natural resources** been consumed as quickly as they are today. | plural · Grammar: negative inversion |
+| utility bills | bills for water, gas, and electricity | Rising **utility bills** are squeezing household budgets, which is forcing many families to cut back on heating. | C, plural; *utilities* = the services · Grammar: sentential relative |
+| standby | a mode in which a machine is switched on but not in use | If we didn't leave so many devices on **standby**, our electricity bill wouldn't have been so high last month. | U; *on standby* (no article) · Grammar: mixed conditional |
+| a reservoir | an artificial lake that stores water for a town | The local **reservoir** is reported to be only a quarter full after months without rain. | C · Grammar: impersonal passive |
+| sewage | waste water from toilets and drains | Water companies that release untreated **sewage** into rivers should be fined far more heavily than they are now. | U: NOT *sewages* · Grammar: modal passive |
+| a water-saving device | a fitting on a faucet, shower, or toilet that reduces the amount of water used | Installing **water-saving devices** on showers and toilets reduces consumption, thus lowering bills without any loss of comfort. | C, usually plural; hyphenate *water-saving* · Grammar: result clause with thereby/thus |
+| groundwater | water held underground in soil and rock | Farmers continue to pump **groundwater** for their crops, even though rain cannot replace it fast enough. | U · Grammar: concession |
 
 ### Collocations
 | Chunk | Meaning | Example | Notes |
 |---|---|---|---|
-| conserve water | use water carefully so that less is wasted | Residents were asked to **conserve water** during the heat wave. | formal; neutral: *save water* |
-| leave the water running | let water flow from a faucet when you are not using it | Many people **leave the water running** while brushing their teeth. | neutral; NOT *leave the water open*; BrE: *leave the tap running* |
-| take shorter showers | spend less time in the shower | **Taking shorter showers** saves both water and heating. | AmE *take a shower*; BrE also: *have a shower* |
-| deplete resources | use up resources so that little is left | Intensive farming is **depleting** the region's **water resources**. | formal; noun: *depletion* (U) |
-| finite resources | resources that will eventually run out | Oil and gas are **finite resources**. | plural; formal |
-| a dripping faucet | a faucet that lets water fall drop by drop | **A dripping faucet** can waste thousands of gallons a year. | C; also *a leaky faucet*; BrE: *a dripping tap* |
-| a burst pipe | a pipe that has broken and is leaking badly | Freezing weather caused **a burst pipe** in the basement. | C |
-| water consumption | the amount of water used | **Water consumption** rises sharply in hot weather. | U; also *energy consumption* |
-| charge according to usage | make people pay for what they actually use | Metering allows utilities to **charge** households **according to usage**. | formal; also *charge by use*; noun: *metering* (U) |
-| the true cost of sth | the real price including hidden or long-term costs | Low prices hide **the true cost of** water. | with *the* |
-| a full load | as much washing as a machine can hold | Only run the dishwasher with **a full load**. | C |
-| pollute rivers | make rivers dirty with harmful substances | Farm chemicals continue to **pollute rivers** and lakes. | neutral; *a polluted river* |
+| conserve water | use water carefully so that less is wasted | It's time everyone learned to **conserve water**, not just during heat waves but all year round. | formal; neutral: *save water* · Grammar: unreal past |
+| leave the water running | let water flow from a faucet when you are not using it | Many people **leave the water running** while they brush their teeth, which wastes a surprising amount every day. | neutral; NOT *leave the water open*; BrE: *leave the tap running* · Grammar: sentential relative |
+| take shorter showers | spend less time in the shower | However tempting it is to linger under hot water, **taking shorter showers** saves both water and energy. | AmE *take a shower*; BrE also: *have a shower* · Grammar: no matter / however |
+| deplete resources | use up resources so that little is left | Draining rivers and aquifers to grow thirsty crops, intensive farming is **depleting** the region's water **resources**. | formal; noun: *depletion* (U) · Grammar: participle clause |
+| finite resources | resources that will eventually run out | What politicians often forget is that oil and gas are **finite resources** that will eventually run out. | plural; formal · Grammar: cleft sentence |
+| a dripping faucet | a faucet that lets water fall drop by drop | **A dripping faucet** is said to waste thousands of gallons a year, so it is worth fixing quickly. | C; also *a leaky faucet*; BrE: *a dripping tap* · Grammar: impersonal passive |
+| a burst pipe | a pipe that has broken and is leaking badly | If we had insulated the basement, we wouldn't be mopping up the mess from **a burst pipe** now. | C · Grammar: mixed conditional |
+| water consumption | the amount of water used | The hotter the weather, the more sharply **water consumption** rises in suburbs full of green lawns. | U; also *energy consumption* · Grammar: the more…, the more… |
+| charge according to usage | make people pay for what they actually use | Water meters allow utilities to **charge** households **according to usage**, thereby encouraging people to fix leaks. | formal; also *charge by use*; noun: *metering* (U) · Grammar: result clause with thereby/thus |
+| the true cost of sth | the real price including hidden or long-term costs | Only when a severe drought hits do people begin to understand **the true cost of** water. | with *the* · Grammar: negative inversion |
+| a full load | as much washing as a machine can hold | Dishwashers and washing machines should only be run with **a full load** to save water and energy. | C · Grammar: modal passive |
+| pollute rivers | make rivers dirty with harmful substances | Farm chemicals **pollute rivers** so badly in some areas that fish can no longer survive there. | neutral; *a polluted river* · Grammar: so/such… that |
 
 ### Phrasal verbs
 | Chunk | Meaning | Example | Notes |
 |---|---|---|---|
-| leave sth on | not turn sth off | Teenagers often **leave** lights **on** in empty rooms. | neutral; object goes between: *leave the lights on* |
-| turn sth off | stop a machine or light working | Remember to **turn off** the heat before going on vacation. | neutral; BrE also: *switch sth off*; opposite: *turn sth on* |
-| dry up | become completely dry; stop being available | Rivers in the south **dried up** during the drought. | intransitive; neutral |
-| go through sth | use a quantity of sth | A family of four can **go through** several hundred gallons of water a day. | neutral-informal |
-| cut sth off | stop the supply of sth | The water supply was **cut off** for repairs. | neutral, often passive |
-| add up | gradually increase to a large amount | Small savings soon **add up**. | intransitive; neutral |
-| fill sth up | make sth completely full | Don't **fill up** the sink just to wash a couple of cups. | neutral |
-| mop sth up | remove liquid with a mop or cloth | The janitor has to **mop up** the water every morning. | neutral |
+| leave sth on | not turn sth off | Someone must have **left** the lights **on** in the empty classroom all weekend. | neutral; object goes between: *leave the lights on* · Grammar: modal perfect |
+| turn sth off | stop a machine or light working | Should you go on vacation, remember to **turn off** the heat and unplug the TV. | neutral; BrE also: *switch sth off*; opposite: *turn sth on* · Grammar: inversion conditional |
+| dry up | become completely dry; stop being available | Starved of rain for months, several rivers in the south **dried up** completely last summer. | intransitive; neutral · Grammar: participle clause |
+| go through sth | use a quantity of sth | While a family of four can easily **go through** hundreds of gallons a day, few households ever check their meter. | neutral-informal · Grammar: concession |
+| cut sth off | stop the supply of sth | Residents received a letter in which the utility explained that their water would be **cut off** for repairs. | neutral, often passive · Grammar: relative: whose / whereby / in which |
+| add up | gradually increase to a large amount | The more small habits you change, the faster the savings on your water bill **add up**. | intransitive; neutral · Grammar: the more…, the more… |
+| fill sth up | make sth completely full | I'd rather you didn't **fill up** the sink just to wash a couple of cups. | neutral · Grammar: unreal past |
+| mop sth up | remove liquid with a mop or cloth | The roof leaks whenever it rains, which means the janitor has to **mop up** puddles in the hallway afterward. | neutral · Grammar: sentential relative |
 
 ### Fixed expressions & idioms
 | Chunk | Meaning | Example | Notes |
 |---|---|---|---|
-| (go) down the drain | (be) wasted | Every leaking faucet means money going **down the drain**. | idiom; neutral-informal |
-| take sth for granted | not value sth because it is always there | People in wet countries **take** clean water **for granted**. | neutral; NOT *take it as granted* |
-| out of habit | because you have always done it, without thinking | Many people leave the water running simply **out of habit**. | neutral; no article |
-| a wake-up call | an event that makes people realize there is a serious problem | The drought was **a wake-up call** for the whole country. | C; neutral |
-| on tap | available whenever you want it | When water is always **on tap**, it is easy to forget its value. | idiom; neutral; used in AmE too, although the fixture is a *faucet* |
-| every drop counts | even small amounts matter | In a drought, **every drop counts**. | fixed; neutral |
-| make a real difference | have a significant effect | Fixing leaks can **make a real difference** to your bills. | neutral; NOT *do a difference* |
+| (go) down the drain | (be) wasted | What really annoys me is seeing money **go down the drain** because nobody fixes the dripping faucet. | idiom; neutral-informal · Grammar: cleft sentence |
+| take sth for granted | not value sth because it is always there | Little do people in wet countries realize how much they **take** clean water **for granted**. | neutral; NOT *take it as granted* · Grammar: negative inversion |
+| out of habit | because you have always done it, without thinking | Even though they know it is wasteful, many people leave lights on simply **out of habit**. | neutral; no article · Grammar: concession |
+| a wake-up call | an event that makes people realize there is a serious problem | The drought must have been **a wake-up call** for farmers, since many have switched to drip irrigation. | C; neutral · Grammar: modal perfect |
+| on tap | available whenever you want it | Were clean water not always **on tap**, people would think twice before wasting it on lawns. | idiom; neutral; used in AmE too, although the fixture is a *faucet* · Grammar: inversion conditional |
+| every drop counts | even small amounts matter | The reservoirs are so low this summer that **every drop counts**, even the water from your shower. | fixed; neutral · Grammar: so/such… that |
+| make a real difference | have a significant effect | Fixing leaks is known to **make a real difference** to household bills, yet many people ignore them. | neutral; NOT *do a difference* · Grammar: impersonal passive |
 
 ### More terms
 | Chunk | Meaning | Example | Notes |
 |---|---|---|---|
-| safe drinking water | water that is clean enough to drink without getting sick | Around two billion people still lack **safe drinking water** at home. | U; also *clean drinking water* |
-| access to clean water | the ability to get clean water easily | In many rural areas, **access to clean water** still means a long walk every morning. | U; *have / lack / improve access to sth* |
-| a water treatment plant | a facility that cleans water so that it is safe to use or to release | The city's **water treatment plant** removes chemicals and bacteria before the water reaches homes. | C; also *a wastewater treatment plant* (for sewage) |
-| desalination | removing salt from seawater to make it drinkable | Israel gets much of its drinking water from **desalination**. | U; formal; *a desalination plant* (C) |
-| irrigation | supplying water to crops through pipes or channels | Agriculture uses around 70 percent of the world's fresh water, mostly for **irrigation**. | U; verb: *irrigate fields* |
-| collect rainwater | catch and store rain for later use | Many homeowners **collect rainwater** in barrels to water their gardens. | neutral; also *rainwater harvesting* (U); *a rain barrel* (C) |
-| water rationing | officially limiting how much water each person can use | During the drought, **water rationing** limited each household to a fixed amount per day. | U; verb: *ration water* |
-| runoff | water that flows off land into rivers, often carrying chemicals | Fertilizer **runoff** from farms feeds algae that choke rivers and lakes. | U; *agricultural runoff*; AmE spelling *fertilizer* |
-| an oil spill | an accident in which oil escapes into the sea or a river | The 2010 Deepwater Horizon **oil spill** polluted hundreds of miles of the Gulf Coast. | C; *clean up an oil spill* |
-| the water table | the level below the ground where the soil is full of water | Years of heavy pumping have lowered **the water table** in parts of California. | with *the*; neutral |
-| water the lawn | give grass water with a hose or sprinkler | Some cities allow residents to **water their lawns** only twice a week. | neutral; *a lawn sprinkler*, *a garden hose* (AmE) |
-| raw materials | basic materials such as wood, metal, and oil used to make products | Recycling metal reduces the need to dig up new **raw materials**. | plural; neutral |
-| mining | digging minerals such as coal, gold, or copper out of the ground | **Mining** for the metals used in batteries can pollute local rivers. | U; *a mine* (C); verb: *mine sth* |
-| use sth sustainably | use sth in a way that does not destroy it for the future | Forests can provide timber forever if they are **used sustainably**. | neutral; adj: *sustainable*; noun: *sustainability* (U) |
-| a utility company | a company that supplies water, gas, or electricity | Call your **utility company** if your bill suddenly doubles. | C; also *a utility provider*; *utilities* (plural) = the services |
-| a billing error | a mistake in a bill | I believe there may be **a billing error** on my account for March. | C; useful in complaint letters; cf. *be overcharged* |
-| run low (on sth) | have only a small amount of sth left | Reservoirs across the state are **running low** after three dry winters. | neutral; *supplies run low*; *run low on water* |
-| spring a leak | (of a pipe, roof, or boat) start to leak | The old water heater **sprang a leak** and flooded the basement. | idiom; neutral; past: *sprang*, past participle: *sprung* |
-| use sth sparingly | use only a small amount of sth | During the drought, residents were asked to **use** water **sparingly**. | neutral; opposite: *use sth freely* |
-| tiered pricing | a system in which the price per unit rises as you use more | With **tiered pricing**, households that fill swimming pools pay a much higher rate. | U; also *tiered rates*; formal |
-| fix a leak | repair a hole or crack that lets water escape | It costs far less to **fix a leak** early than to repair water damage later. | neutral; also *repair a leak* |
-| bottled water | drinking water sold in plastic or glass bottles | Many people buy **bottled water** even though their tap water is perfectly safe. | U; AmE still says *tap water* (U), although the fixture is a *faucet* |
-| water-intensive | needing a lot of water to produce | Almonds are a **water-intensive** crop grown mainly in dry California. | adj; hyphenate; cf. *energy-intensive* |
+| safe drinking water | water that is clean enough to drink without getting sick | There are still millions of families whose homes lack **safe drinking water**, especially in sub-Saharan Africa. | U; also *clean drinking water* · Grammar: relative: whose / whereby / in which |
+| access to clean water | the ability to get clean water easily | Lacking **access to clean water** at home, many girls in rural areas spend hours fetching it every morning. | U; *have / lack / improve access to sth* · Grammar: participle clause |
+| a water treatment plant | a facility that cleans water so that it is safe to use or to release | Chemicals and bacteria must be removed at **a water treatment plant** before tap water reaches people's homes. | C; also *a wastewater treatment plant* (for sewage) · Grammar: modal passive |
+| desalination | removing salt from seawater to make it drinkable | The cheaper solar power becomes, the more affordable **desalination** will be for dry coastal countries. | U; formal; *a desalination plant* (C) · Grammar: the more…, the more… |
+| irrigation | supplying water to crops through pipes or channels | Despite using around 70 percent of the world's fresh water, agriculture still relies on wasteful **irrigation** methods in many regions. | U; verb: *irrigate fields* · Grammar: concession |
+| collect rainwater | catch and store rain for later use | I wish we had started to **collect rainwater** in barrels before the city restricted garden hoses. | neutral; also *rainwater harvesting* (U); *a rain barrel* (C) · Grammar: unreal past |
+| water rationing | officially limiting how much water each person can use | Should the drought continue, **water rationing** would limit each household to a fixed amount per day. | U; verb: *ration water* · Grammar: inversion conditional |
+| runoff | water that flows off land into rivers, often carrying chemicals | Fertilizer **runoff** from farms has fed so much algae in the lake that fish are dying from lack of oxygen. | U; *agricultural runoff*; AmE spelling *fertilizer* · Grammar: so/such… that |
+| an oil spill | an accident in which oil escapes into the sea or a river | The 2010 Deepwater Horizon **oil spill** is widely regarded as the worst environmental disaster in US history. | C; *clean up an oil spill* · Grammar: impersonal passive |
+| the water table | the level below the ground where the soil is full of water | Heavy pumping must have lowered **the water table**, as our old well has gone completely dry. | with *the*; neutral · Grammar: modal perfect |
+| water the lawn | give grass water with a hose or sprinkler | No matter how hot it gets, residents may **water** their **lawns** only twice a week. | neutral; *a lawn sprinkler*, *a garden hose* (AmE) · Grammar: no matter / however |
+| raw materials | basic materials such as wood, metal, and oil used to make products | Recycling metal reduces demand for mining, thereby conserving **raw materials** and protecting landscapes. | plural; neutral · Grammar: result clause with thereby/thus |
+| mining | digging minerals such as coal, gold, or copper out of the ground | It is **mining** for battery metals such as lithium and cobalt that is polluting rivers in parts of Africa and South America. | U; *a mine* (C); verb: *mine sth* · Grammar: cleft sentence |
+| use sth sustainably | use sth in a way that does not destroy it for the future | Forests must be **used sustainably** if they are to provide timber for future generations. | neutral; adj: *sustainable*; noun: *sustainability* (U) · Grammar: modal passive |
+| a utility company | a company that supplies water, gas, or electricity | It's high time I called the **utility company**; our bill has doubled since last month. | C; also *a utility provider*; *utilities* (plural) = the services · Grammar: unreal past |
+| a billing error | a mistake in a bill | Much as I appreciate your prompt service, I believe there may be **a billing error** on my account for March. | C; useful in complaint letters; cf. *be overcharged* · Grammar: concession |
+| run low (on sth) | have only a small amount of sth left | Hit by three dry winters in a row, reservoirs across the state are **running low**. | neutral; *supplies run low*; *run low on water* · Grammar: participle clause |
+| spring a leak | (of a pipe, roof, or boat) start to leak | If the old water heater hadn't **sprung a leak**, our basement wouldn't be full of ruined boxes now. | idiom; neutral; past: *sprang*, past participle: *sprung* · Grammar: mixed conditional |
+| use sth sparingly | use only a small amount of sth | Only by **using** water **sparingly** can the town get through the summer without rationing. | neutral; opposite: *use sth freely* · Grammar: negative inversion |
+| tiered pricing | a system in which the price per unit rises as you use more | Many cities have adopted **tiered pricing**, whereby households that fill swimming pools pay a much higher rate. | U; also *tiered rates*; formal · Grammar: relative: whose / whereby / in which |
+| fix a leak | repair a hole or crack that lets water escape | The sooner you **fix a leak**, the less you will spend on repairing water damage later. | neutral; also *repair a leak* · Grammar: the more…, the more… |
+| bottled water | drinking water sold in plastic or glass bottles | Many Americans buy **bottled water** every day, which seems wasteful when their tap water is safe and nearly free. | U; AmE still says *tap water* (U), although the fixture is a *faucet* · Grammar: sentential relative |
+| water-intensive | needing a lot of water to produce | However profitable they are, **water-intensive** crops like almonds make little sense in drought-prone California. | adj; hyphenate; cf. *energy-intensive* · Grammar: no matter / however |
 
 ## Text 1 — Two-part question
 > Many people waste water and energy at home without realizing it. Why do people do this, and how can they be encouraged to use resources more carefully?

@@ -6,88 +6,88 @@
 ### Key terms
 | Chunk | Meaning | Example | Notes |
 |---|---|---|---|
-| screen time | the time spent looking at screens | Doctors recommend limiting young children's **screen time**. | U · neutral · NOT *screen times* |
-| smartphone addiction | a compulsive need to use your phone | **Smartphone addiction** can affect adults as well as teenagers. | U · neutral · be addicted TO sth |
-| digital well-being | a healthy relationship with technology | Many phones now have **digital well-being** tools that show your daily usage. | U · neutral · AmE usually hyphenates: well-being (BrE: wellbeing) |
-| doomscrolling | scrolling through bad news online for a long time | **Doomscrolling** late at night can increase anxiety. | U · informal-neutral · verb: doomscroll |
-| attention span | how long you can concentrate | Short videos may shorten children's **attention spans**. | C · neutral · a short attention span |
-| sleep deprivation | not getting enough sleep | **Sleep deprivation** affects memory and mood. | U · neutral-formal |
-| parental controls | settings that let parents limit what children can access | Use **parental controls** to block adult content. | pl · neutral |
-| a digital detox | a period without using devices | I'm going on **a digital detox** this weekend. | C · neutral · go on / do a digital detox |
-| blue light | light from screens that can affect sleep | **Blue light** from screens can delay sleep. | U · neutral |
-| online gaming | playing video games over the internet | **Online gaming** can be sociable as well as addictive. | U · neutral |
-| a notification | an alert from an app | Turn off **notifications** while you study. | C · neutral |
-| educational content | material that helps people learn | YouTube has plenty of **educational content**. | U · neutral · NOT *educational contents* |
-| a screen-free zone | a place where devices are not allowed | Make the bedroom **a screen-free zone**. | C · neutral |
+| screen time | the time spent looking at screens | It is generally believed that too much **screen time** can delay young children's language development. | U · neutral · NOT *screen times* · Grammar: impersonal passive |
+| smartphone addiction | a compulsive need to use your phone | While **smartphone addiction** is usually seen as a teenage problem, many adults struggle to put their phones down too. | U · neutral · be addicted TO sth · Grammar: concession |
+| digital well-being | a healthy relationship with technology | Designed to show your daily usage, **digital well-being** tools can help you cut down on screen time. | U · neutral · AmE usually hyphenates: well-being (BrE: wellbeing) · Grammar: participle clause |
+| doomscrolling | scrolling through bad news online for a long time | I shouldn't have spent the whole night **doomscrolling**; now I'm exhausted and more anxious than before. | U · informal-neutral · verb: doomscroll · Grammar: modal perfect |
+| attention span | how long you can concentrate | The more short videos children watch, the shorter their **attention spans** may become. | C · neutral · a short attention span · Grammar: the more…, the more… |
+| sleep deprivation | not getting enough sleep | Many teenagers use their phones until midnight, which leads to chronic **sleep deprivation** and poor concentration in class. | U · neutral-formal · Grammar: sentential relative |
+| parental controls | settings that let parents limit what children can access | **Parental controls** should be set up on every device a young child uses. | pl · neutral · Grammar: modal passive |
+| a digital detox | a period without using devices | If I hadn't gone on **a digital detox** last month, I wouldn't be sleeping so well now. | C · neutral · go on / do a digital detox · Grammar: mixed conditional |
+| blue light | light from screens that can affect sleep | Screens emit **blue light**, thereby suppressing the hormone that helps us fall asleep. | U · neutral · Grammar: result clause with thereby/thus |
+| online gaming | playing video games over the internet | Not only can **online gaming** be addictive, but it can also help shy children make friends. | U · neutral · Grammar: negative inversion |
+| a notification | an alert from an app | My phone gets so many **notifications** that I can barely concentrate for ten minutes at a time. | C · neutral · Grammar: so/such… that |
+| educational content | material that helps people learn | Children whose parents carefully choose **educational content** for them tend to benefit more from screen time. | U · neutral · NOT *educational contents* · Grammar: relative: whose / whereby / in which |
+| a screen-free zone | a place where devices are not allowed | Were families to make the bedroom **a screen-free zone**, children would probably fall asleep much faster. | C · neutral · Grammar: inversion conditional |
 
 ### Collocations
 | Chunk | Meaning | Example | Notes |
 |---|---|---|---|
-| limit screen time | restrict the time spent on screens | Parents should **limit screen time** before bed. | U · neutral |
-| set time limits | decide the maximum time allowed | Many parents **set time limits** on games. | C pl · neutral · set a limit ON sth |
-| disrupt sleep | interfere with sleep | Late-night scrolling can **disrupt sleep**. | U · neutral · NOT *break sleep* |
-| lead a sedentary lifestyle | live with little physical activity | Office workers often **lead a sedentary lifestyle**. | neutral |
-| impair concentration | make it harder to focus | Lack of sleep can **impair concentration**. | U · neutral-formal · also: affect concentration; opposite: improve concentration |
-| physical activity | movement and exercise | Children need at least an hour of **physical activity** a day. | U · neutral · do / take part in physical activity |
-| impose a ban on sth | officially forbid sth | The school **imposed a ban on** phones in class. | C · neutral-formal · ban ON (NOT *for*) |
-| a blanket ban | a ban that covers everything | **A blanket ban** on gaming would be unfair. | C · neutral |
-| age-appropriate content | material suitable for a child's age | Streaming services offer **age-appropriate content** for children. | U · neutral |
-| monitor sb's online activity | keep checking what sb does online | Parents can **monitor** their children's **online activity**. | U · neutral |
-| excessive use | too much use | **Excessive use** of phones is linked to poor sleep. | U · neutral · excessive use OF sth |
-| passive screen use | watching without interacting or creating | **Passive screen use**, such as endless videos, has few benefits. | U · neutral · opposite: active / creative use |
+| limit screen time | restrict the time spent on screens | What parents need to do is **limit screen time** in the hour before bed. | U · neutral · Grammar: cleft sentence |
+| set time limits | decide the maximum time allowed | No matter how much children protest, parents should **set time limits** on video games. | C pl · neutral · set a limit ON sth · Grammar: no matter / however |
+| disrupt sleep | interfere with sleep | Late-night scrolling is thought to **disrupt sleep** by keeping the brain alert when it should be winding down. | U · neutral · NOT *break sleep* · Grammar: impersonal passive |
+| lead a sedentary lifestyle | live with little physical activity | Sitting at a desk all day and in front of the TV all evening, many office workers **lead a sedentary lifestyle**. | neutral · Grammar: participle clause |
+| impair concentration | make it harder to focus | Many students sleep with their phones beside the bed, which can seriously **impair concentration** the next day. | U · neutral-formal · also: affect concentration; opposite: improve concentration · Grammar: sentential relative |
+| physical activity | movement and exercise | If only children spent as much time on **physical activity** as they do on screens! | U · neutral · do / take part in physical activity · Grammar: unreal past |
+| impose a ban on sth | officially forbid sth | The school should have **imposed a ban on** phones in class years ago, when the problem first appeared. | C · neutral-formal · ban ON (NOT *for*) · Grammar: modal perfect |
+| a blanket ban | a ban that covers everything | Were the government to impose **a blanket ban** on gaming, teenagers would simply find ways around it. | C · neutral · Grammar: inversion conditional |
+| age-appropriate content | material suitable for a child's age | Streaming services offer **age-appropriate content** for children, albeit with weak checks on who is actually watching. | U · neutral · Grammar: concession |
+| monitor sb's online activity | keep checking what sb does online | Some parents **monitor** their children's **online activity** closely, thus spotting signs of cyberbullying early. | U · neutral · Grammar: result clause with thereby/thus |
+| excessive use | too much use | It is **excessive use** of phones, not phones themselves, that is linked to poor sleep. | U · neutral · excessive use OF sth · Grammar: cleft sentence |
+| passive screen use | watching without interacting or creating | The more time children spend on **passive screen use**, the less time they have for creative play. | U · neutral · opposite: active / creative use · Grammar: the more…, the more… |
 
 ### Phrasal verbs
 | Chunk | Meaning | Example | Notes |
 |---|---|---|---|
-| turn sth off | stop a device working | **Turn off** your phone an hour before bed. | neutral · also: switch sth off (more common in BrE) |
-| cut down on sth | reduce the amount of sth | I'm trying to **cut down on** social media. | neutral |
-| put sth away | store sth in its usual place, out of sight | Students must **put** their phones **away** during class. | neutral |
-| wind down | relax after activity | Reading helps children **wind down** before sleep. | neutral |
-| zone out | stop paying attention | Kids often **zone out** in front of cartoons. | informal |
-| stay up (late) | go to bed later than usual | Teenagers often **stay up** late chatting online. | neutral |
-| fall behind (with sth) | fail to keep pace | Tired students **fall behind** with their schoolwork. | neutral · also: fall behind in / on sth |
-| give sth up | stop doing or using sth | She **gave up** gaming before her exams. | neutral · give up + -ing |
-| hand sth in | give sth to a person in authority | Students **hand in** their phones at the start of the day. | neutral |
-| miss out (on sth) | lose the chance to experience sth | Children who are always online **miss out on** outdoor play. | neutral |
+| turn sth off | stop a device working | Only by **turning off** your phone an hour before bed can you give your brain time to wind down. | neutral · also: switch sth off (more common in BrE) · Grammar: negative inversion |
+| cut down on sth | reduce the amount of sth | I wish I had **cut down on** social media before my exams instead of after them. | neutral · Grammar: unreal past |
+| put sth away | store sth in its usual place, out of sight | All phones must be **put away** during class unless a teacher asks students to use them. | neutral · Grammar: modal passive |
+| wind down | relax after activity | Given a paper book instead of a tablet at bedtime, most children **wind down** far more easily. | neutral · Grammar: participle clause |
+| zone out | stop paying attention | The cartoons were so loud and fast that the kids just **zoned out** in front of the TV. | informal · Grammar: so/such… that |
+| stay up (late) | go to bed later than usual | Teenagers often **stay up** late chatting online, which leaves them exhausted at school the next morning. | neutral · Grammar: sentential relative |
+| fall behind (with sth) | fail to keep pace | If he hadn't spent every night gaming, he wouldn't be **falling behind** with his schoolwork now. | neutral · also: fall behind in / on sth · Grammar: mixed conditional |
+| give sth up | stop doing or using sth | Even though she loved the game, she **gave up** gaming completely a month before her exams. | neutral · give up + -ing · Grammar: concession |
+| hand sth in | give sth to a person in authority | Students are expected to **hand in** their phones at the start of the school day. | neutral · Grammar: impersonal passive |
+| miss out (on sth) | lose the chance to experience sth | However educational their apps are, children who are always online **miss out on** outdoor play. | neutral · Grammar: no matter / however |
 
 ### Fixed expressions & idioms
 | Chunk | Meaning | Example | Notes |
 |---|---|---|---|
-| be glued to a screen | be unable to stop looking at a screen | My son is **glued to his screen** all weekend. | informal |
-| a couch potato | sb who spends a lot of time sitting and watching screens | Endless gaming can turn children into **couch potatoes**. | C · informal |
-| in moderation | in reasonable amounts | Screens are fine **in moderation**. | neutral |
-| a vicious cycle | one problem causes another, which makes the first worse | Poor sleep and late-night phone use form **a vicious cycle**. | C · neutral · BrE: a vicious circle |
-| quality over quantity | how good sth is matters more than how much | When it comes to screen time, it's **quality over quantity**. | neutral |
-| the jury is still out (on sth) | people have not yet decided | **The jury is still out on** whether screens harm attention. | neutral |
-| time well spent | a worthwhile use of time | An hour learning to code is **time well spent**. | neutral · opposite: a waste of time |
-| a wake-up call | an event that makes people realize there is a problem | The survey was **a wake-up call** for parents. | C · neutral |
+| be glued to a screen | be unable to stop looking at a screen | My son is **glued to his screen** all weekend, which drives me absolutely crazy. | informal · Grammar: sentential relative |
+| a couch potato | sb who spends a lot of time sitting and watching screens | I'd rather my kids played soccer outside than turned into **couch potatoes** in front of the TV. | C · informal · Grammar: unreal past |
+| in moderation | in reasonable amounts | Were children to use screens only **in moderation**, there would be far less reason for concern. | neutral · Grammar: inversion conditional |
+| a vicious cycle | one problem causes another, which makes the first worse | What poor sleep and late-night phone use create is **a vicious cycle** that is hard to break. | C · neutral · BrE: a vicious circle · Grammar: cleft sentence |
+| quality over quantity | how good sth is matters more than how much | The more educational the content is, the less the number of hours matters; it's **quality over quantity**. | neutral · Grammar: the more…, the more… |
+| the jury is still out (on sth) | people have not yet decided | Having reviewed dozens of studies, researchers say **the jury is still out on** whether screens harm children's attention. | neutral · Grammar: participle clause |
+| time well spent | a worthwhile use of time | Learning to code is such a useful skill that every hour of practice is **time well spent**. | neutral · opposite: a waste of time · Grammar: so/such… that |
+| a wake-up call | an event that makes people realize there is a problem | The survey's alarming findings made headlines nationwide, thereby serving as **a wake-up call** for parents and schools. | C · neutral · Grammar: result clause with thereby/thus |
 
 ### More terms
 | Chunk | Meaning | Example | Notes |
 |---|---|---|---|
-| a regular sleep schedule | going to bed and waking up at the same times | Teenagers need **a regular sleep schedule**, even on the weekend. | C · neutral · stick to / keep a regular sleep schedule |
-| eye strain | tired, sore eyes from looking at a screen | Hours of gaming can cause **eye strain** and headaches. | U · neutral · also: digital eye strain |
-| poor posture | an unhealthy way of sitting or standing | Looking down at phones leads to **poor posture**. | U · neutral · good posture |
-| childhood obesity | children being seriously overweight | Screen time has been linked to rising **childhood obesity**. | U · neutral-formal |
-| addictive design | app features built to keep people using them | Infinite feeds and autoplay are examples of **addictive design**. | U · neutral · adj: addictive features |
-| endless scrolling | scrolling without stopping or a clear purpose | **Endless scrolling** leaves many users feeling worse, not better. | U · neutral · also: infinite scroll (design feature) |
-| a dopamine hit | a quick feeling of pleasure from a reward | Each new like gives users **a dopamine hit**. | C · informal-neutral |
-| withdrawal symptoms | unpleasant feelings when you stop doing an addictive activity | Some teenagers show **withdrawal symptoms** when their phones are taken away. | pl · neutral |
-| constantly check your phone | look at your phone again and again | Many adults **constantly check their phones**, even at dinner. | neutral · a habit of checking your phone |
-| take a break from sth | stop doing sth for a short period | Experts advise people to **take a break from** social media. | C · neutral · also: take a screen break |
-| mindful use of technology | using devices consciously and in a controlled way | Schools should teach **mindful use of technology**. | U · neutral · adv: use technology mindfully |
-| unstructured play | free play without adult rules or devices | **Unstructured play** helps children develop creativity. | U · neutral-formal |
-| self-regulation | the ability to control your own behavior | Young children lack the **self-regulation** to stop gaming by themselves. | U · neutral-formal |
-| anxiety and depression | common mental health problems involving worry and low mood | Heavy social media use is linked to higher rates of **anxiety and depression**. | U · neutral · adj: anxious, depressed |
-| binge-watch sth | watch many episodes of a show in one sitting | We **binge-watched** the whole series in a weekend. | informal-neutral · noun: binge-watching |
-| be a good role model | set a good example for others to copy | Parents need to **be good role models** with their own phones. | C · neutral |
-| unplug (from sth) | stop using electronic devices for a while | Many families **unplug** completely on vacation. | informal-neutral |
-| tear yourself away (from sth) | stop doing sth you enjoy, with difficulty | Children find it hard to **tear themselves away from** games. | reflexive · neutral |
-| put sth down | stop holding or using sth | I just can't **put** my phone **down**. | neutral · pronoun goes in the middle: put it down |
-| power down | turn off a device completely | Ask everyone to **power down** their devices at bedtime. | neutral · also: power sth down |
-| be hooked on sth | be addicted to sth or like it very much | Many children are **hooked on** short videos. | informal |
-| strike a balance (between X and Y) | find a sensible middle position | Parents must **strike a balance between** freedom and control. | C · neutral |
-| exceed the recommended limit | go over the advised amount | Most teenagers **exceed the recommended limit** for recreational screen time. | neutral |
+| a regular sleep schedule | going to bed and waking up at the same times | **A regular sleep schedule** should be maintained even on weekends if teenagers want to feel rested. | C · neutral · stick to / keep a regular sleep schedule · Grammar: modal passive |
+| eye strain | tired, sore eyes from looking at a screen | Despite taking regular breaks, many gamers still suffer from **eye strain** and headaches after long sessions. | U · neutral · also: digital eye strain · Grammar: concession |
+| poor posture | an unhealthy way of sitting or standing | Looking down at phones for hours is believed to cause **poor posture** in young people. | U · neutral · good posture · Grammar: impersonal passive |
+| childhood obesity | children being seriously overweight | Children now spend more time on screens than playing outside, which has contributed to rising **childhood obesity**. | U · neutral-formal · Grammar: sentential relative |
+| addictive design | app features built to keep people using them | Infinite feeds are an example of **addictive design**, whereby apps keep users scrolling long after they meant to stop. | U · neutral · adj: addictive features · Grammar: relative: whose / whereby / in which |
+| endless scrolling | scrolling without stopping or a clear purpose | It is **endless scrolling**, rather than chatting with friends, that leaves many users feeling worse. | U · neutral · also: infinite scroll (design feature) · Grammar: cleft sentence |
+| a dopamine hit | a quick feeling of pleasure from a reward | The more likes you get, the more you crave **a dopamine hit** every time you open the app. | C · informal-neutral · Grammar: the more…, the more… |
+| withdrawal symptoms | unpleasant feelings when you stop doing an addictive activity | Separated from their phones for a week, some teenagers show **withdrawal symptoms** such as irritability and anxiety. | pl · neutral · Grammar: participle clause |
+| constantly check your phone | look at your phone again and again | I wish I didn't **constantly check my phone**, even during dinner with my family. | neutral · a habit of checking your phone · Grammar: unreal past |
+| take a break from sth | stop doing sth for a short period | Should you feel anxious after using social media, **take a break from** it for a few days. | C · neutral · also: take a screen break · Grammar: inversion conditional |
+| mindful use of technology | using devices consciously and in a controlled way | **Mindful use of technology** should be taught in schools alongside traditional subjects like math. | U · neutral · adv: use technology mindfully · Grammar: modal passive |
+| unstructured play | free play without adult rules or devices | Only through **unstructured play** do children learn to invent their own games and solve problems together. | U · neutral-formal · Grammar: negative inversion |
+| self-regulation | the ability to control your own behavior | Young children have so little **self-regulation** that they rarely stop gaming by themselves. | U · neutral-formal · Grammar: so/such… that |
+| anxiety and depression | common mental health problems involving worry and low mood | Heavy social media use is thought to contribute to higher rates of **anxiety and depression** among teenage girls. | U · neutral · adj: anxious, depressed · Grammar: impersonal passive |
+| binge-watch sth | watch many episodes of a show in one sitting | We must have **binge-watched** ten episodes last night, because suddenly it was three in the morning. | informal-neutral · noun: binge-watching · Grammar: modal perfect |
+| be a good role model | set a good example for others to copy | If parents **were good role models** when it comes to phone use, their children wouldn't have picked up such bad habits. | C · neutral · Grammar: mixed conditional |
+| unplug (from sth) | stop using electronic devices for a while | Even though it was hard at first, our family **unplugged** completely on vacation and loved it. | informal-neutral · Grammar: concession |
+| tear yourself away (from sth) | stop doing sth you enjoy, with difficulty | No matter how late it gets, many children find it hard to **tear themselves away from** their games. | reflexive · neutral · Grammar: no matter / however |
+| put sth down | stop holding or using sth | I just can't **put** my phone **down** in the evening, which is probably why I sleep so badly. | neutral · pronoun goes in the middle: put it down · Grammar: sentential relative |
+| power down | turn off a device completely | Our family **powers down** all devices at nine, thus giving everyone an hour to relax before bed. | neutral · also: power sth down · Grammar: result clause with thereby/thus |
+| be hooked on sth | be addicted to sth or like it very much | It's short videos that my kids are really **hooked on**, not proper TV shows. | informal · Grammar: cleft sentence |
+| strike a balance (between X and Y) | find a sensible middle position | Were parents to **strike a balance between** freedom and control, teenagers would be less likely to rebel. | C · neutral · Grammar: inversion conditional |
+| exceed the recommended limit | go over the advised amount | Most teenagers are believed to **exceed the recommended limit** for recreational screen time every day. | neutral · Grammar: impersonal passive |
 
 ## Text 1 — Problem-solution essay
 > Children spend more and more time looking at screens. What problems does this cause, and what can parents and schools do about it?

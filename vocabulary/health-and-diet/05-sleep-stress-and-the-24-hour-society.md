@@ -6,85 +6,85 @@
 ### Key terms
 | Chunk | Meaning | Example | Notes |
 |---|---|---|---|
-| sleep debt | the total amount of sleep you have missed | After a week of night shifts, his **sleep debt** was enormous. | U, also *a sleep debt* · neutral · *build up / pay off (a) sleep debt* |
-| shift work | a system where people work at different times of day or night | **Shift work** is common in hospitals and factories. | U · neutral · person: *a shift worker* (C) |
-| a night shift | a period of work during the night | Nurses often work three **night shifts** in a row. | C · neutral · *work / be on the night shift* · AmE informal also *the graveyard shift* |
-| the body clock | the natural system that controls when you sleep and wake | Long flights confuse **the body clock**. | C, usually *the* / *your* · neutral · formal: *circadian rhythm* |
-| insomnia | the condition of being unable to sleep | Stress is a common cause of **insomnia**. | U · neutral · NOT *an insomnia* |
-| burnout | extreme tiredness caused by overwork and stress | Medical residents are at high risk of **burnout**. | U · neutral · verb: *burn out* · BrE: *junior doctors* for *residents* |
-| a 24-hour society | a society where services operate day and night | In **a 24-hour society**, nobody is ever fully off duty. | C · neutral · also *the 24-hour economy* |
-| an always-on culture | a culture in which people are expected to be available all the time | Smartphones have created **an always-on culture** at work. | C · neutral · note *an* before *always* |
-| fatigue | great tiredness | Driver **fatigue** causes many highway accidents. | U · formal · NOT *a fatigue* |
-| noise pollution | harmful or annoying levels of noise | **Noise pollution** from traffic disturbs sleep in cities. | U · neutral |
-| long working hours | working much more than a normal day or week | **Long working hours** are linked to depression. | C, plural · neutral · AmE also *long work hours* |
-| the right to disconnect | a worker's right to ignore work messages outside working hours | Unions are campaigning for **the right to disconnect**. | C, always *the* · neutral |
+| sleep debt | the total amount of sleep you have missed | Having worked a whole week of night shifts, he had built up an enormous **sleep debt**. | U, also *a sleep debt* · neutral · *build up / pay off (a) sleep debt* · Grammar: participle clause |
+| shift work | a system where people work at different times of day or night | **Shift work** is thought to raise the risk of heart disease and type 2 diabetes. | U · neutral · person: *a shift worker* (C) · Grammar: impersonal passive |
+| a night shift | a period of work during the night | You must have come straight from **a night shift**, because you look completely exhausted. | C · neutral · *work / be on the night shift* · AmE informal also *the graveyard shift* · Grammar: modal perfect |
+| the body clock | the natural system that controls when you sleep and wake | Rarely does **the body clock** adjust quickly after a long flight across several time zones. | C, usually *the* / *your* · neutral · formal: *circadian rhythm* · Grammar: negative inversion |
+| insomnia | the condition of being unable to sleep | The more people worry about falling asleep, the worse their **insomnia** tends to become. | U · neutral · NOT *an insomnia* · Grammar: the more…, the more… |
+| burnout | extreme tiredness caused by overwork and stress | Many medical residents work eighty-hour weeks, which puts them at high risk of **burnout**. | U · neutral · verb: *burn out* · BrE: *junior doctors* for *residents* · Grammar: sentential relative |
+| a 24-hour society | a society where services operate day and night | We now live in **a 24-hour society**, in which stores, gyms and offices never really close. | C · neutral · also *the 24-hour economy* · Grammar: relative: whose / whereby / in which |
+| an always-on culture | a culture in which people are expected to be available all the time | Smartphones have blurred the line between work and home, thereby creating **an always-on culture** in many offices. | C · neutral · note *an* before *always* · Grammar: result clause with thereby/thus |
+| fatigue | great tiredness | Driver **fatigue** must be taken as seriously as drunk driving, since both cause deadly crashes. | U · formal · NOT *a fatigue* · Grammar: modal passive |
+| noise pollution | harmful or annoying levels of noise | Were cities to plant more trees along busy roads, **noise pollution** would disturb residents' sleep far less. | U · neutral · Grammar: inversion conditional |
+| long working hours | working much more than a normal day or week | Despite being linked to depression, **long working hours** are still seen as a sign of commitment. | C, plural · neutral · AmE also *long work hours* · Grammar: concession |
+| the right to disconnect | a worker's right to ignore work messages outside working hours | What exhausted employees need most is **the right to disconnect** from work emails in the evening. | C, always *the* · neutral · Grammar: cleft sentence |
 
 ### Collocations
 | Chunk | Meaning | Example | Notes |
 |---|---|---|---|
-| irregular sleep patterns | sleeping at different times every day | Shift workers often have **irregular sleep patterns**. | C, plural · neutral · *disrupt sleep patterns* |
-| work odd hours | work at unusual times, e.g. at night or on weekends | Bartenders routinely **work odd hours**. | informal-neutral · formal: *work irregular hours* · BrE: *work unsocial hours* |
-| impair concentration | make sb less able to concentrate | Severe tiredness can **impair concentration** as much as alcohol. | formal · also *impair judgment* (BrE *judgement*) · NOT *damage concentration* |
-| be prone to errors | be likely to make mistakes | Exhausted staff **are prone to errors**. | formal · *accident-prone* (adj) |
-| keep regular hours | go to bed and get up at the same times | Doctors advise insomniacs to **keep regular hours**. | neutral |
-| check work emails | look at work messages | Many people **check work emails** in bed. | neutral · NOT *control emails* (Russian *контролировать*) |
-| boost productivity | increase how much work people produce | Shorter shifts can **boost productivity**. | neutral · also *raise / improve productivity* |
-| a chronic lack of sleep | not sleeping enough over a long period | **A chronic lack of sleep** weakens the immune system. | C, with *a* · neutral · NOT *a chronic lack in sleep* |
-| lie awake | stay in bed without being able to sleep | I **lay awake** until 3 a.m. worrying. | neutral · past: *lay awake* (NOT *laid*) |
-| keep noise to a minimum | make as little noise as possible | Please **keep noise to a minimum** after 11 p.m. | polite, formal-neutral · no article in notices; *keep the noise to a minimum* for specific noise |
+| irregular sleep patterns | sleeping at different times every day | Nurses on rotating shifts often have such **irregular sleep patterns** that they struggle to rest properly on their days off. | C, plural · neutral · *disrupt sleep patterns* · Grammar: so/such… that |
+| work odd hours | work at unusual times, e.g. at night or on weekends | My brother **works odd hours** as a bartender, which means we hardly ever see each other. | informal-neutral · formal: *work irregular hours* · BrE: *work unsocial hours* · Grammar: sentential relative |
+| impair concentration | make sb less able to concentrate | Going without sleep for a whole day is said to **impair concentration** as much as drinking alcohol. | formal · also *impair judgment* (BrE *judgement*) · NOT *damage concentration* · Grammar: impersonal passive |
+| be prone to errors | be likely to make mistakes | If hospital staff weren't so exhausted, they wouldn't have been so **prone to errors** during last night's shift. | formal · *accident-prone* (adj) · Grammar: mixed conditional |
+| keep regular hours | go to bed and get up at the same times | Patients with insomnia should be advised to **keep regular hours**, even on weekends and vacations. | neutral · Grammar: modal passive |
+| check work emails | look at work messages | I wish I didn't **check work emails** in bed every night before I go to sleep. | neutral · NOT *control emails* (Russian *контролировать*) · Grammar: unreal past |
+| boost productivity | increase how much work people produce | Should companies shorten their shifts, they might well **boost productivity** and reduce sick days. | neutral · also *raise / improve productivity* · Grammar: inversion conditional |
+| a chronic lack of sleep | not sleeping enough over a long period | Not only does **a chronic lack of sleep** weaken the immune system, but it also raises the risk of depression. | C, with *a* · neutral · NOT *a chronic lack in sleep* · Grammar: negative inversion |
+| lie awake | stay in bed without being able to sleep | No matter how tired I am, I **lie awake** for hours whenever I have an exam the next day. | neutral · past: *lay awake* (NOT *laid*) · Grammar: no matter / however |
+| keep noise to a minimum | make as little noise as possible | Residents agreed to **keep noise to a minimum** during the day, thus allowing night-shift workers to sleep undisturbed. | polite, formal-neutral · no article in notices; *keep the noise to a minimum* for specific noise · Grammar: result clause with thereby/thus |
 
 ### Phrasal verbs
 | Chunk | Meaning | Example | Notes |
 |---|---|---|---|
-| doze off | fall asleep, usually without intending to | He **dozed off** in front of the TV. | intransitive · informal-neutral |
-| drift off | fall asleep slowly | I was just **drifting off** when the music started. | intransitive · neutral · *drift off to sleep* |
-| keep sb up | stop sb from going to bed or sleeping | The noise **kept** me **up** until 2 a.m. | separable (sb in the middle) · neutral |
-| catch up on sleep | sleep more to make up for missed sleep | I'll **catch up on sleep** on the weekend. | inseparable · neutral |
-| burn out | become sick or exhausted through overwork | Teachers who never take a break eventually **burn out**. | intransitive · neutral · noun *burnout* |
-| switch off | stop thinking about work and relax | It's hard to **switch off** when your phone keeps buzzing. | intransitive · informal-neutral · AmE also *unplug* |
-| log off | stop using a computer system or app | Staff should **log off** at the end of the workday. | intransitive · neutral |
-| keep it down | be quieter | Could you **keep it down** after eleven? | informal · usually a request · *keep the noise down* is more neutral |
+| doze off | fall asleep, usually without intending to | The lecture was so boring that half the class **dozed off** within twenty minutes. | intransitive · informal-neutral · Grammar: so/such… that |
+| drift off | fall asleep slowly | I must have **drifted off** during the movie, because I don't remember how it ended. | intransitive · neutral · *drift off to sleep* · Grammar: modal perfect |
+| keep sb up | stop sb from going to bed or sleeping | The neighbors' party **kept** me **up** until 2 a.m., even though I had to start work at seven. | separable (sb in the middle) · neutral · Grammar: concession |
+| catch up on sleep | sleep more to make up for missed sleep | What I need most after this week is to **catch up on sleep**, not go out partying. | inseparable · neutral · Grammar: cleft sentence |
+| burn out | become sick or exhausted through overwork | If teachers had more support, fewer of them would have **burned out** and left the profession last year. | intransitive · neutral · noun *burnout* · Grammar: mixed conditional |
+| switch off | stop thinking about work and relax | The more my phone buzzes in the evening, the harder it is to **switch off**. | intransitive · informal-neutral · AmE also *unplug* · Grammar: the more…, the more… |
+| log off | stop using a computer system or app | Staff should be required to **log off** at the end of the workday so that they can rest properly. | intransitive · neutral · Grammar: modal passive |
+| keep it down | be quieter | I'd rather you **kept it down** after eleven, since I start work at six. | informal · usually a request · *keep the noise down* is more neutral · Grammar: unreal past |
 
 ### Fixed expressions & idioms
 | Chunk | Meaning | Example | Notes |
 |---|---|---|---|
-| around the clock | all day and all night | The supermarket is open **around the clock**. | neutral · BrE also *round the clock* · adj *around-the-clock care* |
-| a good night's sleep | enough sleep without waking | Nothing beats **a good night's sleep** before an exam. | C, with *a* · NOT *a good sleep night* · *get a good night's sleep* |
-| toss and turn | move around in bed because you cannot sleep | I **tossed and turned** all night. | informal-neutral |
-| fall asleep at the wheel | fall asleep while driving | Tired truck drivers sometimes **fall asleep at the wheel**. | neutral · NOT *at the steering wheel* in the idiom |
-| be running on empty | have almost no energy left | After a month of nights, she **was running on empty**. | informal |
-| burn the candle at both ends | work very hard from early morning until late at night | Students who **burn the candle at both ends** often get sick. | informal-neutral |
-| in the early hours (of the morning) | after midnight and before dawn | The neighbors' music woke me **in the early hours**. | neutral · NOT *in early hours* (article!) · also *until / into the early hours* |
-| at all hours (of the day and night) | at any time, including very late | Emails now arrive **at all hours**. | neutral · critical tone |
-| lose sleep over sth | worry about sth | Don't **lose sleep over** one bad meeting. | informal-neutral · often negative: *I'm not losing sleep over it* |
-| a recipe for disaster | something likely to end very badly | Tired drivers and long shifts are **a recipe for disaster**. | C · neutral |
+| around the clock | all day and all night | Emergency rooms, whose doors stay open **around the clock**, rely heavily on nurses willing to work night shifts. | neutral · BrE also *round the clock* · adj *around-the-clock care* · Grammar: relative: whose / whereby / in which |
+| a good night's sleep | enough sleep without waking | If only I'd had **a good night's sleep** before the exam, I might have remembered the answers. | C, with *a* · NOT *a good sleep night* · *get a good night's sleep* · Grammar: unreal past |
+| toss and turn | move around in bed because you cannot sleep | I **tossed and turned** all night, which left me exhausted and grumpy the next morning. | informal-neutral · Grammar: sentential relative |
+| fall asleep at the wheel | fall asleep while driving | Were truck drivers allowed longer breaks, fewer of them would **fall asleep at the wheel**. | neutral · NOT *at the steering wheel* in the idiom · Grammar: inversion conditional |
+| be running on empty | have almost no energy left | She must have **been running on empty** after a month of night shifts. | informal · Grammar: modal perfect |
+| burn the candle at both ends | work very hard from early morning until late at night | The longer students **burn the candle at both ends**, the more likely they are to get sick. | informal-neutral · Grammar: the more…, the more… |
+| in the early hours (of the morning) | after midnight and before dawn | Woken by the neighbors' music **in the early hours**, I couldn't get back to sleep. | neutral · NOT *in early hours* (article!) · also *until / into the early hours* · Grammar: participle clause |
+| at all hours (of the day and night) | at any time, including very late | Only when bosses set clear boundaries will employees stop answering emails **at all hours**. | neutral · critical tone · Grammar: negative inversion |
+| lose sleep over sth | worry about sth | However badly the meeting went, don't **lose sleep over** it, because everyone has bad days. | informal-neutral · often negative: *I'm not losing sleep over it* · Grammar: no matter / however |
+| a recipe for disaster | something likely to end very badly | For truck drivers, it is the combination of long shifts and tight deadlines that is **a recipe for disaster**. | C · neutral · Grammar: cleft sentence |
 
 ### More terms
 | Chunk | Meaning | Example | Notes |
 |---|---|---|---|
-| sleep deprivation | not getting enough sleep, over a short or long period | **Sleep deprivation** slows reaction times. | U · formal-neutral · adj *sleep-deprived* |
-| jet lag | tiredness after flying across time zones | It took me a week to get over my **jet lag**. | U · neutral · adj *jet-lagged* · NOT *a jet lag* |
-| take a nap | sleep for a short time during the day | If you feel sleepy after lunch, **take a** twenty-minute **nap**. | neutral · *take a nap* (BrE also *have a nap*) · *a power nap* = short nap to boost energy |
-| sleep hygiene | habits that help you sleep well | Good **sleep hygiene** includes a cool, dark bedroom. | U · neutral, medical |
-| a bedtime routine | the same set of activities you do before going to bed | Children sleep better with a regular **bedtime routine**. | C · neutral · *stick to a bedtime routine* |
-| blue light | light from screens that can keep the brain awake | **Blue light** from phones delays the release of melatonin. | U · neutral |
-| caffeine | a substance in coffee, tea and energy drinks that keeps you awake | Avoid **caffeine** after 2 p.m. if you have trouble sleeping. | U · neutral · *cut down on caffeine* · adj *caffeinated* |
-| a sleep disorder | a medical problem that affects sleep, e.g. sleep apnea | Millions of adults have an undiagnosed **sleep disorder**. | C · neutral · BrE spelling: *sleep apnoea* |
-| drowsy driving | driving while very sleepy | **Drowsy driving** causes thousands of crashes every year. | U · neutral · AmE · BrE also: *driving while tired* |
-| stress-related illness | illness caused or made worse by stress | **Stress-related illness** costs employers billions in lost workdays. | U (also C, plural) · neutral |
-| work-life balance | a healthy division of time between work and private life | Remote work can make it harder to maintain **work-life balance**. | U · neutral · *achieve / strike a better work-life balance* |
-| work overtime | work more hours than your normal schedule | Nurses are often asked to **work overtime** on short notice. | neutral · noun *overtime* (U) · *overtime pay* |
-| be on call | be available to come to work if needed | Doctors **are** often **on call** for twenty-four hours at a time. | neutral · adj *on-call staff* |
-| flextime | a system that lets workers choose their start and finish times | **Flextime** allows parents to avoid rush hour. | U · neutral · AmE · BrE: *flexitime* |
-| a four-day workweek | working four days instead of five each week | Several companies have tested **a four-day workweek**. | C · neutral · BrE: *a four-day working week* |
-| wake up refreshed | feel rested and full of energy after sleep | After a week without screens, she **woke up refreshed**. | neutral · NOT *wake up fresh* in this sense |
-| wind down | relax after a period of work or activity | Reading a book helps me **wind down** before bed. | intransitive · neutral · also *unwind* |
-| stay up late | go to bed later than usual | Teenagers **stay up late** scrolling on their phones. | neutral · *stay up all night* |
-| sleep through sth | not be woken by a noise or event | She **slept through** the fire alarm. | inseparable · neutral · *sleep through the night* (= not wake up) |
-| pull an all-nighter | stay awake all night to study or work | Students who **pull an all-nighter** before an exam usually perform worse. | informal · AmE |
-| sleep like a log | sleep very deeply | After the hike, I **slept like a log**. | informal · also *sleep like a baby* |
-| a wake-up call | an event that makes people realize there is a serious problem | The crash was **a wake-up call** about driver fatigue. | C · neutral · *serve as a wake-up call* |
-| hit the snooze button | delay getting up by pressing the alarm's snooze button | Most mornings I **hit the snooze button** three times. | informal · AmE |
+| sleep deprivation | not getting enough sleep, over a short or long period | **Sleep deprivation** slows reaction times, thus making tired drivers almost as dangerous as drunk ones. | U · formal-neutral · adj *sleep-deprived* · Grammar: result clause with thereby/thus |
+| jet lag | tiredness after flying across time zones | If I had flown in a day earlier, I wouldn't be struggling with **jet lag** during today's meeting. | U · neutral · adj *jet-lagged* · NOT *a jet lag* · Grammar: mixed conditional |
+| take a nap | sleep for a short time during the day | Night-shift workers should be allowed to **take a nap** during their breaks so that they stay alert. | neutral · *take a nap* (BrE also *have a nap*) · *a power nap* = short nap to boost energy · Grammar: modal passive |
+| sleep hygiene | habits that help you sleep well | Good **sleep hygiene** is widely believed to be more effective than medication for mild insomnia. | U · neutral, medical · Grammar: impersonal passive |
+| a bedtime routine | the same set of activities you do before going to bed | Following **a bedtime routine** every night, young children fall asleep faster and wake up less often. | C · neutral · *stick to a bedtime routine* · Grammar: participle clause |
+| blue light | light from screens that can keep the brain awake | While **blue light** from phones may delay sleep, the content people scroll through probably matters more. | U · neutral · Grammar: concession |
+| caffeine | a substance in coffee, tea and energy drinks that keeps you awake | It's high time I gave up **caffeine** after lunch, since I've been sleeping so badly lately. | U · neutral · *cut down on caffeine* · adj *caffeinated* · Grammar: unreal past |
+| a sleep disorder | a medical problem that affects sleep, e.g. sleep apnea | Patients whose snoring keeps their partners up may have an undiagnosed **sleep disorder**. | C · neutral · BrE spelling: *sleep apnoea* · Grammar: relative: whose / whereby / in which |
+| drowsy driving | driving while very sleepy | **Drowsy driving** is such a common cause of crashes that some highways have rumble strips to wake people up. | U · neutral · AmE · BrE also: *driving while tired* · Grammar: so/such… that |
+| stress-related illness | illness caused or made worse by stress | The longer people work without a break, the greater their risk of **stress-related illness**. | U (also C, plural) · neutral · Grammar: the more…, the more… |
+| work-life balance | a healthy division of time between work and private life | Were more companies to offer flexible schedules, employees would find it easier to maintain a healthy **work-life balance**. | U · neutral · *achieve / strike a better work-life balance* · Grammar: inversion conditional |
+| work overtime | work more hours than your normal schedule | Nurses are often asked to **work overtime** on short notice, even though tired staff are more prone to errors. | neutral · noun *overtime* (U) · *overtime pay* · Grammar: concession |
+| be on call | be available to come to work if needed | Doctors **are** often **on call** for twenty-four hours at a time, which leaves them exhausted. | neutral · adj *on-call staff* · Grammar: sentential relative |
+| flextime | a system that lets workers choose their start and finish times | The firm introduced **flextime**, thus allowing parents to avoid rush hour and pick up their kids from school. | U · neutral · AmE · BrE: *flexitime* · Grammar: result clause with thereby/thus |
+| a four-day workweek | working four days instead of five each week | However skeptical managers may be, trials of **a four-day workweek** have often reported happier, healthier staff. | C · neutral · BrE: *a four-day working week* · Grammar: no matter / however |
+| wake up refreshed | feel rested and full of energy after sleep | Only after a week without screens did she finally **wake up refreshed**. | neutral · NOT *wake up fresh* in this sense · Grammar: negative inversion |
+| wind down | relax after a period of work or activity | Turning off my phone an hour before bed, I find it much easier to **wind down**. | intransitive · neutral · also *unwind* · Grammar: participle clause |
+| stay up late | go to bed later than usual | Teenagers are often said to **stay up late** because their body clocks shift later during adolescence. | neutral · *stay up all night* · Grammar: impersonal passive |
+| sleep through sth | not be woken by a noise or event | She was so exhausted after her shift that she **slept through** the fire alarm at 3 a.m. | inseparable · neutral · *sleep through the night* (= not wake up) · Grammar: so/such… that |
+| pull an all-nighter | stay awake all night to study or work | I **pulled an all-nighter** before my chemistry final, which turned out to be a terrible idea. | informal · AmE · Grammar: sentential relative |
+| sleep like a log | sleep very deeply | You must have **slept like a log**, because you didn't even hear the thunderstorm! | informal · also *sleep like a baby* · Grammar: modal perfect |
+| a wake-up call | an event that makes people realize there is a serious problem | The crash should be treated as **a wake-up call** about the dangers of driver fatigue. | C · neutral · *serve as a wake-up call* · Grammar: modal passive |
+| hit the snooze button | delay getting up by pressing the alarm's snooze button | I **hit the snooze button** three times this morning, even though I'd promised myself I'd get up early. | informal · AmE · Grammar: concession |
 
 ## Text 1 — Advantages vs disadvantages
 > Stores, services and workplaces increasingly operate 24 hours a day. Do the advantages of this development outweigh the disadvantages?

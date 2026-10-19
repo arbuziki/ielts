@@ -6,86 +6,86 @@
 ### Key terms
 | Chunk | Meaning | Example | Notes |
 |---|---|---|---|
-| climate change | long-term changes in the Earth's climate, especially warming caused by human activity | **Climate change** is already affecting harvests in southern Europe. | U, no article: NOT *the climate change* |
-| global warming | the rise in the Earth's average temperature | **Global warming** is melting glaciers faster than scientists expected. | U, no article |
-| carbon emissions | carbon dioxide released into the air, e.g. from burning fuel | Aviation is responsible for a growing share of **carbon emissions**. | plural; also *greenhouse gas emissions* |
-| a carbon footprint | the total amount of carbon dioxide a person or organization causes | Flying less is the quickest way to shrink **your carbon footprint**. | C; *reduce / shrink / calculate your carbon footprint* |
-| a carbon tax | a tax on fuels or products according to how much carbon they release | **A carbon tax** makes polluting activities more expensive. | C; *introduce / impose a carbon tax* |
-| fossil fuels | coal, oil, and gas | Most of the world's energy still comes from **fossil fuels**. | C, usually plural |
-| extreme weather | unusually severe heat waves, storms, floods, and droughts | **Extreme weather** is becoming more frequent and more costly. | U; C in *extreme weather events* |
-| net zero | a state in which a country removes as much carbon as it emits | The UK has a legal target to reach **net zero** by 2050. | U, no article; *reach / achieve net zero* |
-| greenwashing | making a company or product seem more environmentally friendly than it really is | Calling a plastic bottle "eco" because the label is recycled is pure **greenwashing**. | U; neutral; verb: *to greenwash* |
-| carbon offsetting | paying for projects such as tree planting to "cancel out" your emissions | Critics say **carbon offsetting** lets airlines avoid real change. | U; noun *an offset* (C) |
-| a heat wave | a period of unusually hot weather | **A heat wave** in 2022 pushed temperatures in England above 40°C (104°F) for the first time. | C; usually two words in AmE; BrE: *heatwave* |
+| climate change | long-term changes in the Earth's climate, especially warming caused by human activity | **Climate change** is widely thought to be the main reason why harvests in southern Europe are becoming less reliable. | U, no article: NOT *the climate change* · Grammar: impersonal passive |
+| global warming | the rise in the Earth's average temperature | The faster **global warming** progresses, the more quickly mountain glaciers shrink and disappear. | U, no article · Grammar: the more…, the more… |
+| carbon emissions | carbon dioxide released into the air, e.g. from burning fuel | It is aviation and shipping that account for a growing share of **carbon emissions** from transportation. | plural; also *greenhouse gas emissions* · Grammar: cleft sentence |
+| a carbon footprint | the total amount of carbon dioxide a person or organization causes | I wish I had known how much flying adds to my **carbon footprint** before I booked three vacations last year. | C; *reduce / shrink / calculate your carbon footprint* · Grammar: unreal past |
+| a carbon tax | a tax on fuels or products according to how much carbon they release | Were governments to introduce **a carbon tax**, polluting industries would have a strong incentive to cut their emissions. | C; *introduce / impose a carbon tax* · Grammar: inversion conditional |
+| fossil fuels | coal, oil, and gas | Not only do **fossil fuels** heat the planet, but they also pollute the air that millions of people breathe. | C, usually plural · Grammar: negative inversion |
+| extreme weather | unusually severe heat waves, storms, floods, and droughts | **Extreme weather** has become so frequent that insurers are refusing to cover homes in some flood-prone areas. | U; C in *extreme weather events* · Grammar: so/such… that |
+| net zero | a state in which a country removes as much carbon as it emits | Emissions must be cut sharply this decade if countries are to reach **net zero** by 2050. | U, no article; *reach / achieve net zero* · Grammar: modal passive |
+| greenwashing | making a company or product seem more environmentally friendly than it really is | Accused of **greenwashing**, the oil company withdrew advertisements that showed its gas stations surrounded by forests. | U; neutral; verb: *to greenwash* · Grammar: participle clause |
+| carbon offsetting | paying for projects such as tree planting to "cancel out" your emissions | Much as **carbon offsetting** appeals to frequent flyers, it does little to reduce emissions at the source. | U; noun *an offset* (C) · Grammar: concession |
+| a heat wave | a period of unusually hot weather | Officials should have prepared hospitals better for the **heat wave** that pushed temperatures in England above 40°C in 2022. | C; usually two words in AmE; BrE: *heatwave* · Grammar: modal perfect |
 
 ### Collocations
 | Chunk | Meaning | Example | Notes |
 |---|---|---|---|
-| tackle climate change | deal with the problem seriously | Every country must play a part in **tackling climate change**. | neutral; also *combat / address* (formal) |
-| cut emissions | reduce the amount of greenhouse gases released | The EU has pledged to **cut emissions** by at least 55% by 2030. | neutral; also *curb emissions* (formal) |
-| set a target | decide on a goal to reach | The government has **set a target** of net zero by 2050. | C; *meet / miss a target* |
-| legally binding targets | goals that a country must reach by law | Without **legally binding targets**, promises are easy to break. | plural; formal |
-| take action on sth | do something to deal with a problem | Young people are demanding that leaders **take action on** climate change. | U; NOT *make action*; also *take action against* |
-| put a price on carbon | make polluters pay for each ton of CO2 they emit | Economists argue that the cheapest solution is to **put a price on carbon**. | neutral; noun: *carbon pricing* (U) |
-| a collective effort | action taken by many people together | Cutting emissions requires **a collective effort**, not a few heroes. | C; neutral |
-| rising sea levels | the gradual increase in the height of the sea | **Rising sea levels** threaten low-lying cities such as Jakarta. | plural |
-| make lifestyle changes | change the way you live | Many people are willing to **make lifestyle changes** if alternatives are affordable. | plural; NOT *do changes* |
-| a low-carbon economy | an economy that releases little carbon dioxide | Moving to **a low-carbon economy** will create new jobs. | C; hyphenate *low-carbon* |
-| shift the burden onto sb | make another person or group carry a responsibility | Taxes on gas can **shift the burden onto** poorer drivers. | formal; *the burden of sth*; *gas* (AmE) = *petrol* (BrE) |
-| hold sb accountable | make sb take responsibility for their actions | Shareholders should **hold** oil companies **accountable** for their emissions. | formal; + *for sth* |
-| the scale of the problem | how large and serious the problem is | Recycling alone does not match **the scale of the problem**. | with *the*; neutral |
+| tackle climate change | deal with the problem seriously | The Paris Agreement created a framework whereby every country sets its own plan for **tackling climate change**. | neutral; also *combat / address* (formal) · Grammar: relative: whose / whereby / in which |
+| cut emissions | reduce the amount of greenhouse gases released | The EU has pledged to **cut emissions** by at least 55% by 2030, thereby putting pressure on other major economies. | neutral; also *curb emissions* (formal) · Grammar: result clause with thereby/thus |
+| set a target | decide on a goal to reach | The government has **set a target** of net zero by 2050, which has encouraged investors to back wind and solar projects. | C; *meet / miss a target* · Grammar: sentential relative |
+| legally binding targets | goals that a country must reach by law | Without **legally binding targets**, promises are easy to break, however sincere they may sound. | plural; formal · Grammar: no matter / however |
+| take action on sth | do something to deal with a problem | It's high time world leaders **took action on** climate change instead of making promises they never keep. | U; NOT *make action*; also *take action against* · Grammar: unreal past |
+| put a price on carbon | make polluters pay for each ton of CO2 they emit | What many economists recommend is to **put a price on carbon** so that polluters pay for the damage they cause. | neutral; noun: *carbon pricing* (U) · Grammar: cleft sentence |
+| a collective effort | action taken by many people together | Only through **a collective effort** can humanity cut emissions fast enough to avoid the worst effects of warming. | C; neutral · Grammar: negative inversion |
+| rising sea levels | the gradual increase in the height of the sea | Threatened by **rising sea levels**, low-lying cities such as Jakarta are investing in huge flood barriers. | plural · Grammar: participle clause |
+| make lifestyle changes | change the way you live | Even though many people are willing to **make lifestyle changes**, they need affordable alternatives such as reliable public transportation. | plural; NOT *do changes* · Grammar: concession |
+| a low-carbon economy | an economy that releases little carbon dioxide | Moving to **a low-carbon economy** is expected to create new jobs in construction, engineering, and manufacturing. | C; hyphenate *low-carbon* · Grammar: impersonal passive |
+| shift the burden onto sb | make another person or group carry a responsibility | Lawmakers should never have **shifted the burden onto** low-income drivers by raising the gas tax without offering any rebates. | formal; *the burden of sth*; *gas* (AmE) = *petrol* (BrE) · Grammar: modal perfect |
+| hold sb accountable | make sb take responsibility for their actions | Oil companies should be **held accountable** for decades of emissions, as they knew about the risks long ago. | formal; + *for sth* · Grammar: modal passive |
+| the scale of the problem | how large and serious the problem is | **The scale of the problem** is so vast that recycling and reusable bags alone cannot make much difference. | with *the*; neutral · Grammar: so/such… that |
 
 ### Phrasal verbs
 | Chunk | Meaning | Example | Notes |
 |---|---|---|---|
-| switch to sth | change from one thing to another | Many commuters have **switched to** biking since the new bike lanes opened. | neutral; + noun / -ing |
-| give sth up | stop doing or having sth | Few people are prepared to **give up** flying completely. | neutral; + noun / -ing |
-| pass sth on to sb | make sb else pay a cost | Energy companies simply **pass** the tax **on to** consumers. | neutral; *pass on costs* |
-| shy away from sth | avoid sth difficult or unpopular | Politicians often **shy away from** raising gas taxes. | neutral; + noun / -ing |
-| push for sth | try hard to achieve sth, e.g. a law | Activists are **pushing for** a ban on new oil fields. | neutral |
-| roll sth out | introduce a new policy, rule, or service | The government **rolled out** stricter limits on car emissions. | neutral; noun: *a rollout*; BrE also: *bring sth in* |
-| water sth down | make a plan or law weaker | The final agreement was **watered down** after pressure from oil-producing states. | neutral, often passive |
-| get away with sth | avoid punishment for sth wrong | Large polluters too often **get away with** breaking the rules. | neutral |
+| switch to sth | change from one thing to another | Thousands of commuters have **switched to** biking, thereby cutting both traffic and emissions in the city center. | neutral; + noun / -ing · Grammar: result clause with thereby/thus |
+| give sth up | stop doing or having sth | If I hadn't **given up** flying years ago, my carbon footprint would be much larger now. | neutral; + noun / -ing · Grammar: mixed conditional |
+| pass sth on to sb | make sb else pay a cost | Energy companies simply **pass** the tax **on to** consumers, which means households end up paying for corporate pollution. | neutral; *pass on costs* · Grammar: sentential relative |
+| shy away from sth | avoid sth difficult or unpopular | No matter how urgent the crisis becomes, politicians tend to **shy away from** raising gas taxes before an election. | neutral; + noun / -ing · Grammar: no matter / however |
+| push for sth | try hard to achieve sth, e.g. a law | It's high time voters **pushed for** a ban on new oil fields instead of waiting for politicians to act. | neutral · Grammar: unreal past |
+| roll sth out | introduce a new policy, rule, or service | Should the government **roll out** a nationwide network of charging stations, far more drivers would consider buying electric cars. | neutral; noun: *a rollout*; BrE also: *bring sth in* · Grammar: inversion conditional |
+| water sth down | make a plan or law weaker | It was pressure from oil-producing states that **watered down** the final agreement at the summit. | neutral, often passive · Grammar: cleft sentence |
+| get away with sth | avoid punishment for sth wrong | The longer large polluters **get away with** breaking the rules, the less seriously others take the law. | neutral · Grammar: the more…, the more… |
 
 ### Fixed expressions & idioms
 | Chunk | Meaning | Example | Notes |
 |---|---|---|---|
-| pass the buck | make sb else responsible for a problem you should deal with | Governments and consumers keep **passing the buck** to each other. | idiom; neutral-informal |
-| lead by example | show others how to behave by doing it yourself | Politicians who fly short distances can hardly **lead by example**. | neutral |
-| do your part | do your share of a shared task | Everyone can **do their part** by wasting less energy. | neutral; BrE: *do your bit* |
-| there is no silver bullet | no single, simple solution exists | **There is no silver bullet** for climate change. | fixed; *a silver bullet* (C) |
-| at the expense of sth | in a way that harms sth else | Growth must not come **at the expense of** the environment. | formal |
-| in the long run | over a long period of time | Clean energy will save money **in the long run**. | neutral; NOT *in a long run* |
-| a step in the right direction | a positive but limited first move | The new tax is **a step in the right direction**, but it is too small. | neutral |
-| the tip of the iceberg | a small visible part of a much larger problem | Recent floods may be only **the tip of the iceberg**. | idiom; neutral |
+| pass the buck | make sb else responsible for a problem you should deal with | Governments blame consumers and consumers blame governments, which is a classic case of **passing the buck**. | idiom; neutral-informal · Grammar: sentential relative |
+| lead by example | show others how to behave by doing it yourself | Little do some politicians realize that they cannot **lead by example** while flying in private jets. | neutral · Grammar: negative inversion |
+| do your part | do your share of a shared task | While individuals can **do their part** by wasting less energy, the biggest cuts must come from industry. | neutral; BrE: *do your bit* · Grammar: concession |
+| there is no silver bullet | no single, simple solution exists | Having studied dozens of policies, researchers have concluded that **there is no silver bullet** for climate change. | fixed; *a silver bullet* (C) · Grammar: participle clause |
+| at the expense of sth | in a way that harms sth else | Economic growth should not be achieved **at the expense of** the environment or the health of future generations. | formal · Grammar: modal passive |
+| in the long run | over a long period of time | Were countries to invest in clean energy now, they would save enormous sums **in the long run**. | neutral; NOT *in a long run* · Grammar: inversion conditional |
+| a step in the right direction | a positive but limited first move | The new tax is **a step in the right direction**, albeit a small one compared with the scale of the crisis. | neutral · Grammar: concession |
+| the tip of the iceberg | a small visible part of a much larger problem | Recent floods are thought to be only **the tip of the iceberg**, with far worse to come as warming continues. | idiom; neutral · Grammar: impersonal passive |
 
 ### More terms
 | Chunk | Meaning | Example | Notes |
 |---|---|---|---|
-| the greenhouse effect | the warming of the Earth caused by gases that trap heat in the atmosphere | Burning coal and oil strengthens **the greenhouse effect**. | with *the*; U; neutral |
-| greenhouse gases | gases such as carbon dioxide and methane that trap heat | Cattle farming releases large amounts of **greenhouse gases**, especially methane. | C, plural; abbreviation GHGs |
-| the climate crisis | the serious and urgent situation caused by climate change | Many news outlets now say **the climate crisis** rather than "climate change" to stress the urgency. | with *the*; neutral; also *the climate emergency* |
-| climate refugees | people forced to leave their homes because of the effects of climate change | Rising seas could turn millions of coastal residents into **climate refugees**. | C, plural; also *climate migrants* (more neutral) |
-| adapt to climate change | change the way we live and build to cope with a warmer world | Coastal cities must **adapt to climate change** by building sea walls and raising roads. | neutral; noun: *climate adaptation* (U) |
-| mitigate the effects of sth | make the harmful effects of sth less severe | Planting trees in cities can **mitigate the effects of** extreme heat. | formal; noun: *mitigation* (U) |
-| a tipping point | the moment when a small change causes a large, often irreversible effect | Scientists warn that the Amazon may be close to **a tipping point**. | C; *reach / pass a tipping point* |
-| melting ice caps | polar ice that is turning into water as temperatures rise | **Melting ice caps** in Greenland and Antarctica are pushing up sea levels around the world. | plural; also *melting glaciers*; polar bears are threatened by shrinking *sea ice* (U) |
-| wildfires | large, uncontrolled fires in forests or grasslands | Hotter, drier summers have made **wildfires** in California more frequent and destructive. | C, usually plural; also *forest fires*; *bushfires* (Australia) |
-| carbon-neutral | releasing no more carbon dioxide than is removed or offset | The company claims that all its deliveries are now **carbon-neutral**. | adj; hyphenate; noun: *carbon neutrality* (U); cf. *net zero* |
-| a climate summit | a large international meeting on climate change | World leaders gathered in Glasgow for **a climate summit** in 2021. | C; the UN summits are called *COP* (e.g. COP26) |
-| developing countries | poorer countries that are building up their economies | **Developing countries** argue that rich nations caused most historical emissions and should pay more. | C, plural; opposite: *developed / industrialized countries* |
-| a climate skeptic | a person who doubts that climate change is real or caused by humans | Even **climate skeptics** often support cheaper solar power. | C; AmE spelling; BrE: *sceptic*; stronger: *a climate denier* |
-| the cost of inaction | the price paid for not doing anything | Economists warn that **the cost of inaction** will be far higher than the cost of cutting emissions. | with *the*; formal |
-| a plant-based diet | a diet made up mainly or entirely of food from plants | Switching to **a plant-based diet** can cut a person's food emissions significantly. | C; hyphenate *plant-based*; cf. *vegetarian / vegan* |
-| environmentally friendly | not harmful to the environment | Customers are willing to pay a little more for **environmentally friendly** products. | adj; neutral; also *eco-friendly* (informal), *green* |
-| take responsibility for sth | accept that you must deal with sth or are to blame for it | Wealthy nations should **take responsibility for** their past emissions. | neutral; NOT *take the responsibility of* |
-| a moral obligation | a duty based on what is right rather than on law | Rich countries have **a moral obligation** to help poorer ones adapt. | C; formal; + *to do sth* |
-| future generations | the people who will live after us | We cannot leave **future generations** to deal with a crisis we created. | plural, no article |
-| irreversible damage | harm that cannot be undone | Further warming could cause **irreversible damage** to coral reefs. | U; formal |
-| take effect | (of a law or agreement) start to apply | The Paris Agreement **took effect** in November 2016. | neutral; also *go into effect*; for treaties also *enter into force* (formal); BrE often: *come into force* |
-| be on track to do sth | be likely to achieve sth as planned | Few countries **are on track to** meet their 2030 targets. | neutral; opposite: *be off track* |
-| fall short of sth | fail to reach a target or standard | Current pledges **fall** well **short of** what is needed to limit warming to 1.5°C. | neutral; *fall short of a target / expectations* |
-| kick the can down the road | delay dealing with a problem | Every government that **kicks the can down the road** makes the final bill higher. | idiom; neutral-informal; common in AmE |
+| the greenhouse effect | the warming of the Earth caused by gases that trap heat in the atmosphere | Burning coal and oil releases carbon dioxide, thereby strengthening **the greenhouse effect** and warming the planet. | with *the*; U; neutral · Grammar: result clause with thereby/thus |
+| greenhouse gases | gases such as carbon dioxide and methane that trap heat | Methane is one of the **greenhouse gases** whose short-term warming effect is much stronger than that of carbon dioxide. | C, plural; abbreviation GHGs · Grammar: relative: whose / whereby / in which |
+| the climate crisis | the serious and urgent situation caused by climate change | The reason many news outlets now use the phrase **the climate crisis** is that it conveys more urgency than older terms. | with *the*; neutral; also *the climate emergency* · Grammar: cleft sentence |
+| climate refugees | people forced to leave their homes because of the effects of climate change | Were sea levels to rise by another meter, millions of coastal residents would become **climate refugees**. | C, plural; also *climate migrants* (more neutral) · Grammar: inversion conditional |
+| adapt to climate change | change the way we live and build to cope with a warmer world | Roads must be raised and sea walls built if coastal cities are to **adapt to climate change**. | neutral; noun: *climate adaptation* (U) · Grammar: modal passive |
+| mitigate the effects of sth | make the harmful effects of sth less severe | Planted along busy streets, trees can **mitigate the effects of** extreme heat by providing shade and cooling the air. | formal; noun: *mitigation* (U) · Grammar: participle clause |
+| a tipping point | the moment when a small change causes a large, often irreversible effect | Never before have scientists warned so urgently that the Amazon may be close to **a tipping point**. | C; *reach / pass a tipping point* · Grammar: negative inversion |
+| melting ice caps | polar ice that is turning into water as temperatures rise | **Melting ice caps** are raising sea levels so quickly that some Pacific island nations fear they could disappear. | plural; also *melting glaciers*; polar bears are threatened by shrinking *sea ice* (U) · Grammar: so/such… that |
+| wildfires | large, uncontrolled fires in forests or grasslands | If California's summers were not so hot and dry, **wildfires** would not have destroyed so many homes in recent years. | C, usually plural; also *forest fires*; *bushfires* (Australia) · Grammar: mixed conditional |
+| carbon-neutral | releasing no more carbon dioxide than is removed or offset | The company can't have made all its deliveries **carbon-neutral** so quickly without relying heavily on offsets. | adj; hyphenate; noun: *carbon neutrality* (U); cf. *net zero* · Grammar: modal perfect |
+| a climate summit | a large international meeting on climate change | World leaders at **a climate summit** in Glasgow agreed to phase down coal power, thus sending a clear signal to investors. | C; the UN summits are called *COP* (e.g. COP26) · Grammar: result clause with thereby/thus |
+| developing countries | poorer countries that are building up their economies | Despite contributing least to historical emissions, **developing countries** often suffer most from droughts and floods. | C, plural; opposite: *developed / industrialized countries* · Grammar: concession |
+| a climate skeptic | a person who doubts that climate change is real or caused by humans | No matter what they think about the science, even **climate skeptics** tend to welcome cheaper solar power. | C; AmE spelling; BrE: *sceptic*; stronger: *a climate denier* · Grammar: no matter / however |
+| the cost of inaction | the price paid for not doing anything | The longer we delay, the higher **the cost of inaction** will be for future generations. | with *the*; formal · Grammar: the more…, the more… |
+| a plant-based diet | a diet made up mainly or entirely of food from plants | I wish I had switched to **a plant-based diet** sooner, as it has cut my food bills as well as my emissions. | C; hyphenate *plant-based*; cf. *vegetarian / vegan* · Grammar: unreal past |
+| environmentally friendly | not harmful to the environment | Shoppers are said to be willing to pay slightly more for **environmentally friendly** products, especially younger ones. | adj; neutral; also *eco-friendly* (informal), *green* · Grammar: impersonal passive |
+| take responsibility for sth | accept that you must deal with sth or are to blame for it | Had wealthy nations **taken responsibility for** their emissions earlier, poorer countries would not be facing such severe consequences today. | neutral; NOT *take the responsibility of* · Grammar: inversion conditional |
+| a moral obligation | a duty based on what is right rather than on law | Rich countries have **a moral obligation** to help poorer ones, whose farmers are already losing crops to drought. | C; formal; + *to do sth* · Grammar: relative: whose / whereby / in which |
+| future generations | the people who will live after us | Today's leaders are delaying climate action, thus leaving **future generations** to deal with a crisis they did not create. | plural, no article · Grammar: result clause with thereby/thus |
+| irreversible damage | harm that cannot be undone | Coral reefs are so sensitive to heat that further warming could cause **irreversible damage** within decades. | U; formal · Grammar: so/such… that |
+| take effect | (of a law or agreement) start to apply | Having been ratified by enough countries, the Paris Agreement **took effect** in November 2016. | neutral; also *go into effect*; for treaties also *enter into force* (formal); BrE often: *come into force* · Grammar: participle clause |
+| be on track to do sth | be likely to achieve sth as planned | What worries scientists is that few countries **are on track to** meet their 2030 emissions targets. | neutral; opposite: *be off track* · Grammar: cleft sentence |
+| fall short of sth | fail to reach a target or standard | If past pledges had not **fallen** so far **short of** what scientists recommended, the world would be far safer now. | neutral; *fall short of a target / expectations* · Grammar: mixed conditional |
+| kick the can down the road | delay dealing with a problem | The longer governments **kick the can down the road**, the higher the final bill for cutting emissions becomes. | idiom; neutral-informal; common in AmE · Grammar: the more…, the more… |
 
 ## Text 1 — Discuss both views and give your opinion
 > Some people believe that tackling climate change is mainly the responsibility of governments and large companies, while others think individuals must change their own behavior. Discuss both views and give your own opinion.

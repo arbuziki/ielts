@@ -6,88 +6,88 @@
 ### Key terms
 | Chunk | Meaning | Example | Notes |
 |---|---|---|---|
-| social media | websites and apps for sharing content and contacts | Most teenagers use **social media** every day. | U · neutral · NOT *a social media* → a social media platform |
-| a social media platform | one particular site or app, e.g. Instagram | TikTok is **a social media platform** built around short videos. | C · neutral · also: a messaging app |
-| face-to-face contact | meeting people in person | Nothing replaces regular **face-to-face contact** with friends. | U · neutral · adverb has no hyphens: talk face to face |
-| an online friendship | a friendship that exists mainly on the internet | She formed **an online friendship** with a gamer in Canada. | C · neutral · opposite: a real-life friendship |
-| loneliness | sadness because you have no company | **Loneliness** is common among elderly people who live alone. | U · neutral · adj: lonely; NOT *loneness* |
-| social isolation | having very little contact with other people | Long-term **social isolation** can harm mental health. | U · neutral-formal · verb phrase: feel isolated |
-| self-esteem | how much you value yourself | Constant comparison can damage teenagers' **self-esteem**. | U · neutral · low / high self-esteem; NOT *a self-esteem* |
-| cyberbullying | bullying someone online | **Cyberbullying** can follow a child home from school. | U · neutral · a victim of cyberbullying |
-| a news feed | the stream of posts you see in an app | I spend too long looking at my **news feed**. | C · neutral · scroll through your news feed |
-| a highlight reel | only the best moments of someone's life, shown online | Most profiles are **a highlight reel**, not real life. | C · neutral, figurative |
-| the fear of missing out (FOMO) | worry that others are having fun without you | **The fear of missing out** keeps many teenagers checking their phones. | U, with *the* · neutral; FOMO is informal |
-| interpersonal skills | the ability to communicate and get along with people | Group projects help children develop **interpersonal skills**. | plural · neutral · also: communication skills |
+| social media | websites and apps for sharing content and contacts | It is widely believed that **social media** has made teenagers more anxious and less willing to socialize offline. | U · neutral · NOT *a social media* → a social media platform · Grammar: impersonal passive |
+| a social media platform | one particular site or app, e.g. Instagram | Were **a social media platform** to verify every user's age, it would have to delete millions of accounts belonging to children. | C · neutral · also: a messaging app · Grammar: inversion conditional |
+| face-to-face contact | meeting people in person | Only through regular **face-to-face contact** can children learn to read facial expressions and tone of voice. | U · neutral · adverb has no hyphens: talk face to face · Grammar: negative inversion |
+| an online friendship | a friendship that exists mainly on the internet | If she hadn't joined that gaming forum, she wouldn't now have **an online friendship** with someone in Canada. | C · neutral · opposite: a real-life friendship · Grammar: mixed conditional |
+| loneliness | sadness because you have no company | Living alone and rarely leaving the house, many elderly people suffer from **loneliness** that video calls cannot fully ease. | U · neutral · adj: lonely; NOT *loneness* · Grammar: participle clause |
+| social isolation | having very little contact with other people | It is long-term **social isolation**, rather than occasional solitude, that does the most damage to mental health. | U · neutral-formal · verb phrase: feel isolated · Grammar: cleft sentence |
+| self-esteem | how much you value yourself | The more teenagers compare their lives with filtered photos, the lower their **self-esteem** becomes. | U · neutral · low / high self-esteem; NOT *a self-esteem* · Grammar: the more…, the more… |
+| cyberbullying | bullying someone online | **Cyberbullying** can be so relentless that some victims are afraid to go to school or even open their phones. | U · neutral · a victim of cyberbullying · Grammar: so/such… that |
+| a news feed | the stream of posts you see in an app | No matter how often I refresh my **news feed**, there always seems to be something new to scroll through. | C · neutral · scroll through your news feed · Grammar: no matter / however |
+| a highlight reel | only the best moments of someone's life, shown online | Much as we enjoy friends' vacation photos, a typical profile is **a highlight reel**, not an honest picture of daily life. | C · neutral, figurative · Grammar: concession |
+| the fear of missing out (FOMO) | worry that others are having fun without you | **The fear of missing out** keeps many teenagers checking their phones late at night, which inevitably disrupts their sleep. | U, with *the* · neutral; FOMO is informal · Grammar: sentential relative |
+| interpersonal skills | the ability to communicate and get along with people | **Interpersonal skills** should be taught as deliberately as math, since many children now socialize mainly through screens. | plural · neutral · also: communication skills · Grammar: modal passive |
 
 ### Collocations
 | Chunk | Meaning | Example | Notes |
 |---|---|---|---|
-| maintain a friendship | keep a friendship going | It takes effort to **maintain a friendship** across time zones. | C · neutral · also: maintain contact (U) |
-| form close relationships | develop strong personal bonds | Children who **form close relationships** early tend to be more confident. | C · neutral · NOT *do / make relationships* |
-| strike up a conversation | start talking to someone you don't know well | It's hard to **strike up a conversation** if you're always on your phone. | C · neutral · also: strike up a friendship |
-| feel isolated | feel alone and cut off from others | Many people who work from home **feel isolated**. | adj · neutral · also: feel left out |
-| compare yourself with/to others | judge yourself against other people | Teenagers often **compare themselves with** influencers. | reflexive: myself / themselves · neutral · *to* is more common in AmE |
-| post an update | share news on social media | She **posts an update** every time she travels. | C · neutral · also: post photos / a comment |
-| like and share a post | react to and repost content | It takes two seconds to **like and share a post**. | C · informal-neutral |
-| a sense of belonging | the feeling that a group accepts you | Online communities can give people **a sense of belonging**. | C (sing.) · neutral · give / create a sense of belonging |
-| a close-knit community | a group whose members know and support each other | She grew up in **a close-knit community** where everyone knew each other. | C · neutral |
-| provide emotional support | help someone cope with their feelings | Online groups can **provide emotional support** for new parents. | U · neutral · NOT *an emotional support* |
-| a meaningful conversation | a deep, worthwhile talk | We rarely have **a meaningful conversation** by text. | C · neutral · also: a meaningful relationship |
-| superficial connections | shallow relationships | Having hundreds of followers often means **superficial connections**. | C, often pl · neutral · opposite: genuine connections |
-| be subjected to online abuse | be the target of insults online | Many public figures **are subjected to online abuse** every day. | U · neutral-formal · also: online harassment (U) |
+| maintain a friendship | keep a friendship going | Weekly video calls let us **maintain a friendship** across three time zones, thereby proving that distance need not end close ties. | C · neutral · also: maintain contact (U) · Grammar: result clause with thereby/thus |
+| form close relationships | develop strong personal bonds | Children whose parents spend time talking with them tend to **form close relationships** more easily later in life. | C · neutral · NOT *do / make relationships* · Grammar: relative: whose / whereby / in which |
+| strike up a conversation | start talking to someone you don't know well | I should have **struck up a conversation** with the woman next to me instead of staring at my phone the whole flight. | C · neutral · also: strike up a friendship · Grammar: modal perfect |
+| feel isolated | feel alone and cut off from others | Many people who work from home **feel isolated** and wish they had more chances to meet colleagues in person. | adj · neutral · also: feel left out · Grammar: unreal past |
+| compare yourself with/to others | judge yourself against other people | Rarely do teenagers who **compare themselves to others** online feel truly satisfied with their own lives. | reflexive: myself / themselves · neutral · *to* is more common in AmE · Grammar: negative inversion |
+| post an update | share news on social media | Had she not **posted an update** about her new job, few of her old friends would have known she had moved. | C · neutral · also: post photos / a comment · Grammar: inversion conditional |
+| like and share a post | react to and repost content | It's so easy to **like and share a post** that many people pass on rumors without even reading them. | C · informal-neutral · Grammar: so/such… that |
+| a sense of belonging | the feeling that a group accepts you | Feeling rejected at school, some teenagers find **a sense of belonging** in online communities built around shared hobbies. | C (sing.) · neutral · give / create a sense of belonging · Grammar: participle clause |
+| a close-knit community | a group whose members know and support each other | She grew up in **a close-knit community** in which neighbors looked after one another's children without being asked. | C · neutral · Grammar: relative: whose / whereby / in which |
+| provide emotional support | help someone cope with their feelings | Online groups for new parents are often said to **provide emotional support** that friends and relatives cannot always offer. | U · neutral · NOT *an emotional support* · Grammar: impersonal passive |
+| a meaningful conversation | a deep, worthwhile talk | What many families need is **a meaningful conversation** at dinner, with every phone turned off and left in another room. | C · neutral · also: a meaningful relationship · Grammar: cleft sentence |
+| superficial connections | shallow relationships | The more followers people collect, the more their online lives seem to consist of **superficial connections**. | C, often pl · neutral · opposite: genuine connections · Grammar: the more…, the more… |
+| be subjected to online abuse | be the target of insults online | Despite **being subjected to online abuse** almost daily, the journalist refused to delete her social media accounts. | U · neutral-formal · also: online harassment (U) · Grammar: concession |
 
 ### Phrasal verbs
 | Chunk | Meaning | Example | Notes |
 |---|---|---|---|
-| catch up (with sb) | talk to sb to share recent news | Let's meet for coffee and **catch up**. | informal-neutral · also: catch up on the news |
-| drift apart | gradually become less close | We **drifted apart** after college. | no object; plural subject · neutral · also: drift apart from sb |
-| reach out (to sb) | contact sb to offer or ask for help | If a friend seems withdrawn, **reach out to** them. | neutral |
-| open up (to sb) | talk honestly about your feelings | Boys often find it hard to **open up** about their problems. | neutral · open up about sth |
-| cut yourself off (from sb) | avoid contact with other people | Some teenagers **cut themselves off** from their families. | reflexive · neutral · passive: be cut off |
-| meet up (with sb) | meet by arrangement | We should **meet up** next time you're in town. | informal-neutral |
-| hang out (with sb) | spend relaxed time together | Teenagers now **hang out** online as much as at the mall. | informal · avoid in essays |
-| pick on sb | keep treating sb unkindly, bully | Children who **pick on** others at school often keep it up online. | informal-neutral |
-| scroll through sth | move down a screen looking at content | I **scroll through** Instagram before bed. | neutral · scroll through a feed / photos |
-| shut sb out | deliberately exclude sb | Group chats can be used to **shut** certain students **out**. | neutral · pronoun goes in the middle: shut them out |
+| catch up (with sb) | talk to sb to share recent news | It's high time we got together for coffee and **caught up** — I haven't seen you since graduation! | informal-neutral · also: catch up on the news · Grammar: unreal past |
+| drift apart | gradually become less close | If we were better at keeping in touch, we wouldn't have **drifted apart** after college. | no object; plural subject · neutral · also: drift apart from sb · Grammar: mixed conditional |
+| reach out (to sb) | contact sb to offer or ask for help | Students who feel lonely should be encouraged to **reach out to** a counselor or a trusted friend. | neutral · Grammar: modal passive |
+| open up (to sb) | talk honestly about your feelings | However close they are to their parents, many boys find it hard to **open up** about their problems. | neutral · open up about sth · Grammar: no matter / however |
+| cut yourself off (from sb) | avoid contact with other people | He must have **cut himself off** from his friends deliberately, because he stopped answering messages for months. | reflexive · neutral · passive: be cut off · Grammar: modal perfect |
+| meet up (with sb) | meet by arrangement | We **meet up** every Friday after work, which is much more fun than just texting each other. | informal-neutral · Grammar: sentential relative |
+| hang out (with sb) | spend relaxed time together | Even though they **hang out** online every evening, the two boys have never actually met in person. | informal · avoid in essays · Grammar: concession |
+| pick on sb | keep treating sb unkindly, bully | It's usually the kids who get **picked on** at school who end up being bullied online too. | informal-neutral · Grammar: cleft sentence |
+| scroll through sth | move down a screen looking at content | Many people **scroll through** their feeds late into the night, thus cutting into the hours they need for sleep. | neutral · scroll through a feed / photos · Grammar: result clause with thereby/thus |
+| shut sb out | deliberately exclude sb | Not only do group chats allow bullies to **shut** certain students **out**, but they also make the exclusion painfully visible. | neutral · pronoun goes in the middle: shut them out · Grammar: negative inversion |
 
 ### Fixed expressions & idioms
 | Chunk | Meaning | Example | Notes |
 |---|---|---|---|
-| keep in touch (with sb) | stay in contact | Video calls help migrants **keep in touch** with family. | neutral · keep in touch WITH (NOT *to*) sb |
-| lose touch (with sb) | stop having contact | I **lost touch** with most of my high school friends. | neutral · NOT *lose the touch* |
-| out of sight, out of mind | people forget those they don't see | Thanks to social media, distant friends are no longer **out of sight, out of mind**. | saying · neutral |
-| a double-edged sword | something with both good and bad effects | For lonely people, social media is **a double-edged sword**. | C · neutral |
-| keep up appearances | pretend everything is fine | Many users feel pressure to **keep up appearances** online. | neutral |
-| the grass is always greener (on the other side) | other people's lives always seem better | Online, **the grass is always greener**. | saying · informal-neutral |
-| a shoulder to cry on | sb who listens to your problems | An online friend can still be **a shoulder to cry on**. | C · informal-neutral |
-| keep sb at arm's length | avoid becoming close to sb | Some people **keep** others **at arm's length** by only ever texting. | neutral |
+| keep in touch (with sb) | stay in contact | Video calls are thought to help migrants **keep in touch with** their families more easily than ever before. | neutral · keep in touch WITH (NOT *to*) sb · Grammar: impersonal passive |
+| lose touch (with sb) | stop having contact | I wish I hadn't **lost touch with** my high school friends after moving across the country. | neutral · NOT *lose the touch* · Grammar: unreal past |
+| out of sight, out of mind | people forget those they don't see | Connected by social media, distant friends are no longer **out of sight, out of mind**, even after years apart. | saying · neutral · Grammar: participle clause |
+| a double-edged sword | something with both good and bad effects | For lonely people, social media is **a double-edged sword**, which is why experts urge them to use it in moderation. | C · neutral · Grammar: sentential relative |
+| keep up appearances | pretend everything is fine | Many users feel such pressure to **keep up appearances** online that they hide their problems even from close friends. | neutral · Grammar: so/such… that |
+| the grass is always greener (on the other side) | other people's lives always seem better | The more time you spend on Instagram, the more it feels like **the grass is always greener** on the other side. | saying · informal-neutral · Grammar: the more…, the more… |
+| a shoulder to cry on | sb who listens to your problems | She must have really needed **a shoulder to cry on**, because she called me at midnight just to talk. | C · informal-neutral · Grammar: modal perfect |
+| keep sb at arm's length | avoid becoming close to sb | People whose trust has been betrayed often **keep** new acquaintances **at arm's length** for a long time. | neutral · Grammar: relative: whose / whereby / in which |
 
 ### More terms
 | Chunk | Meaning | Example | Notes |
 |---|---|---|---|
-| a follower | sb who subscribes to your posts on social media | She gained 10,000 **followers** in a single month. | C · neutral · gain / lose followers |
-| an influencer | sb who is paid or famous for promoting things online | Many teenagers want to become **influencers** when they grow up. | C · neutral · a social media influencer |
-| peer pressure | pressure to behave like others your age | **Peer pressure** pushes many teenagers to join apps before they are old enough. | U · neutral · NOT *a peer pressure* |
-| a group chat | a conversation thread with several people in a messaging app | Our family **group chat** is busy every weekend. | C · neutral · be added to / leave a group chat |
-| send sb a direct message | write privately to sb on social media | Strangers sometimes **send** children **a direct message**. | C · neutral · informal: DM sb (*She DMed me*) |
-| an online profile | the personal page that represents you on a site | Employers often check candidates' **online profiles**. | C · neutral · also: a profile picture |
-| seek validation | look for approval from other people | Some users **seek validation** through likes and comments. | U · neutral-formal · also: seek approval |
-| body image | how you feel about the way your body looks | Edited photos can harm young people's **body image**. | U · neutral · a negative / positive body image |
-| trolling | posting deliberately offensive comments to upset people | **Trolling** drives many people off social media. | U · neutral · a troll (C) |
-| stay connected (with sb) | keep in regular contact | Messaging apps help grandparents **stay connected** with their grandchildren. | neutral · also: feel connected |
-| build rapport (with sb) | develop a friendly understanding with sb | It is easier to **build rapport** in person than by email. | U · neutral-formal · with an adjective: build a good / strong rapport |
-| body language | messages you send with your face and posture | Text messages cannot show **body language** or tone of voice. | U · neutral · also: nonverbal cues (C pl) |
-| a long-distance relationship | a relationship between people who live far apart | Video calls make **a long-distance relationship** easier to sustain. | C · neutral |
-| a support network | people you can rely on for help | Newcomers to a city need **a support network**. | C · neutral · also: a support system |
-| empathy | the ability to understand other people's feelings | Face-to-face conversations help children develop **empathy**. | U · neutral · show empathy for sb; adj: empathetic |
-| online dating | meeting romantic partners through apps or websites | **Online dating** is now one of the most common ways couples meet. | U · neutral · a dating app (C) |
-| block sb | stop sb from contacting you on social media | If someone harasses you online, **block** them and report the account. | neutral · also: unfollow sb, mute sb |
-| reconnect with sb | get back in contact after a long time | Social media helped me **reconnect with** old classmates. | neutral · noun: a reconnection |
-| fit in (with sb) | feel accepted as part of a group | Teenagers post certain photos just to **fit in**. | neutral · opposite: stand out |
-| look up to sb | admire and respect sb | Young people often **look up to** influencers they have never met. | neutral · opposite: look down on sb |
-| a carefully curated image | a version of yourself chosen to look perfect | Her profile presents **a carefully curated image** of her life. | C · neutral · verb: curate your image |
-| a loneliness epidemic | a very widespread problem of loneliness | The US Surgeon General warned of **a loneliness epidemic** in 2023. | C · neutral, journalistic |
-| in the public eye | well known and often watched by the public | People **in the public eye** face constant online criticism. | neutral · be / live in the public eye |
+| a follower | sb who subscribes to your posts on social media | Were an influencer to lose half of her **followers** overnight, her income from sponsored posts would collapse. | C · neutral · gain / lose followers · Grammar: inversion conditional |
+| an influencer | sb who is paid or famous for promoting things online | If she hadn't posted that viral video three years ago, she wouldn't be a full-time **influencer** today. | C · neutral · a social media influencer · Grammar: mixed conditional |
+| peer pressure | pressure to behave like others your age | **Peer pressure** pushes many children to join apps before they are old enough, thereby exposing them to adult content. | U · neutral · NOT *a peer pressure* · Grammar: result clause with thereby/thus |
+| a group chat | a conversation thread with several people in a messaging app | No matter what time it is, our family **group chat** is always buzzing with photos and jokes. | C · neutral · be added to / leave a group chat · Grammar: no matter / however |
+| send sb a direct message | write privately to sb on social media | Children must be taught never to reply when a stranger **sends** them **a direct message**. | C · neutral · informal: DM sb (*She DMed me*) · Grammar: modal passive |
+| an online profile | the personal page that represents you on a site | Many employers are said to check candidates' **online profiles** before deciding whom to invite to an interview. | C · neutral · also: a profile picture · Grammar: impersonal passive |
+| seek validation | look for approval from other people | The reason some users post selfies constantly is that they **seek validation** from strangers online. | U · neutral-formal · also: seek approval · Grammar: cleft sentence |
+| body image | how you feel about the way your body looks | While filters may seem harmless, edited photos can seriously harm young people's **body image**. | U · neutral · a negative / positive body image · Grammar: concession |
+| trolling | posting deliberately offensive comments to upset people | **Trolling** has driven many female journalists off social media, which means that important voices are no longer heard. | U · neutral · a troll (C) · Grammar: sentential relative |
+| stay connected (with sb) | keep in regular contact | Having learned to use video calls, many grandparents now **stay connected** with grandchildren who live abroad. | neutral · also: feel connected · Grammar: participle clause |
+| build rapport (with sb) | develop a friendly understanding with sb | The more often colleagues meet in person, the easier it becomes to **build rapport** and trust. | U · neutral-formal · with an adjective: build a good / strong rapport · Grammar: the more…, the more… |
+| body language | messages you send with your face and posture | Only when we meet someone in person can we fully read their **body language** and sense their mood. | U · neutral · also: nonverbal cues (C pl) · Grammar: negative inversion |
+| a long-distance relationship | a relationship between people who live far apart | Their **long-distance relationship** can't have been easy, with a nine-hour time difference and only one visit a year. | C · neutral · Grammar: modal perfect |
+| a support network | people you can rely on for help | Newcomers to a city need **a support network** through which they can find friends, advice and help. | C · neutral · also: a support system · Grammar: relative: whose / whereby / in which |
+| empathy | the ability to understand other people's feelings | Face-to-face play is such a rich source of emotional cues that it helps children develop **empathy** naturally. | U · neutral · show empathy for sb; adj: empathetic · Grammar: so/such… that |
+| online dating | meeting romantic partners through apps or websites | It is now widely accepted that **online dating** is one of the most common ways for couples to meet. | U · neutral · a dating app (C) · Grammar: impersonal passive |
+| block sb | stop sb from contacting you on social media | Should anyone harass you online, **block** them immediately and report the account to the platform. | neutral · also: unfollow sb, mute sb · Grammar: inversion conditional |
+| reconnect with sb | get back in contact after a long time | It's about time I **reconnected with** my old classmates, now that most of them are on social media. | neutral · noun: a reconnection · Grammar: unreal past |
+| fit in (with sb) | feel accepted as part of a group | No matter how hard they try to **fit in**, some teenagers still feel left out of their friends' group chats. | neutral · opposite: stand out · Grammar: no matter / however |
+| look up to sb | admire and respect sb | If he didn't **look up to** that fitness influencer so much, he wouldn't have bought all those useless supplements. | neutral · opposite: look down on sb · Grammar: mixed conditional |
+| a carefully curated image | a version of yourself chosen to look perfect | Her profile presents **a carefully curated image** of her life, thereby hiding the stress and loneliness she feels. | C · neutral · verb: curate your image · Grammar: result clause with thereby/thus |
+| a loneliness epidemic | a very widespread problem of loneliness | In 2023, the US Surgeon General warned of **a loneliness epidemic**, which drew public attention to the health risks of isolation. | C · neutral, journalistic · Grammar: sentential relative |
+| in the public eye | well known and often watched by the public | Despite enjoying their fame, people **in the public eye** often face relentless criticism online. | neutral · be / live in the public eye · Grammar: concession |
 
 ## Text 1 — Opinion essay
 > Some people believe that social media has made people less sociable and more isolated. To what extent do you agree or disagree?

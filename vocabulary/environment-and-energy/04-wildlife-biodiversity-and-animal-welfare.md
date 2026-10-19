@@ -6,84 +6,84 @@
 ### Key terms
 | Chunk | Meaning | Example | Notes |
 |---|---|---|---|
-| an endangered species | a type of animal or plant that may soon disappear | The blue whale is **an endangered species**. | C; *species* is the same in singular and plural: NOT *specie* |
-| biodiversity | the variety of plants and animals in an area | Rainforests have extraordinarily high **biodiversity**. | U, no article; *loss of biodiversity* |
-| habitat loss | the destruction of the places where animals live | **Habitat loss** is the main threat to most wild species. | U, no article |
-| deforestation | cutting down large areas of forest | **Deforestation** in the Amazon is driven largely by cattle ranching. | U, no article |
-| poaching | illegally hunting or catching animals | **Poaching** has pushed rhinos close to extinction. | U; *a poacher* (C) |
-| a captive breeding program | a program in which animals are bred in zoos to increase their numbers | **A captive breeding program** saved the Arabian oryx. | C; BrE: *programme* |
-| a natural habitat | the place where an animal normally lives | Bears are happiest in **their natural habitat**. | C; *its / their natural habitat* |
-| a nature preserve | protected land where wildlife can live safely | The marsh was turned into **a nature preserve**. | C; also *a wildlife refuge*; BrE: *a nature reserve* |
-| a national park | a large area of land protected by the state | Yellowstone was the world's first **national park**. | C; capitals in names: *Kruger National Park* |
-| factory farming | keeping large numbers of animals indoors in small spaces to produce cheap meat | **Factory farming** produces cheap chicken at a high cost to animal welfare. | U; also *intensive farming* |
-| animal welfare | the health and well-being of animals | Shoppers are paying more attention to **animal welfare**. | U, no article; *animal welfare standards* |
-| the illegal wildlife trade | the buying and selling of protected animals and their parts | **The illegal wildlife trade** is worth billions of dollars a year. | with *the*; formal |
+| an endangered species | a type of animal or plant that may soon disappear | The blue whale is said to remain **an endangered species** decades after commercial whaling was banned. | C; *species* is the same in singular and plural: NOT *specie* · Grammar: impersonal passive |
+| biodiversity | the variety of plants and animals in an area | It is tropical rainforests that have the highest **biodiversity** of any habitat on land. | U, no article; *loss of biodiversity* · Grammar: cleft sentence |
+| habitat loss | the destruction of the places where animals live | Not only does **habitat loss** threaten most wild species, but it also pushes animals into conflict with farmers. | U, no article · Grammar: negative inversion |
+| deforestation | cutting down large areas of forest | Driven largely by cattle ranching, **deforestation** in the Amazon releases huge amounts of stored carbon. | U, no article · Grammar: participle clause |
+| poaching | illegally hunting or catching animals | **Poaching** became so widespread that rhinos were pushed close to extinction in several African countries. | U; *a poacher* (C) · Grammar: so/such… that |
+| a captive breeding program | a program in which animals are bred in zoos to increase their numbers | If zoos had not started **a captive breeding program**, the Arabian oryx would no longer exist today. | C; BrE: *programme* · Grammar: mixed conditional |
+| a natural habitat | the place where an animal normally lives | Even though modern zoos offer larger enclosures, elephants are far happier in their **natural habitat**. | C; *its / their natural habitat* · Grammar: concession |
+| a nature preserve | protected land where wildlife can live safely | The marsh was turned into **a nature preserve** in which herons and rare frogs can breed undisturbed. | C; also *a wildlife refuge*; BrE: *a nature reserve* · Grammar: relative: whose / whereby / in which |
+| a national park | a large area of land protected by the state | In 1872, the US made Yellowstone the world's first **national park**, thereby protecting its geysers and wildlife from development. | C; capitals in names: *Kruger National Park* · Grammar: result clause with thereby/thus |
+| factory farming | keeping large numbers of animals indoors in small spaces to produce cheap meat | The more cheap meat people demand, the more **factory farming** spreads at the expense of animal welfare. | U; also *intensive farming* · Grammar: the more…, the more… |
+| animal welfare | the health and well-being of animals | Shoppers are paying more attention to **animal welfare**, which has pushed supermarkets to stock more free-range eggs. | U, no article; *animal welfare standards* · Grammar: sentential relative |
+| the illegal wildlife trade | the buying and selling of protected animals and their parts | **The illegal wildlife trade** must be tackled at both ends, by stopping poachers and reducing demand for ivory. | with *the*; formal · Grammar: modal passive |
 
 ### Collocations
 | Chunk | Meaning | Example | Notes |
 |---|---|---|---|
-| face extinction | be in danger of disappearing completely | Thousands of insect species **face extinction**. | neutral; also *be threatened with extinction* (formal) |
-| restore habitats | bring damaged natural areas back to a healthy state | Planting native trees helps **restore habitats**. | neutral; noun: *habitat restoration* (U) |
-| reintroduce sth into the wild | return a species to its natural home | Gray wolves were **reintroduced into the wild** in Yellowstone in 1995. | formal; noun: *reintroduction* |
-| conservation efforts | work to protect nature | **Conservation efforts** have helped the humpback whale recover. | plural; *step up / fund conservation efforts* |
-| illegal logging | cutting down trees without permission | **Illegal logging** is destroying forests in Southeast Asia. | U |
-| cramped conditions | very small spaces with no room to move | Many zoo animals are kept in **cramped conditions**. | plural |
-| a declining population (of sth) | a group of animals whose numbers are falling | Pesticides are partly to blame for **the declining population** of bees in Europe. | C; often plural: *declining bee populations*; *numbers decline / fall* |
-| a breeding population | enough animals to reproduce and survive as a group | The island needs **a breeding population** of at least fifty birds. | C; formal |
-| an anti-poaching patrol | a team of rangers that protects animals from hunters | **Anti-poaching patrols** now guard the reserve day and night. | C; *a ranger* (C) |
-| ban the trade in sth | make buying and selling sth illegal | Several countries have **banned the trade in** ivory. | *the trade in* + noun (no article before the noun) |
-| raise funds for sth | collect money for a cause | Zoos **raise funds for** conservation projects abroad. | neutral; noun: *fundraising* (U) |
+| face extinction | be in danger of disappearing completely | Were pesticide use to continue at its current rate, thousands of insect species would **face extinction**. | neutral; also *be threatened with extinction* (formal) · Grammar: inversion conditional |
+| restore habitats | bring damaged natural areas back to a healthy state | What conservationists want is to **restore habitats** that were drained or plowed decades ago. | neutral; noun: *habitat restoration* (U) · Grammar: cleft sentence |
+| reintroduce sth into the wild | return a species to its natural home | Having vanished from Yellowstone in the 1920s, gray wolves were **reintroduced into the wild** there in 1995. | formal; noun: *reintroduction* · Grammar: participle clause |
+| conservation efforts | work to protect nature | Only through international **conservation efforts** did the humpback whale recover from near extinction. | plural; *step up / fund conservation efforts* · Grammar: negative inversion |
+| illegal logging | cutting down trees without permission | However strict the laws are, **illegal logging** continues in remote forests that rangers rarely visit. | U · Grammar: no matter / however |
+| cramped conditions | very small spaces with no room to move | Some zoo animals are kept in such **cramped conditions** that they pace up and down for hours. | plural · Grammar: so/such… that |
+| a declining population (of sth) | a group of animals whose numbers are falling | While habitat loss plays a role, many scientists blame pesticides for the **declining populations of** wild bees across Europe. | C; often plural: *declining bee populations*; *numbers decline / fall* · Grammar: concession |
+| a breeding population | enough animals to reproduce and survive as a group | It is believed that the species needs **a breeding population** of at least fifty birds on the island to survive. | C; formal · Grammar: impersonal passive |
+| an anti-poaching patrol | a team of rangers that protects animals from hunters | **Anti-poaching patrols** now guard the reserve day and night, which has sharply reduced the number of rhinos killed. | C; *a ranger* (C) · Grammar: sentential relative |
+| ban the trade in sth | make buying and selling sth illegal | It's high time every country **banned the trade in** ivory, since demand is still fueling poaching in Africa. | *the trade in* + noun (no article before the noun) · Grammar: unreal past |
+| raise funds for sth | collect money for a cause | Many zoos charge visitors a small extra fee, thereby **raising funds for** conservation projects abroad. | neutral; noun: *fundraising* (U) · Grammar: result clause with thereby/thus |
 
 ### Phrasal verbs
 | Chunk | Meaning | Example | Notes |
 |---|---|---|---|
-| die out | stop existing; become extinct | Many local species could **die out** within a generation. | intransitive; neutral |
-| wipe sth out | destroy sth completely | Hunting and introduced rats **wiped out** the dodo within a century of its discovery. | neutral, often passive |
-| cut sth down | make a tree fall by cutting it | Huge areas of forest are **cut down** every year. | neutral |
-| set sth aside | keep land or money for a particular purpose | The government **set aside** a third of the island for wildlife. | neutral-formal |
-| release sth back into the wild | let a captive animal live freely again | The young turtles were **released back into the wild**. | neutral |
-| bounce back | recover quickly after a decline | Otter numbers have **bounced back** since the 1980s. | neutral-informal |
-| fence sth off | put a fence around an area to protect or close it | Farmers **fenced off** the riverbanks to protect nesting birds. | neutral |
-| kill sth off | cause sth to die or disappear | Pollution has **killed off** most of the fish in the lake. | neutral |
+| die out | stop existing; become extinct | If we had protected wetlands decades ago, many local frog species would not be in danger of **dying out** now. | intransitive; neutral · Grammar: mixed conditional |
+| wipe sth out | destroy sth completely | Hunting and introduced rats are thought to have **wiped out** the dodo within a century of its discovery. | neutral, often passive · Grammar: impersonal passive |
+| cut sth down | make a tree fall by cutting it | The more forest is **cut down**, the fewer places orangutans have left to live. | neutral · Grammar: the more…, the more… |
+| set sth aside | keep land or money for a particular purpose | The government should have **set aside** more land for wildlife before developers bought up the coast. | neutral-formal · Grammar: modal perfect |
+| release sth back into the wild | let a captive animal live freely again | Raised in a rescue center, the young turtles were **released back into the wild** once they could swim strongly. | neutral · Grammar: participle clause |
+| bounce back | recover quickly after a decline | What surprised biologists was how quickly otter numbers **bounced back** once rivers were cleaned up. | neutral-informal · Grammar: cleft sentence |
+| fence sth off | put a fence around an area to protect or close it | Should farmers **fence off** the riverbanks, nesting birds would be safe from grazing cattle. | neutral · Grammar: inversion conditional |
+| kill sth off | cause sth to die or disappear | Pollution became so severe that it **killed off** most of the fish in the lake. | neutral · Grammar: so/such… that |
 
 ### Fixed expressions & idioms
 | Chunk | Meaning | Example | Notes |
 |---|---|---|---|
-| on the brink of extinction | very close to disappearing completely | The mountain gorilla was once **on the brink of extinction**. | formal-neutral; also *on the verge of* |
-| in captivity | kept in a zoo, cage, or enclosure | Orcas often behave abnormally **in captivity**. | fixed, no article |
-| in the wild | in natural surroundings | Only around a hundred Amur leopards survive **in the wild**. | with *the* |
-| a safety net | protection if everything else fails | Zoos act as **a safety net** for species that are about to vanish. | C; neutral |
-| a modern-day Noah's Ark | a place that saves many species from disappearing | Supporters describe zoos as **a modern-day Noah's Ark**. | metaphor; neutral |
-| a double-edged sword | sth with both good and bad effects | Ecotourism is **a double-edged sword** for fragile habitats. | idiom; neutral |
-| gone for good | lost permanently | Once a species is extinct, it is **gone for good**. | neutral |
-| treat animals as commodities | regard animals only as products to make money | **Treating animals as commodities** is at the heart of factory farming. | formal; *a commodity* (C) |
+| on the brink of extinction | very close to disappearing completely | The mountain gorilla, whose numbers fell to a few hundred in the 1980s, was once **on the brink of extinction**. | formal-neutral; also *on the verge of* · Grammar: relative: whose / whereby / in which |
+| in captivity | kept in a zoo, cage, or enclosure | Much as children love watching orcas at marine parks, these whales often behave abnormally **in captivity**. | fixed, no article · Grammar: concession |
+| in the wild | in natural surroundings | Rarely are Amur leopards seen **in the wild**, as only around a hundred of them survive. | with *the* · Grammar: negative inversion |
+| a safety net | protection if everything else fails | Breeding programs should be regarded as **a safety net** for species that are about to vanish from their natural habitats. | C; neutral · Grammar: modal passive |
+| a modern-day Noah's Ark | a place that saves many species from disappearing | It is often claimed that zoos have become **a modern-day Noah's Ark** for species with nowhere else to live. | metaphor; neutral · Grammar: impersonal passive |
+| a double-edged sword | sth with both good and bad effects | Ecotourism brings money to remote areas but also disturbs wildlife, which makes it **a double-edged sword**. | idiom; neutral · Grammar: sentential relative |
+| gone for good | lost permanently | We might have saved the passenger pigeon a century ago, but now it is **gone for good**. | neutral · Grammar: modal perfect |
+| treat animals as commodities | regard animals only as products to make money | No matter how efficient factory farming becomes, it will always **treat animals as commodities** rather than living beings. | formal; *a commodity* (C) · Grammar: no matter / however |
 
 ### More terms
 | Chunk | Meaning | Example | Notes |
 |---|---|---|---|
-| go extinct | stop existing as a species | Scientists fear that the vaquita porpoise could **go extinct** within a few years. | neutral; also *become extinct* (more formal); noun: *extinction* (U) |
-| an ecosystem | all the living things in an area and the way they affect each other | Removing a single predator can upset an entire **ecosystem**. | C; *a fragile / healthy ecosystem* |
-| a food chain | a series of living things in which each one is eaten by the next | Pesticides build up in animals as they move up **the food chain**. | C; usually *the food chain*; *at the top of the food chain* |
-| an invasive species | a plant or animal brought from elsewhere that harms local wildlife | Burmese pythons are **an invasive species** in Florida's Everglades. | C; formal; opposite: *a native species* |
-| native species | plants and animals that naturally live in an area | Gardeners are encouraged to plant **native species** that support local insects. | C, plural (*species* has no separate plural form); also *native plants* |
-| predators and prey | animals that hunt and the animals they hunt | When wolves returned, the balance between **predators and prey** changed across the park. | *a predator* (C); *prey* (U); *birds of prey* |
-| animal testing | using animals in scientific experiments, e.g. for medicines or cosmetics | The EU banned the sale of cosmetics developed through **animal testing** in 2013. | U; also *animal experiments* (C); *test sth on animals* |
-| animal rights | the idea that animals should not be used or harmed by humans | **Animal rights** activists argue that no animal should be kept in a zoo. | plural; stronger than *animal welfare* (= treating animals well) |
-| cruelty-free | made without testing on or harming animals | Many shoppers now look for **cruelty-free** labels on shampoo and makeup. | adj; hyphenate; neutral |
-| free-range | (of farm animals) allowed to move around outdoors | **Free-range** eggs cost more but come from hens that can go outside. | adj; hyphenate; opposite: *caged*, *factory-farmed* |
-| trophy hunting | hunting wild animals for sport and keeping parts of them as a prize | Supporters claim that fees from **trophy hunting** pay for conservation. | U; *a trophy hunter* (C); controversial |
-| ecotourism | tourism to natural areas that aims to protect the environment and support local people | **Ecotourism** brings income to communities that might otherwise turn to poaching. | U; neutral |
-| pesticides | chemicals used to kill insects that damage crops | Farmers use **pesticides** to protect their crops, but some of these chemicals also kill bees. | C, usually plural; also *insecticides*, *herbicides* (= weed killers) |
-| pollinators | insects and animals such as bees that carry pollen between plants | About three-quarters of major food crops depend at least partly on **pollinators**. | C, plural; verb: *pollinate sth* |
-| overfishing | catching so many fish that their numbers cannot recover | **Overfishing** caused the collapse of Canada's cod industry in the early 1990s. | U; neutral; verb: *overfish* |
-| animal cruelty | causing unnecessary pain or suffering to animals | **Animal cruelty** is a crime in all fifty US states. | U; neutral; *report animal cruelty* |
-| humane | treating people or animals kindly and without causing unnecessary suffering | Farms should meet strict standards for the **humane** treatment of animals. | adj; formal; opposite: *inhumane*; NOT the same as *human* |
-| rewilding | returning land to a natural state and letting wildlife recover | **Rewilding** projects have brought beavers back to parts of England. | U; neutral; verb: *rewild an area* |
-| dwindling numbers | numbers that are getting smaller over time | **Dwindling numbers** of monarch butterflies have alarmed scientists in North America. | plural; verb: *dwindle* (intransitive) |
-| an animal shelter | a place that cares for lost or unwanted pets until they find new homes | We got our dog from **an animal shelter** last year. | C; BrE also: *an animal rescue centre* |
-| adopt a pet | take an animal from a shelter into your home | Instead of buying a puppy, consider **adopting a pet** from a shelter. | neutral; campaign slogan: *Adopt, don't shop* |
-| a stray dog | a dog that has no home | The number of **stray dogs** in some neighborhoods has doubled. | C; noun: *a stray* |
-| put an animal down | kill a sick or unwanted animal in a painless way | Overcrowded shelters are sometimes forced to **put** healthy animals **down**. | neutral euphemism; formal: *euthanize* |
+| go extinct | stop existing as a species | Were illegal fishing to continue, the vaquita porpoise could **go extinct** within a few years. | neutral; also *become extinct* (more formal); noun: *extinction* (U) · Grammar: inversion conditional |
+| an ecosystem | all the living things in an area and the way they affect each other | Removing a single predator can upset an entire **ecosystem**, thus threatening species that seem completely unrelated. | C; *a fragile / healthy ecosystem* · Grammar: result clause with thereby/thus |
+| a food chain | a series of living things in which each one is eaten by the next | Accumulating at every level of the **food chain**, pesticides such as DDT nearly eliminated bald eagles from much of the US. | C; usually *the food chain*; *at the top of the food chain* · Grammar: participle clause |
+| an invasive species | a plant or animal brought from elsewhere that harms local wildlife | Burmese pythons, whose numbers have exploded in Florida's Everglades, are **an invasive species** that eats native wildlife. | C; formal; opposite: *a native species* · Grammar: relative: whose / whereby / in which |
+| native species | plants and animals that naturally live in an area | If only more gardeners planted **native species**, local insects and birds would have much more to eat. | C, plural (*species* has no separate plural form); also *native plants* · Grammar: unreal past |
+| predators and prey | animals that hunt and the animals they hunt | If wolves had never returned to Yellowstone, the balance between **predators and prey** would be very different today. | *a predator* (C); *prey* (U); *birds of prey* · Grammar: mixed conditional |
+| animal testing | using animals in scientific experiments, e.g. for medicines or cosmetics | Public opposition to **animal testing** was so strong that the EU banned it for cosmetics in 2013. | U; also *animal experiments* (C); *test sth on animals* · Grammar: so/such… that |
+| animal rights | the idea that animals should not be used or harmed by humans | What **animal rights** activists object to is the very idea of keeping wild creatures in zoos. | plural; stronger than *animal welfare* (= treating animals well) · Grammar: cleft sentence |
+| cruelty-free | made without testing on or harming animals | The more shoppers look for **cruelty-free** labels, the faster brands will stop testing on animals. | adj; hyphenate; neutral · Grammar: the more…, the more… |
+| free-range | (of farm animals) allowed to move around outdoors | Even though **free-range** eggs cost more, many shoppers buy them because the hens can go outside. | adj; hyphenate; opposite: *caged*, *factory-farmed* · Grammar: concession |
+| trophy hunting | hunting wild animals for sport and keeping parts of them as a prize | Fees from **trophy hunting** are said to pay for conservation, but critics doubt that the money reaches local communities. | U; *a trophy hunter* (C); controversial · Grammar: impersonal passive |
+| ecotourism | tourism to natural areas that aims to protect the environment and support local people | Not only does **ecotourism** bring income to local communities, but it also gives them a reason to protect wildlife. | U; neutral · Grammar: negative inversion |
+| pesticides | chemicals used to kill insects that damage crops | Farmers spray **pesticides** to protect their crops, which unfortunately also kills bees and butterflies. | C, usually plural; also *insecticides*, *herbicides* (= weed killers) · Grammar: sentential relative |
+| pollinators | insects and animals such as bees that carry pollen between plants | **Pollinators** such as bees must be protected, as most food crops depend at least partly on them. | C, plural; verb: *pollinate sth* · Grammar: modal passive |
+| overfishing | catching so many fish that their numbers cannot recover | The Canadian government should have acted sooner to stop the **overfishing** that destroyed its cod industry in the 1990s. | U; neutral; verb: *overfish* · Grammar: modal perfect |
+| animal cruelty | causing unnecessary pain or suffering to animals | Should you ever witness **animal cruelty** in your neighborhood, report it to the police immediately. | U; neutral; *report animal cruelty* · Grammar: inversion conditional |
+| humane | treating people or animals kindly and without causing unnecessary suffering | However cheap the meat, farms must still meet strict standards for the **humane** treatment of livestock. | adj; formal; opposite: *inhumane*; NOT the same as *human* · Grammar: no matter / however |
+| rewilding | returning land to a natural state and letting wildlife recover | **Rewilding** projects have brought beavers back to parts of England, thus helping to reduce flooding downstream. | U; neutral; verb: *rewild an area* · Grammar: result clause with thereby/thus |
+| dwindling numbers | numbers that are getting smaller over time | Alarmed by the **dwindling numbers** of monarch butterflies, scientists are urging Americans to plant milkweed. | plural; verb: *dwindle* (intransitive) · Grammar: participle clause |
+| an animal shelter | a place that cares for lost or unwanted pets until they find new homes | It's time we volunteered at **an animal shelter**; they always need people to walk the dogs. | C; BrE also: *an animal rescue centre* · Grammar: unreal past |
+| adopt a pet | take an animal from a shelter into your home | While pedigree puppies are tempting, **adopting a pet** from a shelter gives an abandoned animal a second chance. | neutral; campaign slogan: *Adopt, don't shop* · Grammar: concession |
+| a stray dog | a dog that has no home | There are so many **stray dogs** in some neighborhoods that residents are afraid to walk home at night. | C; noun: *a stray* · Grammar: so/such… that |
+| put an animal down | kill a sick or unwanted animal in a painless way | Healthy animals should never be **put down** just because a shelter has run out of space. | neutral euphemism; formal: *euthanize* · Grammar: modal passive |
 
 ## Text 1 — Advantages and disadvantages
 > Many endangered species are now kept in zoos and wildlife parks in order to protect them. Do the advantages of this outweigh the disadvantages?

@@ -6,83 +6,83 @@
 ### Key terms
 | Chunk | Meaning | Example | Notes |
 |---|---|---|---|
-| a misleading claim | a statement that gives a false impression | The company was fined for making **a misleading claim** about its vitamins. | C · neutral · verb: *make a claim* |
-| false advertising | advertising that contains untrue information | **False advertising** is illegal in most countries. | U · neutral |
-| a celebrity endorsement | a famous person publicly supporting a product | **Celebrity endorsements** make ordinary products seem glamorous. | C · neutral · verb: *endorse a product* |
-| targeted advertising | ads chosen for you using your online data | **Targeted advertising** relies on tracking what users click on. | U · neutral |
-| sponsored content | posts or articles paid for by a brand | **Sponsored content** must be clearly marked. | U · neutral · NOT *a sponsored content* |
-| native advertising | ads designed to look like normal articles or posts | **Native advertising** blurs the line between journalism and marketing. | U · neutral |
-| an advertising watchdog | an organization that monitors ads and handles complaints | Britain's **advertising watchdog**, the ASA, investigates complaints from the public. | C · neutral (journalistic) · in the US, the FTC plays this role |
-| consumer protection | laws and rules that safeguard buyers | Online shoppers need stronger **consumer protection**. | U · neutral · *consumer protection laws* |
-| a slogan | a short memorable phrase used in advertising | A catchy **slogan** can sell almost anything. | C · neutral |
-| a gimmick | a trick used to attract attention | The free gift was just a marketing **gimmick**. | C · slightly informal |
-| greenwashing | making a product or firm seem greener than it is | Many "eco-friendly" labels are pure **greenwashing**. | U · neutral |
-| personal data | information about individual people | Apps collect **personal data** in order to target ads. | U · neutral · NOT *personal datas* |
+| a misleading claim | a statement that gives a false impression | The company should never have made **a misleading claim** about its vitamins; the scandal has cost it thousands of customers. | C · neutral · verb: *make a claim* · Grammar: modal perfect |
+| false advertising | advertising that contains untrue information | Were regulators to fine every brand that engages in **false advertising**, misleading campaigns would soon become too costly to run. | U · neutral · Grammar: inversion conditional |
+| a celebrity endorsement | a famous person publicly supporting a product | It is **a celebrity endorsement**, rather than any real improvement in quality, that makes an ordinary perfume seem glamorous. | C · neutral · verb: *endorse a product* · Grammar: cleft sentence |
+| targeted advertising | ads chosen for you using your online data | **Targeted advertising** relies on a system whereby every click is recorded and used to build a profile of the user. | U · neutral · Grammar: relative: whose / whereby / in which |
+| sponsored content | posts or articles paid for by a brand | **Sponsored content** must be clearly marked so that readers can tell the difference between advertising and journalism. | U · neutral · NOT *a sponsored content* · Grammar: modal passive |
+| native advertising | ads designed to look like normal articles or posts | Designed to look like ordinary news stories, **native advertising** blurs the line between journalism and marketing. | U · neutral · Grammar: participle clause |
+| an advertising watchdog | an organization that monitors ads and handles complaints | Britain's **advertising watchdog**, the ASA, is said to receive thousands of complaints from the public every year. | C · neutral (journalistic) · in the US, the FTC plays this role · Grammar: impersonal passive |
+| consumer protection | laws and rules that safeguard buyers | If stronger **consumer protection** had been introduced years ago, online shoppers would now feel far safer buying from unknown sellers. | U · neutral · *consumer protection laws* · Grammar: mixed conditional |
+| a slogan | a short memorable phrase used in advertising | The shorter and catchier **a slogan** is, the more easily consumers remember the brand behind it. | C · neutral · Grammar: the more…, the more… |
+| a gimmick | a trick used to attract attention | The free gift was such an obvious marketing **gimmick** that nobody actually bought the magazine for it. | C · slightly informal · Grammar: so/such… that |
+| greenwashing | making a product or firm seem greener than it is | Rarely do shoppers realize that many "eco-friendly" labels are nothing more than **greenwashing**. | U · neutral · Grammar: negative inversion |
+| personal data | information about individual people | Apps quietly collect **personal data** from users, thereby allowing advertisers to target them with remarkable precision. | U · neutral · NOT *personal datas* · Grammar: result clause with thereby/thus |
 
 ### Collocations
 | Chunk | Meaning | Example | Notes |
 |---|---|---|---|
-| make a claim | state that sth is true | The ad **makes** bold **claims** about weight loss. | neutral · NOT *say / do a claim* |
-| exaggerate the benefits of sth | make sth sound better than it is | Ads often **exaggerate the benefits** of beauty products. | neutral |
-| mislead consumers | make buyers believe sth untrue | Vague labels can easily **mislead consumers**. | neutral · adj: *misleading* |
-| a false impression | a wrong idea about sth | The photos give **a false impression** of the hotel's size. | C · *give / create a false impression* |
-| breach advertising standards | break the official rules for ads | The ad was found to **breach advertising standards**. | formal · AmE often: *violate advertising rules* |
-| uphold a complaint | officially agree that a complaint is justified | The watchdog **upheld a complaint** against the brand. | formal · opposite: *reject a complaint* |
-| withdraw an ad | officially stop showing an ad | The firm was forced to **withdraw the ad**. | formal-neutral · informal: *pull an ad* · BrE: *withdraw an advert* |
-| impose fines on sb | officially make sb pay a penalty | Regulators can **impose** heavy **fines on** offenders. | formal · NOT *give fines to* |
-| clearly label sth (as sth) | mark sth so that people can see what it is | Paid posts must be **clearly labeled** as ads. | often passive · AmE spelling *labeled* (BrE: *labelled*) |
-| request a full refund | ask for all your money back | I would like to **request a full refund**. | formal · the store *issues* a refund |
+| make a claim | state that sth is true | No matter how many celebrities appear in it, an ad that **makes** bold **claims** about rapid weight loss deserves suspicion. | neutral · NOT *say / do a claim* · Grammar: no matter / however |
+| exaggerate the benefits of sth | make sth sound better than it is | Ads often **exaggerate the benefits of** beauty products, which leaves many customers disappointed with the results. | neutral · Grammar: sentential relative |
+| mislead consumers | make buyers believe sth untrue | Even though they are technically legal, vague labels such as "natural" can easily **mislead consumers**. | neutral · adj: *misleading* · Grammar: concession |
+| a false impression | a wrong idea about sth | Taken with a wide-angle lens, the photos give **a false impression** of the size of the hotel room. | C · *give / create a false impression* · Grammar: participle clause |
+| breach advertising standards | break the official rules for ads | The commercial was found to **breach advertising standards** because it implied that the drink could cure tiredness. | formal · AmE often: *violate advertising rules* · Grammar: impersonal passive |
+| uphold a complaint | officially agree that a complaint is justified | The watchdog **upheld a complaint** from a parent whose child had been shown gambling ads during a cartoon. | formal · opposite: *reject a complaint* · Grammar: relative: whose / whereby / in which |
+| withdraw an ad | officially stop showing an ad | Had the firm not **withdrawn the ad** immediately, it would have faced a heavy fine from regulators. | formal-neutral · informal: *pull an ad* · BrE: *withdraw an advert* · Grammar: inversion conditional |
+| impose fines on sb | officially make sb pay a penalty | Regulators can **impose** such heavy **fines on** offenders that most companies prefer to settle complaints quickly. | formal · NOT *give fines to* · Grammar: so/such… that |
+| clearly label sth (as sth) | mark sth so that people can see what it is | Sponsored posts must be **clearly labeled** as ads so that followers know when an influencer is being paid. | often passive · AmE spelling *labeled* (BrE: *labelled*) · Grammar: modal passive |
+| request a full refund | ask for all your money back | What I would like to do is **request a full refund** for the faulty vacuum cleaner I bought last week. | formal · the store *issues* a refund · Grammar: cleft sentence |
 
 ### Phrasal verbs
 | Chunk | Meaning | Example | Notes |
 |---|---|---|---|
-| back sth up (with sth) | support a statement with evidence | Every claim should be **backed up** with scientific evidence. | separable · neutral |
-| play sth up | make sth seem more important or better | Ads **play up** the advantages of a product. | separable · neutral · opposite: *play sth down* |
-| play sth down | make sth seem less important | Drug ads tend to **play down** the side effects. | separable · neutral |
-| take sb in | deceive sb | Thousands of buyers were **taken in** by the green image. | separable · neutral · often passive: *be taken in by* |
-| live up to sth | be as good as promised or expected | The product did not **live up to** the ad. | inseparable · neutral · *live up to expectations / the hype* |
-| clamp down on sth | act strictly to stop sth | Regulators are **clamping down on** fake online reviews. | neutral · noun: *a clampdown* |
-| look into sth | investigate sth | I trust that you will **look into** this matter. | inseparable · neutral |
-| dress sth up as sth | present sth falsely to make it seem better | Ads are sometimes **dressed up as** independent reviews. | separable · neutral |
+| back sth up (with sth) | support a statement with evidence | However impressive an ad sounds, its claims mean little unless they are **backed up** with solid scientific evidence. | separable · neutral · Grammar: no matter / however |
+| play sth up | make sth seem more important or better | Car ads **play up** speed and comfort, thus distracting viewers from fuel costs and safety ratings. | separable · neutral · opposite: *play sth down* · Grammar: result clause with thereby/thus |
+| play sth down | make sth seem less important | The manufacturer must have **played down** the side effects, because few patients knew anything about the risks. | separable · neutral · Grammar: modal perfect |
+| take sb in | deceive sb | If buyers had not been **taken in** by the brand's green image, the company would not be so profitable today. | separable · neutral · often passive: *be taken in by* · Grammar: mixed conditional |
+| live up to sth | be as good as promised or expected | Despite costing twice as much as its rivals, the new phone did not **live up to** the hype in its ads. | inseparable · neutral · *live up to expectations / the hype* · Grammar: concession |
+| clamp down on sth | act strictly to stop sth | It's high time regulators **clamped down on** fake online reviews and the sellers who pay for them. | neutral · noun: *a clampdown* · Grammar: unreal past |
+| look into sth | investigate sth | Only if your company **looks into** the matter promptly will I consider withdrawing my complaint. | inseparable · neutral · Grammar: negative inversion |
+| dress sth up as sth | present sth falsely to make it seem better | Cleverly **dressed up as** independent reviews, many paid posts fool even experienced online shoppers. | separable · neutral · Grammar: participle clause |
 
 ### Fixed expressions & idioms
 | Chunk | Meaning | Example | Notes |
 |---|---|---|---|
-| the fine print | the details of a contract or offer, often in tiny letters | Always read **the fine print** before you sign. | U · always *the* · BrE: *the small print* |
-| too good to be true | so good that it is probably false | If an offer sounds **too good to be true**, it probably is. | neutral |
-| take sth with a grain of salt | not completely believe sth | Most people **take** ads **with a grain of salt**. | neutral-informal · BrE: *with a pinch of salt* |
-| fall short of sth | fail to reach a standard or promise | The vacuum cleaner **fell** far **short of** the advertised performance. | neutral · *fall short of expectations / claims* |
-| in good faith | honestly, trusting that sth is genuine | I bought the product **in good faith**. | formal-neutral |
-| a grain of truth | a small amount of truth | There is **a grain of truth** in most slogans. | C (singular) · neutral |
-| buyer beware | buyers are responsible for checking what they buy | The old principle of **buyer beware** no longer works online. | neutral · Latin: *caveat emptor* |
+| the fine print | the details of a contract or offer, often in tiny letters | Many customers wish they had read **the fine print** before signing up for the "free" trial. | U · always *the* · BrE: *the small print* · Grammar: unreal past |
+| too good to be true | so good that it is probably false | Should an online offer seem **too good to be true**, it is almost certainly a scam. | neutral · Grammar: inversion conditional |
+| take sth with a grain of salt | not completely believe sth | The more extreme an ad's promises are, the more you should **take** them **with a grain of salt**. | neutral-informal · BrE: *with a pinch of salt* · Grammar: the more…, the more… |
+| fall short of sth | fail to reach a standard or promise | The vacuum cleaner **fell** far **short of** the advertised performance, which prompted dozens of angry online reviews. | neutral · *fall short of expectations / claims* · Grammar: sentential relative |
+| in good faith | honestly, trusting that sth is genuine | While I bought the product **in good faith**, the seller clearly knew that it was defective. | formal-neutral · Grammar: concession |
+| a grain of truth | a small amount of truth | It is often said that most advertising slogans contain at least **a grain of truth**. | C (singular) · neutral · Grammar: impersonal passive |
+| buyer beware | buyers are responsible for checking what they buy | No matter how strictly online stores are regulated, the old principle of **buyer beware** still applies to bargain hunters. | neutral · Latin: *caveat emptor* · Grammar: no matter / however |
 
 ### More terms
 | Chunk | Meaning | Example | Notes |
 |---|---|---|---|
-| a billboard | a very large outdoor board for ads | Fast-food **billboards** line the highway into town. | C · neutral · BrE also: *a hoarding* |
-| a pop-up ad | an ad that suddenly opens in a new window on a website | **Pop-up ads** make many websites almost impossible to use. | C · neutral |
-| an ad blocker | software that stops ads from appearing online | Millions of people now use **ad blockers**. | C · neutral |
-| a jingle | a short, catchy song used in ads | Most people can still sing the **jingle** from their favorite childhood commercial. | C · neutral |
-| an infomercial | a long TV ad presented like a show | Late-night **infomercials** sell everything from knives to fitness equipment. | C · neutral · mainly AmE |
-| word of mouth | people telling each other about a product | Small businesses often grow through **word of mouth**. | U · neutral · adj: *word-of-mouth advertising* |
-| a brand ambassador | sb paid to represent and promote a brand | The tennis star became a **brand ambassador** for a watch company. | C · neutral |
-| a disclaimer | a statement that limits a company's responsibility | The **disclaimer** was hidden at the bottom of the screen. | C · neutral |
-| hidden fees | extra charges that are not shown clearly at first | The "cheap" flight came with dozens of **hidden fees**. | C, plural · neutral · also *hidden charges* |
-| a bait-and-switch | advertising a cheap item, then pushing a more expensive one | The "sale" turned out to be a classic **bait-and-switch**. | C / U · neutral · mainly AmE · also *bait-and-switch tactics* |
-| browsing history | a record of the websites sb has visited | Advertisers use your **browsing history** to choose which ads you see. | U · neutral |
-| raise privacy concerns | make people worried about how their data is used | Smart speakers have **raised privacy concerns**. | neutral · also *address privacy concerns* |
-| substantiate a claim | provide evidence that a claim is true | Companies must be able to **substantiate** every **claim** they make. | formal · noun: *unsubstantiated claims* |
-| carry a warning | have a warning printed on it | Cigarette packs must **carry** a health **warning**. | neutral · also *carry a label* |
-| comply with regulations | obey official rules | All ads must **comply with** advertising **regulations**. | formal · noun: *compliance* · NOT *comply to* |
-| a class-action lawsuit | a court case brought by a large group of people together | Customers filed **a class-action lawsuit** over the false claims. | C · neutral · mainly AmE · *file / settle* a lawsuit |
-| launch an ad campaign | start a planned series of ads | The brand **launched an ad campaign** aimed at teenagers. | neutral · also *run an ad campaign* |
-| tone sth down | make sth less extreme or offensive | The company **toned down** the ad after complaints. | separable · neutral |
-| pass sth off as sth | pretend that sth is sth else in order to deceive | Some sellers **pass off** paid posts **as** honest opinions. | separable · neutral · also *pass yourself off as sb* |
-| opt out (of sth) | choose not to take part in sth | Users should be able to **opt out of** targeted advertising. | intransitive · neutral · opposite: *opt in* |
-| go viral | spread very quickly online | The ad **went viral** within hours of its release. | neutral · adj: *a viral video* |
-| come under fire | be strongly criticized | The brand **came under fire** for its misleading green claims. | neutral (journalistic) |
-| a red flag | a sign that sth may be wrong | Pressure to "buy now" is a **red flag** for a scam. | C · neutral |
-| a slap on the wrist | a punishment that is too light | A small fine is just **a slap on the wrist** for a global company. | C (singular) · informal-neutral |
+| a billboard | a very large outdoor board for ads | Fast-food chains line the highway into town with **billboards**, thus ensuring that drivers see their logos every few minutes. | C · neutral · BrE also: *a hoarding* · Grammar: result clause with thereby/thus |
+| a pop-up ad | an ad that suddenly opens in a new window on a website | Some websites contain so many **pop-up ads** that they are almost impossible to use on a phone. | C · neutral · Grammar: so/such… that |
+| an ad blocker | software that stops ads from appearing online | Millions of people now use **ad blockers**, which has forced many websites to find other sources of revenue. | C · neutral · Grammar: sentential relative |
+| a jingle | a short, catchy song used in ads | Heard hundreds of times in childhood, a catchy **jingle** can stay in people's heads for decades. | C · neutral · Grammar: participle clause |
+| an infomercial | a long TV ad presented like a show | Late-night **infomercials**, in which presenters demonstrate everything from knives to fitness equipment, target viewers who cannot sleep. | C · neutral · mainly AmE · Grammar: relative: whose / whereby / in which |
+| word of mouth | people telling each other about a product | It is **word of mouth**, not expensive advertising, that helps most small businesses grow in their first years. | U · neutral · adj: *word-of-mouth advertising* · Grammar: cleft sentence |
+| a brand ambassador | sb paid to represent and promote a brand | If the tennis star had not become **a brand ambassador** for the watch company, she would be far less wealthy now. | C · neutral · Grammar: mixed conditional |
+| a disclaimer | a statement that limits a company's responsibility | **Disclaimers** should be displayed clearly instead of being hidden at the bottom of the screen in tiny letters. | C · neutral · Grammar: modal passive |
+| hidden fees | extra charges that are not shown clearly at first | The cheaper an airline's advertised fares are, the more **hidden fees** you should expect to pay. | C, plural · neutral · also *hidden charges* · Grammar: the more…, the more… |
+| a bait-and-switch | advertising a cheap item, then pushing a more expensive one | We should have realized that the "sale" was a classic **bait-and-switch** when the advertised laptop suddenly became unavailable. | C / U · neutral · mainly AmE · also *bait-and-switch tactics* · Grammar: modal perfect |
+| browsing history | a record of the websites sb has visited | Many users would rather advertisers didn't use their **browsing history** to decide which ads they see. | U · neutral · Grammar: unreal past |
+| raise privacy concerns | make people worried about how their data is used | Smart speakers can record conversations in people's homes, which has **raised** serious **privacy concerns** among consumers. | neutral · also *address privacy concerns* · Grammar: sentential relative |
+| substantiate a claim | provide evidence that a claim is true | No matter how small the company is, it must be able to **substantiate** every **claim** it makes. | formal · noun: *unsubstantiated claims* · Grammar: no matter / however |
+| carry a warning | have a warning printed on it | Were cigarette packs not required to **carry** a health **warning**, many smokers would underestimate the risks. | neutral · also *carry a label* · Grammar: inversion conditional |
+| comply with regulations | obey official rules | All ads must **comply with** advertising **regulations**, thereby protecting consumers from false and harmful claims. | formal · noun: *compliance* · NOT *comply to* · Grammar: result clause with thereby/thus |
+| a class-action lawsuit | a court case brought by a large group of people together | The manufacturer should have known that its false claims would eventually lead to **a class-action lawsuit**. | C · neutral · mainly AmE · *file / settle* a lawsuit · Grammar: modal perfect |
+| launch an ad campaign | start a planned series of ads | The brand **launched an ad campaign** whose main target was teenagers who spend hours on social media. | neutral · also *run an ad campaign* · Grammar: relative: whose / whereby / in which |
+| tone sth down | make sth less extreme or offensive | Only after hundreds of viewers complained did the company agree to **tone down** its controversial ad. | separable · neutral · Grammar: negative inversion |
+| pass sth off as sth | pretend that sth is sth else in order to deceive | While they claim to be honest reviewers, some influencers **pass off** paid posts **as** genuine opinions. | separable · neutral · also *pass yourself off as sb* · Grammar: concession |
+| opt out (of sth) | choose not to take part in sth | Users should be allowed to **opt out of** targeted advertising with a single click. | intransitive · neutral · opposite: *opt in* · Grammar: modal passive |
+| go viral | spread very quickly online | The ad was so funny that it **went viral** within hours of its release. | neutral · adj: *a viral video* · Grammar: so/such… that |
+| come under fire | be strongly criticized | The reason the brand **came under fire** was that its "green" claims could not be proven. | neutral (journalistic) · Grammar: cleft sentence |
+| a red flag | a sign that sth may be wrong | Pressure to "buy now before it's too late" is widely considered to be **a red flag** for an online scam. | C · neutral · Grammar: impersonal passive |
+| a slap on the wrist | a punishment that is too light | The bigger the company, the more a regulator's fine feels like just **a slap on the wrist**. | C (singular) · informal-neutral · Grammar: the more…, the more… |
 
 ## Text 1 — Discuss both views and give your opinion
 > Advertisements often exaggerate the benefits of the products they promote. Some people think this is harmless, while others believe advertising should be controlled more strictly. Discuss both views and give your own opinion.
